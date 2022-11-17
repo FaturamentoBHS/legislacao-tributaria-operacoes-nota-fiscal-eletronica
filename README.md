@@ -1,2 +1,5 @@
-# Leis que acobertam as Operações com Nota Fiscal Eletrônica (NF-e)
+# Arquivos com as Leis que regem as Operações de Notas Fiscais Eletrônica.
 
+## 
+
+## 
