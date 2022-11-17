@@ -1,0 +1,14 @@
+inciso IV do artigo 4º do RICMS/2000 SP:
+                IV - devolução de mercadoria, a operação que tenha por objeto anular todos os efeitos de uma operação anterior;
+
+
+a) o contribuinte enquadrado no CRT 2 ou 3 que devolver mercadoria para contribuinte enquadrado no CRT 1 deverá utilizar CST 90, exceto quando a saída original tiver sido enquadrada no CSOSN 300 ou 500, hipótese em que deverá ser utilizado, respectivamente, o CST 41 ou 60;
+
+b) o contribuinte enquadrado no CRT 1 que devolver mercadoria para contribuinte enquadrado no CRT 2 ou 3 deverá utilizar CSOSN 900, exceto quando a saída original tiver sido enquadrada no CST 41 ou 60, hipótese em que deverá ser utilizado, respectivamente, o CST 300 ou 500.
+
+
+Resolução CGSN nº 140/2018, ART. 59, § 9º 
+
+Devolução de Simples Nacional ME E EPP para Empresas do REGIME NORMAL - INDICAÇÃO DO ICMS PRÓPRIO EM CAMPO PRÓPRIO
+
+Na hipótese de emissão de Nota Fiscal Eletrônica (NF-e), modelo 55, não se aplicará o disposto nos §§ 5º a 8º, e a base de cálculo e o ICMS porventura devido devem ser indicados nos campos próprios, conforme estabelecido em manual de especificações e critérios técnicos da NF-e, baixado nos termos do Ajuste SINIEF que instituiu o referido documento eletrônico. (Lei Complementar nº 123, de 2006, art. 26, inciso I e § 4º) (Redação dada pelo(a) Resolução CGSN nº 142, de 21 de agosto de 2018)

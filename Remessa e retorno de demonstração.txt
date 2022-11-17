@@ -1,0 +1,412 @@
+Remessa e retorno de demonstração
+Resumo:
+
+Veremos no presente Roteiro os procedimentos previstos na legislação bandeirante e do Imposto sobre Produtos Industrializados (IPI) para a remessa e retorno de demonstração. Para tanto, utilizaremos como referência o Regulamento do ICMS do Estado (RICMS/2000-SP), o Regulamento do IPI (RIPI/2010) e o Ajuste Sinief nº 02/2018, cuja aplicação tem abrangência nacional. Referida norma (Ajuste Sinief) ainda diferencia as operações de demonstração das operações de mostruário, determinando os procedimentos em cada uma dessas hipóteses.
+
+linkedin sharing buttonfacebook sharing buttontwitter sharing buttonwhatsapp sharing buttontelegram sharing button
+Postado em: 04/10/2020 - Área: Manual de emissão de Notas Fiscais.
+
+
+ 
+1) Introdução:
+O cliente antes de efetuar determinada compra pode querer conhecer mais profundamente o produto que está adquirindo, objetivando, desta forma, avaliar suas características físicas, de desempenho, de segurança, de qualidade, etc. A legislação ciente dessa possibilidade tipificou a operação de remessa e retorno de mostruário, assim, é comum às empresas remeterem mercadoria a título de amostra, com valor comercial, a empregado ou representante comercial (viajante) com o objetivo de estes apresentarem o produto aos seus potencias clientes.
+
+A operação de remessa de mostruário é muito utilizada por empresas que atuam tanto no mercado atacadista como no varejista. Assim, por exemplo, um vendedor sai da empresa levando amostras da nova coleção de calçados de couro para que lojistas de uma determinada região conheçam de fato o produto, e não só por meio de um catálogo, antes de efetuarem suas respectivas encomendas.
+
+No Estado de São Paulo, a legislação do ICMS (artigo 129-C do RICMS/2000-SP) prevê procedimentos especiais a serem observados pelos contribuintes do imposto para realização dessa operação.
+
+Diante da importância do tema para as empresas, sejam elas micros, pequenas, médias ou grandes, veremos no presente Roteiro os procedimentos fiscais previstos na legislação bandeirante e na do Imposto sobre Produtos Industrializados (IPI) para a remessa e retorno de mercadorias consideradas como mostruário. Para tanto, utilizaremos como referência o Regulamento do ICMS do Estado de São Paulo (RICMS/2000-SP), aprovado pelo Decreto nº 45.490/2000, o Regulamento do IPI (RIPI/2010), aprovado pelo Decreto nº 7.212/2010 e o Ajuste Sinief nº 2/2018, cuja aplicação tem abrangência nacional. Referida norma (Ajuste Sinief) ainda diferencia as operações de demonstração das operações de mostruário, determinando os procedimentos em cada uma dessas hipóteses.
+
+Por fim, gostaríamos de lembrar aos amigos leitores que a Valor Consulting é uma consultoria tributária especializada na estruturação de departamento fiscal, bem como na estruturação e operacionalização de operações fiscais específicas, como essa de remessa e retorno para mostruário. Assim, caso precise de consultoria para esses tipos de projetos, entre em contato com nossa equipe de consultores e/ou departamento fiscal e veja como a Valor Consulting pode lhe ajudar... Seja Valor você também!!!
+
+Base Legal: Preâmbulo e cláusula 1º do Ajuste Sinief nº 2/2018; RIPI/2010; Art. 2º, caput, III do Decreto nº 53.480/2008; Art. 129-C do RICMS/2000-SP; PN CST nº 239/1971 e; RC nº 615/1982 (Checado pela Valor em 04/10/20).
+2) Conceitos:
+2.1) Demonstração:
+Considera-se demonstração à operação pela qual o contribuinte remete mercadorias a terceiros, em quantidade estritamente necessária para se conhecer o produto em suas características essenciais. Assim, por exemplo, sendo o remetente uma indústria de televisores, ao dar saída em demonstração de seus produtos para um comércio, que poderá vir a adquiri-los futuramente para posterior revenda, deverá remeter uma unidade de cada modelo, se for o caso, e não dezenas ou centenas de exemplares.
+
+Portanto, o objetivo dessa operação é permitir ao potencial cliente a possibilidade de examinar, testar, avaliar o funcionamento, o desempenho e as características do produto, antes de decidir pela aquisição ou não.
+
+Nota Valor Consulting:
+
+(1) Leia nosso Roteiro de Procedimentos intitulado "Remessa e retorno de demonstração", em nosso "Manual de Emissão de Notas Fiscais" e fique por dentro de toda operacionalidade da operação de demonstração. Este material é constantemente atualizado a fim de absorver as mudanças normativas do ICMS e do IPI.
+
+Base Legal: Cláusula 2º do Ajuste Sinief nº 2/2018 e; Art. 129-B, § 1º do RICMS/2000-SP (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2.2) Mostruário:
+Considera-se mostruário a amostra de mercadoria formada por peças únicas, ainda que o produto seja composto por mais de uma unidade com características idênticas. Além disso, na operação com mostruário ocorre a remessa de amostra de mercadoria, com valor comercial, a empregado ou representante, com o objetivo de estes apresentarem o produto aos seus potenciais clientes.
+
+No que se refere ao mostruário, cabe ainda observar que:
+
+não se considera mostruário aquele formado por mais de uma peça com características idênticas, tais como, mesma cor, mesmo modelo, espessura, acabamento e numeração diferente;
+na hipótese de produto formado por mais de uma unidade, tais como: meias, calçados, luvas, brincos, somente é considerado como mostruário se composto apenas por uma unidade das partes que o compõem. Por exemplo, um dos sapatos que compõe o par, umas das luvas que compõe o par, uma das meias que compõe o par, etc.
+Base Legal: Cláusula 3º do Ajuste Sinief nº 2/2018 (Checado pela Valor em 04/10/20).
+3) Tratamento Fiscal:
+3.1) Quanto ao ICMS:
+As saídas de mostruário estão beneficiadas pela suspensão do ICMS, conforme cláusula 10ª do Ajuste Sinief nº 2/2018. Esse dispositivo estabelece que a fica suspenso o ICMS incidente na saída de mercadoria remetida para mostruário, condicionado ao retorno da mercadoria ao estabelecimento de origem em até 90 (noventa dias), contados da data da saída, podendo ser prorrogado por igual período a critério da Unidade Federada (UF).
+
+Diga-se de passagem que essa suspensão abrange, inclusive, o recolhimento do imposto correspondente à diferença entre a alíquota interna do Estado destinatário e a alíquota interestadual, previsto no Convênio ICMS nº 93/2015, ou seja, na saída de mostruário destinada a não contribuinte localizado em outra UF, o recolhimento, pelo remetente, do Diferencial de Alíquota (Difal), previsto na Emenda Constitucional nº 87/2015 e no referido Convênio, também goza da suspensão do recolhimento.
+
+Registra-se que a não tributação alcança tanto as saídas internas como as interestaduais.
+
+Base Legal: Cláusula 10ª do Ajuste Sinief nº 2/2018 e; Art. 129-C, § 2º do RICMS/2000-SP (Checado pela Valor em 04/10/20).
+3.1.1) Prorrogação do prazo - Impossibilidade:
+Estabelece o Ajuste Sinief nº 2/2018 que, a critério do Estado de origem da mercadoria, o prazo de 90 (noventa) dias poderá ser prorrogado por igual período, entretanto, o Estado de São Paulo silenciou-se sobre o assunto. Diante disso, entendemos que o referido prazo não poderá ser prorrogado no Estado de São Paulo.
+
+Base Legal: Cláusula 10ª, caput do Ajuste Sinief nº 2/2018 (Checado pela Valor em 04/10/20).
+3.1.2) Inobservância do prazo para retorno:
+Ocorrendo das mercadorias não retornar dentro do prazo de 90 (noventa) dias, restará descaracterizada a operação de mostruário, hipótese em que o remetente deverá recolher o ICMS dispensado quando da saída a título de remessa.
+
+O recolhimento se dará mediante a observância do seguinte procedimento:
+
+emitir Nota Fiscal Complementar para lançamento do ICMS, fazendo a menção dos dados da Nota Fiscal original no campo "DADOS ADICIONAIS" do referido documento;
+recolher, em Guia de Arrecadação Estadual do ICMS (Gare-ICMS) específica (código de recolhimento "063-2 - Outros recolhimentos especiais"), a diferença do imposto com as especificações necessárias à regularização, indicando, na via fixa da Nota Fiscal (no caso de não utilização de NF-e) essa circunstância, bem como o número da autenticação e a data da guia de recolhimento;
+registrar o valor do imposto recolhido na forma da letra "b" no LRAICMS, no quadro "Crédito do Imposto - Estornos de Débitos", com a expressão "Diferença do Imposto - Guia de Recolhimento nº ____, de __/__/____". Em se tratando de Sped-Fiscal, registrar referido valor no Registro E110 da EFD-ICMS/IPI, no campo "VL_ESTORNOS_DEB" também com a expressão "Diferença do Imposto - Guia de Recolhimento nº ____, de __/__/____";
+escriturar a Nota Fiscal Complementar no LRS, inclusive na coluna "ICMS - Valores Fiscais - Operações com Débito do Imposto", indicando a ocorrência, na coluna "Observações", nas linhas correspondentes aos lançamentos do documento fiscal original e do documento fiscal complementar. Em se tratando de Sped-Fiscal, escriturar a Nota Fiscal no Registro C100 da EFD-ICMS/IPI - Saídas, indicando a ocorrência no Registro C195 da EFD-ICMS/IPI; e
+enviar a Nota Fiscal Complementar ao destinatário para que seja feita sua escrituração no LRE ou no Sped-Fiscal, conforme o caso, do estabelecimento.
+Como podemos verificar na letra "c" acima, o valor do ICMS recolhido por meio de Gare-ICMS deve ser estornado no LRAICMS ou Sped-Fiscal do estabelecimento, conforme o caso. Esse procedimento se justifica, pois a Nota Fiscal Complementar será normalmente escriturada no LRS (letra "c" acima), o que ocasionará 2 (dois) débitos, sendo:
+
+um débito pelo recolhimento por Gare-ICMS (letra "c"); e
+um débito pelo lançamento da Nota Fiscal no LRS (letra "d").
+Assim, é necessário que se faça o estorno da diferença do imposto recolhido por de Gare-ICMS, evitando, desta forma, recolhimento em duplicidade do ICMS.
+
+Por fim, caso a regularização da documental fiscal ser feito após o prazo de recolhimento do ICMS sobre a apuração, ou seja, após o período em que foi emitida a Nota Fiscal originária, o recolhimento deve ser feito com os acréscimos legais cabíveis.
+
+Nota Valor Consulting:
+
+(2) A regularização fora do período de apuração do imposto não acarreta na entrega de GIA-Substitutiva, pois o valor do imposto devido pela diferença constará na GIA correspondente ao período em que foi emitida a Nota Fiscal Complementar.
+
+Base Legal: Arts. 182, caput, IV, §§ 2º e 3º, 528 e 565 do RICMS/2000-SP (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.1.2.1) Hipótese de existência de saldo credor:
+Fica dispensado do recolhimento e do registro tratados nas letras "b" (pagamento com GARE-ICMS específica) e "c" (registro no LRAICMS ou no Registro E110 da EFD-ICMS/IPI, conforme o caso) do subcapítulo 3.1.2 acima, se, no período de apuração em que tiver sido emitido o documento fiscal original e nos períodos subsequentes, até o imediatamente anterior ao da emissão do Nota Fiscal Complementar, o contribuinte tiver mantido saldo credor do imposto nunca inferior ao valor da diferença.
+
+Neste caso, o contribuinte apenas escriturará a Nota Fiscal Complementar no LRS ou no Sped-Fiscal na forma descrita na letra "d" do subcapítulo 3.1.2 acima e a remeterá ao estabelecimento destinatário (Ver letra "e" do subcapítulo 3.1.2).
+
+Base Legal: Art. 182, §§ 2º e 3º do RICMS/2000-SP e; RC nº 10.115/1976 (Checado pela Valor em 04/10/20).
+3.1.2) Operações isentas ou não tributadas:
+O disposto no Ajuste Sinief nº 2/2018 aplica-se, no que couber, às operações com mercadorias isentas ou não tributadas.
+
+Base Legal: Cláusula 14ª, caput, "a" do Ajuste Sinief nº 2/2018 (Checado pela Valor em 04/10/20).
+3.2) Quanto ao IPI:
+A legislação Federal não prevê qualquer benefício fiscal relacionado ao IPI quando das saídas de produtos a título de remessa e/ou retorno de mostruário, realizadas com representantes comerciais ou vendedores. Assim, referida operação deverá ser normalmente tributada por esse imposto, de acordo com a classificação fiscal e a alíquota do produto prevista na Tabela de Incidência do IPI (TIPI/2016), salvo quando o produto estiver amparado por algum benefício fiscal previsto na legislação.
+
+Base Legal: Art. 189 do RIPI/2010 e; TIPI/2016 (Checado pela Valor em 04/10/20).
+3.2.1) Base de Cálculo (BC):
+A Base de Cálculo (BC) do IPI nas saídas de produtos a título de mostruário corresponderá ao preço corrente do produto ou de seu similar, no mercado atacadista da praça do remetente.
+
+Quanto ao alcance da expressão "mercado atacadista da praça do remetente", os itens 6 e 7 do Parecer Normativo CST nº 44/1981, transcritos a seguir, trazem os seguintes esclarecimentos sobre o assunto:
+
+Parecer Normativo CST nº 44/1981
+
+Quando a determinação do valor tributável para efeito de cálculo do IPI for efetuada através dos preços praticados no mercado atacadista da praça do remetente, será considerado o universo das vendas realizadas naquela localidade.
+
+(...)
+
+6. Registram os Dicionários de Língua Portuguesa que mercado, convencionalmente, significa a referência feita em relação à compra e venda de determinados produtos.
+
+6.1 Isto significando, por certo, que numa mesma cidade, ou praça comercial, o mercado atacadista de determinado produto, como um todo, deve ser considerado relativamente ao universo das vendas que se realizam naquela mesma localidade, e não somente em relação àquelas vendas efetuadas por um só estabelecimento, de forma isolada.
+
+7. Por isso, os preços praticados por outros estabelecimentos da mesma praça que a do contribuinte interessado em encontrar o valor tributável do IPI através do preço corrente no mercado atacadista devem ser considerado para o cálculo.
+
+Base Legal: Art. 192 do RIPI/2010 e; Itens 6 e 7 do PN CST nº 44/1981 (Checado pela Valor em 04/10/20).
+3.2.2) Isenção:
+Regra geral, as remessas de mostruários devem ser normalmente tributadas pelo IPI. Porém, determinados produtos são beneficiados com a isenção do imposto, benefício este aplicável nas saídas a qualquer título, inclusive a título de mostruário, como por exemplo:
+
+os pés isolados de calçados, conduzidos por viajante do estabelecimento industrial, desde que tenham gravada, no solado, a expressão "Amostra para Viajante";
+os produtos industrializados na Zona Franca de Manaus (ZFM), por estabelecimentos com projetos aprovados pela Superintendência da Zona Franca de Manaus (Suframa), que não sejam industrializados pelas modalidades de acondicionamento ou reacondicionamento, destinados à comercialização em qualquer outro ponto do território nacional, excluídos as armas e munições, fumo, bebidas alcoólicas e automóveis de passageiros e produtos de perfumaria ou de toucador, preparados ou preparações cosméticas, salvo quanto a estes (Posições 33.03 a 33.07 da TIPI) se produzidos com utilização de matérias-primas da fauna e flora regionais, em conformidade com processo produtivo básico;
+etc.
+Base Legal: Arts. 54, caput, V e 81, caput II do RIPI/2010 (Checado pela Valor em 04/10/20).
+3.2.3) Retorno:
+Considerando que normalmente os produtos remetidos a título de mostruário são destinados a pessoas físicas ou jurídicas não contribuintes do ICMS e do IPI, portanto, pessoas desobrigadas da emissão de documentos fiscais, o seu retorno será acompanhado por carta ou memorando emitido pelo remetente, competindo ao vendedor à emissão da Nota Fiscal relativa à entrada do mostruário.
+
+A Nota Fiscal de Entrada deverá ser emitida com todos os requisitos regulamentares, devendo conter, ainda, a indicação do número, da data da emissão da Nota Fiscal originária (de remessa do mostruário) e do valor do IPI destacado na Nota Fiscal de remessa.
+
+Caso o destinatário assuma o encargo de retirar ou de transportar o produto, a referida Nota Fiscal relativa à entrada servirá para acompanhá-lo no seu trânsito.
+
+Base Legal: Art. 232 do RIPI/2010 (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.3) Quanto ao Simples Nacional:
+De acordo com o artigo 16 da Resolução CGSN nº 140/2018, a Base de Cálculo (BC) para a determinação do valor devido mensalmente pela microempresa (ME) ou pela empresa de pequeno porte (EPP) optante pelo Simples Nacional será a receita bruta total mensal auferida (Regime de Competência) ou recebida (Regime de Caixa), conforme opção feita pelo contribuinte. Portanto, temos que as empresas de optantes pelo Simples Nacional somente tributam às operações quando há receita auferida.
+
+Respaldando esse dispositivo, veio o Ajuste Sinief nº 2/2018 estabelecer que a operação de remessa de mostruário tratadas nesse dispositivo, e seu respectivo retorno, não se aplica às operações efetuadas por contribuintes optantes do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+
+Base Legal: Cláusula 14ª, caput, "b" do Ajuste Sinief nº 2/2018 e; Art. 16, caput da Resolução CGSN nº 140/2018 (Checado pela Valor em 04/10/20).
+4) Procedimentos (Emissão e escrituração de Notas Fiscais):
+O trânsito de mercadoria remetida para mostruário, em todo o território nacional, deverá ser efetuado mediante a emissão de Nota Fiscal, desde que a mercadoria retorne ao estabelecimento no prazo máximo de 90 (noventa) dias. O retorno também deverá estar acompanhado de documento fiscal hábil.
+
+Veremos nesse capítulo os procedimentos fiscais previstos na legislação do ICMS e do IPI para emissão das Notas Fiscais de remessa e de retorno de mostruário.
+
+Base Legal: Art. 129-C, § 2º do RICMS/2000-SP (Checado pela Valor em 04/10/20).
+4.1) Remessa de mostruário:
+Na saída de mercadoria destinada a mostruário o contribuinte deverá emitir Nota Fiscal sem destaque do ICMS e com lançamento do IPI (quando devido), contendo, além dos demais requisitos previstos na legislação, as seguintes indicações:
+
+no campo destinatário, o nome do seu empregado ou representante comercial;
+no campo natureza da operação, a expressão "Remessa de mostruário";
+no campo CFOP, o código 5.912 ou 6.612, conforme tratar-se de operação interna ou interestadual, respectivamente;
+no campo CST/ICMS, o código "X90 - Outras", sendo "X" o indicador de origem da mercadoria (3);
+no campo "Informações Complementares", a expressão "Mercadoria pertencente ao estoque, enviada ao nosso vendedor (ou representante) para compor mostruário de vendas" e "Imposto suspenso nos termos do Ajuste Sinief nº 02/2018".
+Enfatizamos que o trânsito de mercadoria destinada a mostruário, em todo o território nacional, deve ser efetuado com a Nota Fiscal mencionada, desde que a mercadoria retorne ao estabelecimento de origem no prazo de 90 (noventa) dias.
+
+A Nota Fiscal de remessa de mostruário deverá ser escriturada no Livro Registro de Saídas (LRS) (4), Modelo 2 ou 2-A, do estabelecimento emitente, utilizando-se as seguintes colunas:
+
+"ICMS - Valores Fiscais - Operações ou Prestações sem Débito do Imposto"; e
+"IPI - Valores Fiscais - Operações com Débito do Imposto", quando contribuinte deste imposto.
+Caso o estabelecimento emitente esteja obrigado à entrega da Escrituração Fiscal Digital (EFD), comumente chamada de Sped-Fiscal, deverá lançar essa Nota Fiscal nos Registros próprios dessa obrigação acessória. Registra-se que, a entrega do Sped-Fiscal supre a necessidade de escriturar a Nota Fiscal no LRS.
+
+Notas Valor Consulting:
+
+(3) Recomendamos a leitura de nosso Roteiro intitulado" Código de Situação Tributária (CST/ICMS)" em nossa área de Tabelas do ICMS (SP), assim, você ficará inteirado de todos os CSTs possíveis de serem utilizados.
+
+(4) Caso o contribuinte esteja sujeito à escrituração do Livro Registro de Controle da Produção e do Estoque (LRCPE), Modelo 3, também deverá registrar nesse livro a movimentação da mercadoria remetida para mostruário.
+
+Base Legal: Cláusulas 11ª e 12ª do Ajuste Sinief nº 2/2018; Arts. 127, I, "i" e "j", II, IV, "d" e VII, "a", 129-C, caput, I a V, 215 e 216 do RICMS/2000-SP e; Arts. 413, I, "i" e "j", II, IV, "d" e VII, "a" e 459 a 464 do RIPI/2010 (Checado pela Valor em 04/10/20).
+4.1.1) Remessa de mostruário para treinamento:
+Na saída de mercadoria a título de mostruário para treinamento, o contribuinte deverá emitir Nota Fiscal sem destaque do ICMS e com lançamento do IPI (quando devido), contendo, além dos demais requisitos previstos na legislação, as seguintes indicações:
+
+como destinatário, o próprio remetente;
+no campo natureza da operação, a expressão "Remessa para treinamento";
+no campo CFOP, o código 5.912 ou 6.912, conforme tratar-se de operação interna ou interestadual, respectivamente;
+no campo "Informações Complementares", o endereço do local de treinamento.
+Base Legal: Ajuste Sinief nº 16/2016 e; Art. 129-C, § 3º do RICMS/2000-SP (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.2) Retorno de mostruário:
+No retorno das mercadorias anteriormente remetidas para mostruário ou treinamento, considerando que normalmente os produtos remetidos são destinados a vendedores ou representantes não contribuintes do ICMS, portanto, não obrigados à emissão de Nota Fiscal, o retorno poderá ser acompanhado de declaração, ou de Nota Fiscal avulsa, conforme dispuser a legislação do Estado remetente, competindo ao contribuinte destinatário (remetente originário) emitir Nota Fiscal relativa à entrada do mostruário, sem destaque do ICMS e com o lançamento do IPI (quando devido) incidente na saída, para fins de aproveitamento do crédito fiscal do imposto Federal.
+
+Deverá constar na referida Nota Fiscal, além dos demais requisitos previstos na legislação, as seguintes indicações:
+
+no campo de identificação do destinatário: os dados do próprio emitente;
+no campo natureza da operação, a expressão "Retorno de mostruário" ou "Retorno de Treinamento", conforme o caso;
+no campo CFOP, o código 1.913 ou 2.913, conforme tratar-se de operação interna ou interestadual, respectivamente;
+a referência da chave de acesso da Nota Fiscal emitida por ocasião da remessa para mostruário ou treinamento;
+no campo "Informações Complementares" do referido documento fiscal é conveniente ainda que seja anotada as seguintes expressões: "As mercadorias acima que serviram de mostruário foram entregues ao Sr. ________________, nosso vendedor (ou representante comercial), por meio da Nota Fiscal nº ______, série (se for o caso) __, de DD/MM/AAAA, de nossa emissão" e "ICMS suspenso nos termos do Ajuste Sinief nº 02/2018".
+Na hipótese de o retorno ser realizado por contribuinte do ICMS e/ou IPI, este (destinatário originário) deverá emitir Nota Fiscal sem o destaque do ICMS e com a indicação do IPI incidente na saída, contendo, além dos demais requisitos previstos na legislação, as seguintes indicações:
+
+como destinatário, o estabelecimento de origem;
+no campo natureza da operação, a expressão "Retorno de mostruário";
+no campo CFOP, o código 5.913 ou 6.913, conforme tratar-se de operação interna ou interestadual, respectivamente;
+no campo "Informações Complementares" do referido documento fiscal é conveniente ainda que seja anotada as seguintes expressões: "As mercadorias acima que serviram de mostruário foram entregues ao Sr. ________________, nosso vendedor (ou representante comercial), por meio da Nota Fiscal nº ______, série (se for o caso) __, de DD/MM/AAAA, de nossa emissão" e "ICMS suspenso nos termos do Ajuste Sinief nº 02/2018".
+A Nota Fiscal de Entrada ou a Nota Fiscal emitida pelo contribuinte do ICMS, conforme o caso, deverá ser escriturada no Livro Registro de Entradas (LRE) (7), Modelo 1 ou 1-A, do estabelecimento originário, utilizando-se as seguintes colunas:
+
+"ICMS - Valores Fiscais - Operações ou Prestações sem Crédito do Imposto"; e
+"IPI - Valores Fiscais - Operações com Crédito do Imposto", quando contribuinte deste imposto.
+Caso o estabelecimento originário esteja obrigado à entrega do Sped-Fiscal, deverá lançar a Nota Fiscal de Entrada ou a Nota Fiscal emitida pelo contribuinte do ICMS, conforme o caso, nos Registros próprios dessa obrigação acessória. Registra-se que, a entrega do Sped-Fiscal supre a necessidade de escriturar a Nota Fiscal no LRE.
+
+Nota Valor Consulting:
+
+(5) Caso o contribuinte esteja sujeito à escrituração do LRCPE, Modelo 3, também deverá registrar nesse livro a movimentação da mercadoria remetida para mostruário.
+
+Base Legal: Cláusula 13ª do Ajuste Sinief nº 2/2018; Arts. 129-C, § 4º, 136, I, "a", 214 e 216 do RICMS/2000-SP e; Arts. 434, I e VII, 456 a 458 e 461 a 464 do RIPI/2010 (Checado pela Valor em 04/10/20).
+4.2.1) Crédito Fiscal do IPI:
+O valor do IPI que tenha incidido na saída (ou remessa) do mostruário poderá ser aproveitado como crédito, por ocasião do retorno, independentemente de qualquer prazo. Contudo, se a mercadoria não for objeto de nova saída tributada ou não tributada com manutenção do crédito fiscal, em razão de obsolescência, deterioração, etc., cumprirá ao contribuinte estornar o crédito do imposto, se for o caso, correspondente à entrada originária.
+
+Nesse sentido, recomendamos a leitura do Parecer Normativo CST nº 239/1971 que bem trata do assunto:
+
+Parecer Normativo CST nº 239, de 1971
+
+Mostruários distribuídos a representantes e devolvidos ao estabelecimento industrial.
+
+Fato gerador do Imposto: inciso III, do art. 7º do RIPI, Decreto 61.514/67. Crédito: inciso IV, do art. 30, do RIPI – Procedimento: § 2º, do art. 32, do RIPI.
+
+01 – IPI
+
+01.10 – Crédito (Devolução)
+
+1. Indústria de confecções envia periodicamente aos seus representantes, a título de mostruário, produtos de sua fabricação os quais são posteriormente devolvidos, sendo, então, vendidos ou distribuídos como doações.
+
+2. A saída de produto de estabelecimento industrial é fato gerador do Imposto, por excelência, não importando, para descaracterizar a obrigação daí decorrente, o título pelo qual ela se tenha efetuado (RIPI, art. 7º, inciso III; Lei nº 4.502/64, art. 2º, § 2º).
+
+3. De acordo com o art. 30, inciso IV, do RIPI, o contribuinte terá direito a crédito pelo Imposto pago na saída do produto quando este for devolvido, atendido o disposto no art. 32 do citado Regulamento. No caso, os representantes, por não se enquadrarem entre os que podem emitir nota fiscal, equiparam-se aos particulares para efeitos do previsto no § 2º, do referido art. 32, portanto, o produto devolvido deverá estar acompanhado da nota fiscal de aquisição onde serão declarados os motivos da devolução.
+
+4. O retorno, no caso presente, não está sujeito a prazo certo visto que o RIPI só edita normas especiais para os produtos das Posições 71.01 a 71.15 da Tabela a ele anexa (RIPI, art. 314, § 3º, inciso III).
+
+Base Legal: Arts. 59, 61 e 67 do RICMS/2000-SP; Arts. 225 e 254, IV do RIPI/2010 e; PN CST nº 239/1971 (Checado pela Valor em 04/10/20).
+5) Exemplo Prático:
+A fim de exemplificar os procedimentos tratados neste Roteiro, suponhamos que a empresa fictícia Vivax Indústria e Comércio de Eletrônicos Ltda., empresa com sede no Município de Campinas/SP, tenha, em 15/09/2X01, entregado ao seu vendedor Sr. José Paulo Nunes a título de mostruário 1 (um) monitor para computador (NCM: 8528.51.10). O preço unitário praticado na operação foi de R$ 1.650,00 (sem IPI).
+
+De posse dessas informações, exemplificaremos a seguir a forma de emissão das Notas Fiscais de remessa e de retorno de mostruário, bem como suas respectivas escriturações no Sped-Fiscal.
+
+Base Legal: Equipe Valor Consulting.
+5.1) Remessa de mostruário:
+Considerando as informações acima, teremos a emissão pela empresa Vivax da seguinte Nota Fiscal de Remessa para mostruário:
+
+Nota Fiscal de Remessa de mostruário
+Figura 1: Nota Fiscal de Remessa de mostruário.
+Base Legal: Equipe Valor Consulting.
+5.1.1) Escrituração da NF-e no Sped-Fiscal:
+A NF-e relativa à remessa para mostruário deverá ser lançada no Sped-Fiscal do estabelecimento emitente. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Lembramos que, para a efetiva geração do Sped-Fiscal, outros registros deverão ser apresentados, devendo o contribuinte observar as disposições do Ato Cotepe/ICMS nº 44/2018 e alterações posteriores, bem como o Guia Prático da Escrituração Fiscal Digital - EFD ICMS/IPI.
+
+Assim, considerando a Nota Fiscal de Remessa analisada no subcapítulo 5.1 acima, a Vivax deverá escriturá-la nos referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Ato Cotepe/ICMS nº 44/2018 e; Guia Prático da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.1.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal relativa à remessa para mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000154269
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	150920X1
+11	DT_E_S	150920X1
+12	VL_DOC	1897,50
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	1650,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	247,50
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+5.1.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal relativa à remessa para mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Mercadoria pertencente ao nosso estoque, enviada ao nosso vendedor para compor mostruário de vendas, devendo retornar ao nosso estabelecimento no prazo de 90 dias. ICMS suspenso nos termos do Ajuste Sinief nº 02/2018. IPI incluso na Base de Cálculo do ICMS, nos termos do artigo 37, § 1º, item "3" do RICMS/2000-SP.
+Base Legal: Registro C110 da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+5.1.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por Código de Situação Tributária (CST), Código Fiscal de Operações e Prestações (CFOP) e alíquota de ICMS. No caso da Nota Fiscal relativa à remessa para mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	090
+03	CFOP	5912
+04	ALIQ_ICMS	
+05	VL_OPR	1897,50
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	247,50
+12	COD_OBS	
+Base Legal: Registro C190 da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.2) Retorno de Mostruário:
+Suponhamos agora que, no dia 15/10/20X1, o vendedor José Paulo Nunes devolva ao estabelecimento da empresa Vivax o mostruário anteriormente recebido. Considerando que o vendedor não é contribuinte do ICMS, teremos a emissão da seguinte Nota Fiscal de Entrada pela Vivax:
+
+Nota Fiscal de Retorno de mostruário
+Figura 2: Nota Fiscal de Retorno de mostruário.
+Base Legal: Equipe Valor Consulting.
+5.2.1) Escrituração da NF-e no Sped-Fiscal:
+A NF-e relativa ao retorno de mostruário deverá ser lançada no Sped-Fiscal do estabelecimento emitente. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Lembramos que, para a efetiva geração do Sped-Fiscal, outros registros deverão ser apresentados, devendo o contribuinte observar as disposições do Ato Cotepe/ICMS nº 44/2018 e alterações posteriores, bem como o Guia Prático da Escrituração Fiscal Digital - EFD ICMS/IPI.
+
+Assim, considerando a Nota Fiscal de Retorno analisada no subcapítulo 5.2 acima, a Vivax deverá escriturá-la nos referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Ato Cotepe/ICMS nº 44/2018 e; Guia Prático da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+5.2.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal relativa ao retorno de mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	0
+03	IND_EMIT	0
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000179269
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	151020X1
+11	DT_E_S	151020X1
+12	VL_DOC	1897,50
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	1650,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	247,50
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 da EFD-ICMS/IPI.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.2.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal relativa ao retorno de mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	As mercadorias acima que serviram de mostruário foram entregues ao Sr.José Paulo Nunes, nosso vendedor, por meio da Nota Fiscal nº 159.149, de 15/09/20X1, de nossa emissão. ICMS suspenso nos termos do Ajuste Sinief nº 02/2018.
+Base Legal: Registro C110 da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).
+5.2.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por CST, CFOP e Alíquota de ICMS. No caso da Nota Fiscal relativa ao retorno de mostruário, a mesma deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	090
+03	CFOP	1913
+04	ALIQ_ICMS	
+05	VL_OPR	1897,50
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	247,50
+12	COD_OBS	
+Base Legal: Registro C190 da EFD-ICMS/IPI (Checado pela Valor em 04/10/20).

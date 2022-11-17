@@ -1,0 +1,101 @@
+Margem de Valor Agregado (MVA): O que é e como calcular
+
+EMPREENDEDORISMO
+Realizar uma gestão tributária adequada é fundamental para o bom funcionamento de sua empresa. E, para isso, é necessário conhecer o grande número de impostos existentes. Dentre eles, um dos operandos que compõem a fórmula para calcular o tributo devido em operações que se sujeitam à Substituição Tributária (ST) é a Margem de Valor Agregado (MVA).
+
+O conhecimento sobre esse índice é extremamente importante para a garantia da saúde tributária de um empreendimento. Se você deseja fazer uma boa administração de seus tributos, precisará conhecer bem a Margem de Valor Agregado. Neste texto, falaremos tudo o que é preciso saber sobre o assunto. Confira!
+
+O que é Margem de Valor Agregado ou MVA
+A Margem de Valor Agregado (MVA) também é chamada de Índice de Valor Agregado (IVA). O VA é um imposto percentual criado pela Secretaria de Fazenda de cada Unidade Federativa no Brasil para cálculo do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) que deveria ser pago por Substituição Tributária (ST).
+
+Assim como sugere o nome, seu cálculo é feito com base no valor agregado a um produto ou cadeia de produtos desde a sua saída da indústria até sua chegada às mãos do consumidor final. Então, a Margem de Valor Agregado é a porcentagem agregada ao valor pago pelo consumidor final tendo como referência o valor que tinha o produto quando saiu da indústria.
+
+Para que o governo não precise cobrar uma taxa de tributo em cada fase que um produto passa, ele é cobrado da indústria já considerando o preço que seria aplicado no último estágio de negociação.
+
+Esse índice faz parte da fórmula utilizada para calcular impostos devidos em operações sujeitas à Substituição Tributária. Nela, sua função é apresentar a margem de lucro dos produtos que será utilizada para o cálculo do ICMS.
+
+Visto que cada estado possui um ICMS diferente, o IVA foi criado com o intuito de gerar um maior equilíbrio para as empresas. Mesmo nas relações interestaduais, ele se coloca para equilibrar as transações, não permitindo que uma empresa fique em prejuízo diante de outra que se localiza em uma Unidade Federativa com alíquota de ICMS menor.
+
+Para operações interestaduais, existe a Margem de Valor Agregado Ajustada. Ela surgiu por meio de acordos entre os estados do Brasil e é utilizada para transações regulares entre vendedor e comprador que se localizam em Unidades Federativas distintas e, portanto, são regulamentadas por taxas diferentes de Imposto sobre Circulação de Mercadorias e Serviços.
+
+Planilha de controle de estoque gratuita para download
+
+Tabela
+Conforme o artigo 8º da Lei Complementar 87 de 1996, uma base de cálculo pode ser o preço final que costuma ser apresentado no mercado. Será com base nele que os cálculos de tabela MVA serão feitos e a Substituição Tributária ocorrerá.
+
+A apuração da base de cálculo acontece pelo meio da fórmula:
+
+Base de Cálculo = (Preço da mercadoria + frete + IPI + outras despesas) x MVA
+
+Com base nas regulamentações, a MVA é calculada baseada nos valores de mercado e todo bem ou mercadoria dentro de um segmento que se sujeita à Substituição Tributária será submetido a uma alíquota mesma, independentemente da Unidade Federativa onde ocorre as negociações.
+
+Um exemplo de operação interna ocorrida em uma fábrica de ferramentas de São Paulo, onde o ICMS é de 18% e sob um IPI (Imposto sobre Produtos Industrializados) de 15%, o cálculo fica:
+
+ICMS da operação própria = R$ 200,00 x 18%  = R$ 36,00
+
+Cálculo base da ST = R$ 200,00 + R$ 30,00 (IPI) + 40%* (MVA) = R$ 322,00
+
+ICMS ST = [(R$ 322,00 x 18%) – R$ 36,00) = R$ 21,96
+
+Margem de Valor Agregado e a Substituição Tributária
+Ao falar na Margem de Valor Agregado é preciso entender o que é a Substituição Tributária. Isso nada mais é que a previsão de que um imposto possa ser recolhido por um outro contribuinte que não é o que, a princípio, tem essa responsabilidade.
+
+Essa possibilidade está prevista na Constituição Federal de 1988, em seu artigo 150, parágrafo 7º, o qual diz: “A lei atribuir ao sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurado à imediato e preferencial restituição da quantia paga, caso não se realize o fato presumido gerador.”.
+
+Amparado por essa Lei, com a MVA, o governo repassa ao primeiro responsável da cadeia (geralmente a indústria, na posição de substituto tributário) a responsabilidade de recolhimento do tributo ICMS. Dessa maneira, economiza-se o trabalho de recolher um percentual de cada um dos órgãos da cadeia de distribuição e ainda adiantado o pagamento do tributo.
+
+Por exemplo, uma indústria produtora de camisetas, ao vender, recolhe o Imposto sobre Circulação de Mercadorias e Serviços que todos os demais participantes da cadeia de distribuição deveriam pagar. Dessa maneira, o recolhimento de transportadores, distribuidores e lojas será feito unicamente pelo setor da indústria.
+
+Diante disso, a Margem de Valor Agregado está intimamente ligada à Substituição Tributária, assim não seria possível realizar a MVA sem o respaldo da ST.
+
+Produtos sujeitos ao ICMS ST
+Nem todos os produtos terão seu ICMS recolhidos por meio de Substituição Tributária. O Conselho Nacional de Política Fazendária (Confaz) regulamenta quais são os bens e mercadorias estarão sujeitos ao ST pelo meio do Código Especificado da Substituição Tributária (CEST). Confira a lista de segmentos dos quais os itens estão sujeitos à ST:
+
+Autopeças;
+Bebidas alcoólicas, exceto cerveja e chope;
+Cervejas, chopes, refrigerantes, águas e outras bebidas;
+Cigarros e outros produtos derivados do fumo;
+Cimentos;
+Combustíveis e lubrificantes;
+Energia elétrica;
+Ferramentas;
+Lâmpadas, reatores e “starter”;
+Materiais de construção e congêneres;
+Medicamentos e outros produtos farmacêuticos para uso humano;
+Materiais de limpeza;
+Materiais elétricos;
+Pneumáticos, câmaras de ar e protetores de borracha;
+Produtos alimentícios;
+Papéis;
+Produtos cerâmicos;
+Produtos de papelaria;
+Plásticos;
+Produtos de perfumaria e de higiene pessoal e cosméticos;
+Produtos eletrônicos, eletroeletrônicos e eletrodomésticos;
+Rações para animais domésticos;
+Sorvetes e preparados para fabricação de sorvetes em máquinas;
+Tintas e vernizes;
+Veículos automotores;
+Veículos de duas e três rodas motorizados;
+Vidros;
+Venda de mercadorias pelo sistema porta a porta;
+Leite em recipiente de conteúdo superior a 1 litro;
+Iogurte e leite fermentado em recipiente de conteúdo superior a 2 litros;
+Manteiga, em embalagem de conteúdo superior a 1 kg;
+Margarina e creme vegetal, em recipiente de conteúdo de 1 kg;
+Outras margarinas e cremes vegetais em recipiente de conteúdo inferior a 1 kg, exceto as embalagens individuais de conteúdo inferior;
+Amendoim e castanhas tipo aperitivo, em embalagem de conteúdo superior a 1 kg;
+Azeites de oliva, em recipientes com capacidade superior a 2 litros e inferior ou igual a 5 litros;
+Azeites de oliva, em recipientes com capacidade superior a 5 litros;
+Produtos hortícolas, frutas, cascatas de frutas e outras partes de plantas, conservados com açúcar (passados por calda, glaceados ou cristalizados), em embalagens de conteúdo superior a 1 kg;
+Doces, geleias, “marmeladas”, purês e massas de frutas, obtidos por cozimento, com ou sem adição de açúcar ou de outros edulcorantes, em embalagens de conteúdo superior a 1 kg;
+Açúcar cristal adicionado de aromatizante ou de corante, em embalagens de conteúdo superior a 2 kg e inferior ou igual a 5 kg;
+Açúcar cristal adicionado de aromatizante ou de corante, em embalagens de conteúdo superior a 5 kg;
+Outros tipos de açúcar, em embalagens de conteúdo superior a 5 kg;
+Outros tipos de açúcar adicionado de aromatizante ou de corante, em embalagens de conteúdo superior a 5 kg;
+Açúcar e outros tipos, em embalagens de conteúdo superior a 2 kg e inferior ou igual a 5 kg;
+Outros açúcares, em embalagens de conteúdo superior a 5 kg;
+Chupetas e bicos de silicone para mamadeiras e chupetas;
+Lenços umedecidos.
+
+Diante de tudo, conhecer a Margem de Valor Agregado é imprescindível para alguns segmentos de empresa e, agora, você já tem os conhecimentos básicos sobre ela. Assim, poderá se precaver e seguir à risca as regras do Fisco que tratam da MVA, para que não tenha problemas tributários devidos à Substituição.

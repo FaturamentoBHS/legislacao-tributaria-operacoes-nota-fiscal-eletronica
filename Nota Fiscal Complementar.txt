@@ -1,0 +1,35 @@
+Nota Fiscal Complementar será emitida com objetivo de realizar a complementação de dados e valores, observando as hipóteses previstas no artigo 182, incisos I ao VI, do RICMS/SP
+
+Frisa-se que o documento fiscal, será emitido nos termos do artigo 124 do RICMS/SP, e com base nas regras prevista nas páginas 10 a 14 do Manual de Orientação de Preenchimento da NF-e (versão 2.02), demonstradas no tópico 3 da presente matéria.
+
+A emissão da nota fiscal complementar, seguirá, obrigatoriamente, as regras previstas nas páginas 10 a 14 do Manual de Orientação de Preenchimento da NF-e (versão 2.02), sendo que os campos do documento fiscal serão informados em conformidade com o disposto nas páginas 18 a 20, da Nota Técnica 2016.002 (versão 1.61).
+
+Partindo da premissa que o documento fiscal está sendo elaborado para fins de realização de complementação de dados ou valores, o mesmo somente deverá conter os valores que não foram demonstrados no documento fiscal original.
+
+A nota fiscal complementar será emitida nos termos do artigo 124 do RICMS/SP, sendo que, às regras de emissão da Nota Fiscal Eletrônica (NF-e), modelo 55, encontram-se disciplinadas na Portaria CAT n° 162/2008.
+
+No documento fiscal complementar, serão somente apresentados os dados não informados no documento original, para tanto, os demais campos que não se referem à complementação, não serão preenchidos, e nos campos numéricos obrigatórios, será informado o dígito “0” (zero).
+
+Já no programa emissor, o emitente deverá selecionar a opção "2 - NF-e complementar", no campo "Finalidade de Emissão".
+
+Na ficha “Notas e Conhecimentos Fiscais Referenciadas” será informado a chave de acesso do XML da NF-e original, marcando a opção NF-e, considerando o complemento relativo à uma nota fiscal.
+
+Nas informações pertinentes ao produto ou serviço, quanto ao “Grupo I. Produtos e Serviços da NF-e”, serão observadas as seguintes situações:
+
+Caso complemento esteja relacionado a quantidade de produto, o documento fiscal será emitido com os mesmos dados do produto constante na nota original, na ficha "Produtos e Serviço / Dados".
+
+Nas demais hipóteses de complemento, que não estejam relacionados a quantidade de produto, o contribuinte deverá criar um código para identificação do que pretende complementar, será conhecido como código “escritural”.
+
+Quanto ao código “escritural” indicado no tag “xProd”, fica à critério do contribuinte, podendo usar o formato proposto na página 19 da Nota Técnica 2016.002 (Formato: “CFOP9999”), ou o exemplo disposto na página 12 do Manual de Orientação de Preenchimento da NF-e (versão 2.02) (Exemplo: “Nota Fiscal Complementar referente à falta de destaque do valor do ICMS na nota fiscal original”).
+
+O CFOP utilizado será obrigatoriamente o mesmo correspondente ao indicado no documento fiscal original, bem como as informações do destinatário.
+
+Quanto ao NCM, (quando não for complemento de quantidade, hipótese na qual utilizara a NCM do produto em questão), será informado o código 0000.00.00, nos termos da Nota Técnica 004/2014.
+
+No grupo destinado a descrição de “Produto e Serviço”, na ficha “Tributos” e na sub-ficha “ICMS”, deve ser verificado a informação quanto ao imposto que está sendo complementado.
+
+Para o que emissor reconheça os valores complementados no “Total da Nota” o emitente deverá clicar no no botão “Calcular” na ficha de “Totais”, assim, o sistema calculará o valor total da NF-e Complementar.
+
+Importante ressaltar que, a emissão do documento não será possível sem o preenchimento da ficha “Transporte”, referente ao grupo de “Informações do Transporte da NF-e”, assim a modalidade de frete deverá ser “sem frete”, código “9”, conforme disposto na página 51 da Nota Técnica 2016.002, versão 1.61.
+
+Por fim, na ficha “Informações Adicionais” devem ser feitas as anotações referente com complemento, sendo o fundamento legal ou outras que o contribuinte julgar pertinentes necessário, por exemplo: “Nota Fiscal Complementar, do Documento n° xxx, emitido em xx/xx/xxxx, emitido de acordo com o artigo 182, II, do RICMS/SP”.

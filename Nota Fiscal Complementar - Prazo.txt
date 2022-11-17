@@ -1,0 +1,15 @@
+NOTA FISCAL COMPLEMENTAR
+
+Boa tarde, colegas
+Estou com uma situação que irei precisar emitir uma nota complementar, porém meu programa emissor de NF não está configurado e o suporte só poderá fazer os ajustes em setembro. 
+Mediante a essa situação eu tenho prazo para emissão da NF Complementar?
+
+
+
+Olá, não há prazo para emissão da nota fiscal complementar.
+
+ 
+
+Bom dia a todos,
+
+Apenas corroborando com a resposta do colega, o fato da emissão da nota fiscal complementar não dispor de prazo tácito (vide legislação estadual) não ofusca a obrigatoriedade tributária, ou seja, na grande maioria dos casos o ICMS (por exemplo) pode ser exigido com encargos considerando àquela primeira nota fiscal que houve circulação (caso haja).

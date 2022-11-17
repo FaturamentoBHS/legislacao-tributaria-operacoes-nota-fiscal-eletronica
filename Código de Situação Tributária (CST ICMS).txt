@@ -1,0 +1,87 @@
+
+Neste Roteiro apresentaremos para nossos leitores a Tabela de CST/ICMS presente no Ajuste SINIEF nº 3, de 29/09/1994, alterado posteriormente pelos Ajustes SINIEF nº 2/1995, e nº 5/1995.
+
+
+ 
+1) Introdução:
+Os contribuintes do Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual, intermunicipal e de comunicação (ICMS) são obrigados a informar nos campos próprios dos documentos fiscais que emitirem, o Código de Situação Tributária (CST) do ICMS.
+
+O CST/ICMS é um importante e, podemos também dizer, fundamental instrumento, previsto na legislação tributária, para a emissão e interpretação das Notas Fiscais, Modelos 1, 1A e 55 (NF-e).
+
+Neste Roteiro apresentaremos para nossos leitores a Tabela de CST/ICMS presente no Convênio sem nº/1970, alterado posteriormente pelo Ajuste Sinief nº 03/1994, Ajuste Sinief nº 2/1995, Ajuste Sinief nº 5/1995 e Ajuste Sinief nº 20/2012.
+
+Base Legal: Convênio sem nº/1970 e; Ajuste Sinief nº 3/1994 (Checado pela Valor em 06/01/21).
+2) CST/ICMS:
+O CST/ICMS é um importante e, podemos também dizer, fundamental instrumento, previsto na legislação tributária, para a emissão e interpretação das Notas Fiscais, Modelos 1, 1A e 55 (NF-e). Sua finalidade é descrever, de forma clara, qual o tipo de tributação que o produto está sofrendo naquela operação e qual sua origem, se nacional ou estrangeira.
+
+O CST/ICMS é composto de 3 (três) dígitos, na forma ABB, onde o 1º (primeiro) dígito indica a origem da mercadoria ou do serviço, com base na Tabela A, e os 2º (segundo) e 3º (terceiro) dígitos, determinam a tributação pelo ICMS, com base na Tabela B, conforme classificação abaixo:
+
+Tabela A - Origem da Mercadoria
+Código	Descrição
+0	Nacional, exceto as indicadas nos códigos 3, 4, 5 e 8.
+1	Estrangeira - Importação direta, exceto a indicada no código 6
+2	Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7.
+3	Nacional, mercadoria ou bem com Conteúdo de Importação superior a 40% (quarenta por cento) e inferior ou igual a 70% (setenta por cento).
+4	Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos (PPB) de que tratam o Decreto-Lei nº 288/1967, e as Leis nºs 8.248/1991, 8.387/1991, 10.176/2001 e 11.484/2007.
+5	Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40% (quarenta por cento).
+6	Estrangeira - Importação direta, sem similar nacional, constante em lista de Resolução CAMEX e gás natural.
+7	Estrangeira - Adquirida no mercado interno, sem similar nacional, constante em lista de Resolução CAMEX e gás natural.
+8	Nacional, mercadoria ou bem com Conteúdo de Importação superior a 70% (setenta por cento).
+
+Tabela B - Tributação pelo ICMS
+Código	Descrição
+00	Tributada integralmente.
+10	Tributada e com cobrança do ICMS por substituição tributária.
+20	Com redução de Base de Cálculo.
+30	Isenta ou não tributada e com cobrança do ICMS por substituição tributária.
+40	Isenta.
+41	Não tributada.
+50	Com suspensão.
+51	Com diferimento.
+60	ICMS cobrado anteriormente por substituição tributária.
+70	Com redução da Base de Cálculo e cobrança do ICMS por substituição tributária.
+90	Outras.
+Base Legal: Convênio sem nº/1970 (Checado pela Valor em 06/01/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3) Regras para Utilização:
+Na utilização dos CST/ICMS devem ser observadas as seguintes regras básicas:
+
+A escolha do CST/ICMS deverá ser feita sob o enfoque do emitente da Nota Fiscal;
+Quando na mesma Nota Fiscal constar produtos sujeitos a tratamento tributário diferentes, como nos casos de produtos normalmente tributados e outros isentos do ICMS, os valores relativos ao mesmo CST/ICMS devem ser subtotalizados; e
+Para escolha do CST/ICMS correto os contribuintes não devem considerar o tratamento fiscal do IPI que constar do respectivo documento fiscal. A análise para essa escolha deve limitar-se apenas ao tratamento do ICMS (1).
+É importante observar que o Código de Situação Tributária não é separado por ponto, traço, vírgula ou barra. Ele é uma sequência de 3 (três) algarismos arábicos sem separação, uma combinação de 3 (três) dígitos, um ao lado do outro.
+
+Cabe mencionar que o CST/ICMS deve constar em coluna própria no campo "DADOS DO PRODUTO", das Notas Fiscais de modelos 1, 1A e do DANFE, logo ao lado da especificação das classificações fiscais (NCM).
+
+Por fim, a utilização do CST/ICMS não desobriga o contribuinte a utilizar o Código Fiscal de Operações e Prestações (CFOP), na realidade ambos os códigos devem ser usados conjuntamente, além disso, o contribuinte deve estar atento à parametrização do sistema de emissão de Notas Fiscais, já que a existência de problemas nessa área poderá levar a divergências ou graves erros na escrituração ou ainda na apuração do imposto.
+
+Nota Valor Consulting:
+
+(1) Caso nosso leitor queira saber mais sobre o Código de Situação Tributária do IPI (CST/IPI) recomendamos a leitura de artigo sobre o assunto em nossa area de IPI.
+
+Base Legal: Equipe Valor Consulting.
+3.1) Exemplo de uso:
+A título de exemplo, suponhamos que a empresa Vivax Indústria e Comércio Ltda. tenha efetuado na mesma Nota Fiscal a venda de três produtos distintos adquiridos de terceiros, como segue:
+
+Item 1: mercadoria nacional;
+Item 2: mercadoria estrangeira de importação direta de produto não constante em lista de Resolução Camex; e
+Item 3: mercadoria estrangeira adquirida no mercado interno, referente a produto constante em lista de Resolução Camex, ou seja, sem similar nacional.
+Assim, considerando que a operação de saída será 100% tributada, ilustramos a seguir o preenchimento do campo "DADOS DO PRODUTO" da Nota Fiscal de venda:
+
+Código do Produto	Descrição dos Produtos	CST/ICMS
+M100A1	Monitor de Computador	000
+C123A2	CPU de Computador	100
+C144A2	CPU de Computador	700
+Base Legal: Equipe Valor Consulting.
+Informações Adicionais:
+
+Este material foi escrito no dia 01/12/2011 pelo(a) Valor Consulting e está atualizado até a doutrina e legislação vigente em 06/01/2021 (data da sua última atualização), sujeitando-se, portanto, às mudanças em decorrência das alterações doutrinárias e legais.
+
+Lembramos que não é permitido a utilização dos materiais aqui publicados para fins comerciais, pois os mesmos estão protegidos por direitos autorais. Também não é permitido copiar os artigos, materias e arquivos do Portal Valor Consulting para outro site, sistema ou banco de dados para fins de divulgação em sites, revistas, jornais, etc. de terceiros sem a autorização escrita dos proprietários do Portal Valor Consulting.
+
+A utilização para fins exclusivamente educacionais é permitida, desde que indicada a fonte:
+
+"Valor Consulting. Código de Situação Tributária (CST/ICMS) (Área: Tabelas do ICMS (SP)). Disponível em: https://www.valor.srv.br/artigo.php?id=69&titulo=codigo-de-situacao-tributaria-cst-icms. Acesso em: 07/10/2021."

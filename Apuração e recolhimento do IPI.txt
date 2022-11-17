@@ -1,0 +1,110 @@
+Apuração e recolhimento do IPI: Aspectos gerais
+Resumo:
+
+Examinaremos neste trabalho o que a legislação versa sobre a apuração e recolhimento do Imposto sobre Produtos Industrializados (IPI). Para tanto, utilizaremos como base de estudo o RIPI/2010, aprovado pelo Decreto nº 7.212/2010, bem como outras fontes citadas ao longo do trabalho.
+
+linkedin sharing buttonfacebook sharing buttontwitter sharing buttonwhatsapp sharing buttontelegram sharing button
+Postado em: 28/02/2021 - Área: Imposto sobre Produtos Industrializados (IPI).
+
+
+ 
+1) Introdução:
+Prescreve nossa Constituição Federal (CF/1988) que o Imposto sobre Produtos Industrializados (IPI) é um imposto não-cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores.
+
+Seguindo os ditames constitucionais a legislação do IPI absorveu, como não poderia deixar de ser, o princípio da não-cumulatividade no artigo 225 do RIPI/2010, que assim prescreve:
+
+Não Cumulatividade do Imposto
+
+Art. 225. A não cumulatividade é efetivada pelo sistema de crédito do imposto relativo a produtos entrados no estabelecimento do contribuinte, para ser abatido do que for devido pelos produtos dele saídos, num mesmo período, conforme estabelecido neste Capítulo.
+
+§ 1º O direito ao crédito é também atribuído para anular o débito do imposto referente a produtos saídos do estabelecimento e a este devolvidos ou retornados.
+
+§ 2º Regem-se, também, pelo sistema de crédito os valores escriturados a título de incentivo, bem como os resultantes das situações indicadas no art. 240.
+
+É através do mecanismo da não-cumulatividade que efetuamos a apuração do IPI, que nada mais é do que um encontro de contas, onde apuramos o total de créditos pelas entradas e total de débitos pelas saídas, sendo o crédito maior que os débitos o saldo credor é transferido para o mês subsequente. Por outro lado, caso os débitos sejam maior que os créditos, a diferença entre eles deverá ser recolhida para os cofres do governo Federal, nos prazos e nas condições estabelecidas pela legislação.
+
+Ainda de acordo com o RIPI/2010, cada estabelecimento, ainda que pertencentes a uma mesma pessoa física ou jurídica, é considerado autônomo para efeito do cumprimento das obrigações tributárias, inclusive a apuração do IPI. Isso equivale a dizer que cada um deverá manter e escriturar seus próprios livros/registros fiscais, apurar os saldos credores e devedores correspondentes às operações que realizar, de modo individual, e efetuar o recolhimento do imposto de forma independente dos demais estabelecimentos.
+
+Devido à alta aplicabilidade prática do tema, examinaremos neste trabalho o que a legislação versa sobre a apuração e recolhimento do IPI. Para tanto, utilizaremos como base de estudo o RIPI/2010, aprovado pelo Decreto nº 7.212/2010, bem como outras fontes citadas ao longo do trabalho.
+
+Base Legal: Art. 153, , IV, § 3º, II da CF/1988 e; Arts. 225 e 609, caput, IV do RIPI/2010 (Checado pela Valor em 28/02/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2) Apuração do IPI:
+O período de apuração do IPI incidente nas saídas dos produtos do estabelecimento industrial ou equiparado a industrial é mensal, salvo em relação ao imposto incidente no desembaraço aduaneiro de produtos importados do exterior que dever ser recolhido no momento do respectivo desembaraço (1).
+
+Nesse sentido, temos que a importância a ser recolhida aos cofres federais corresponderá à diferença, em cada período de apuração (mês-calendário), entre o imposto devido sobre as operações ou prestações tributadas (saídas do estabelecimento) e o imposto creditado relativamente às operações ou prestações anteriores (entradas no estabelecimento).
+
+Assim, o estabelecimento industrial ou equiparado a industrial, relativamente às operações ou prestações efetuadas no período, apurará os valores de todos os créditos e débitos, decorrentes das operações que realizar, bem como aqueles decorrentes de eventos devidamente previstos na legislação.
+
+Interessante observar que a apuração do IPI será demonstrada para a Secretaria da Receita Federal do Brasil (RFB) através da EFD-ICMS/IPI, popularmente conhecida por Sped-Fiscal. Nesse sentido, interessante observar o que diz o artigo 454 do RIPI/2010, in verbis:
+
+Art. 454. A EFD compõe-se da totalidade das informações, em meio digital, necessárias à apuração do imposto, referentes às operações e prestações praticadas pelo contribuinte, bem como de outras de interesse das administrações tributárias das unidades federadas e da Secretaria da Receita Federal do Brasil.
+
+§ 1º Considera-se a EFD válida para os efeitos fiscais após a confirmação do recebimento do arquivo que a contém, no ambiente nacional Sistema Público de Escrituração Digital - SPED, instituído pelo Decreto nº 6.022, de 22 de janeiro de 2007.
+
+§ 2º O arquivo digital da EFD será gerado pelo contribuinte de acordo com as disposições previstas na legislação específica e conterá a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.
+
+§ 3º Aplicam-se à EFD, no que couber, as normas de que trata o art. 391.
+
+Na prática, no Bloco C da EFD-ICMS/IPI o contribuinte escriturará todas as Notas Fiscais geradoras de créditos e débitos fiscais e, ao final do período de apuração, consolidará os valores no Bloco E da EFD-ICMS/IPI, onde a apuração do imposto será efetivamente concretizada. Dessa apuração resultará:
+
+Saldo credor: nesse caso, o saldo (credor) de IPI remanescente na apuração deverá ser transferido para o mês subsequente; ou
+Saldo devedor: nesse caso, o saldo (devedor) de IPI remanescente na apuração deverá ser recolhida para os cofres do governo Federal, nos prazos e nas condições estabelecidas pela legislação.
+Nota Valor Consulting:
+
+(1) Essa regra aplica-se às microempresas (ME) e às empresas de pequeno porte (EPP) não optantes pelo Simples Nacional.
+
+Base Legal: Arts. 259, 260, caput, IV, 453, 454 e 477 do RIPI/2010 (Checado pela Valor em 28/02/21).
+3) Recolhimento do IPI:
+O recolhimento do IPI deverá ser efetuado por meio do Documento de Arrecadação de Receitas Federais (Darf), na forma da legislação pertinente, que será usado para recolhimento do imposto e dos respectivos acréscimos, quando devidos, segundo as instruções expedidas pela RFB.
+
+Lembramos que é vedada a utilização de Darf para o recolhimento do imposto inferior a R$ 10,00 (dez reais). No caso de o imposto resultar inferior a R$ 10,00 (dez reais), deverá ele ser adicionado ao imposto correspondente aos períodos subsequentes, até que o total seja igual ou superior a R$ 10,00 (dez reais), quando, então, será recolhido no prazo estabelecido na legislação para este último período de apuração.
+
+Base Legal: Arts. 261, 441 e 442 do RIPI/2010 (Checado pela Valor em 28/02/21).
+3.1) Prazo de recolhimento:
+Regra geral, o Imposto sobre Produtos Industrializados (IPI) deverá ser recolhido:
+
+antes da saída do produto da repartição que processar o despacho, nos casos de importação;
+até o 10º (décimo) dia do mês subsequente ao de ocorrência dos fatos geradores, nos casos dos produtos classificados no Código 2402.20.00 da TIPI/2016;
+até o 25º (vigésimo quinto) dia do mês subsequente ao de ocorrência dos fatos geradores, no caso dos demais produtos; ou
+no ato do pedido de autorização da venda de produtos trazidos do exterior a título de bagagem, despachados com isenção do imposto ou com pagamento de tributos nas condições previstas na legislação aduaneira.
+Se o dia do vencimento de que tratam as letras "b" e "c" não for dia útil, considerar-se-á antecipado o prazo para o 1º (primeiro) dia útil que o anteceder.
+
+Vale mencionar que é facultado ao contribuinte o recolhimento do imposto antes do vencimento do prazo fixado.
+
+Base Legal: Art. 262 do RIPI/2010 e; TIPI/2016 (Checado pela Valor em 28/02/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.2) Recolhimento em atraso:
+O Imposto sobre Produtos Industrializados (IPI) deve ser apurado e recolhido nos prazos estabelecidos pela legislação, caso contrário, o contribuinte estará cometendo infração passível de sanção (multa de ofício). O contribuinte somente irá eximir-se da penalidade na hipótese de recolher espontaneamente o tributo não pago no prazo regulamentar, acrescido, é claro, dos juros e da multa moratória (acréscimos legais).
+
+Os débitos do IPI para com a União, não recolhidos nos prazos previstos no RIPI/2010, ficarão sujeitos aos acréscimos moratórios, conforme definidos nos subcapítulo seguintes.
+
+Base Legal: Arts. 265 e 552 do RIPI/2010 (Checado pela Valor em 28/02/21).
+3.2.1) Multa:
+Os débitos do IPI em atraso devem ser acrescidos de multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento) por dia de atraso, limitada ao percentual máximo de 20% (vinte por cento).
+
+Destacamos que a multa deve ser calculada a partir do 1º (primeiro) dia útil subsequente ao do vencimento do prazo para o recolhimento do imposto, até o dia em que ocorrer o seu efetivo recolhimento.
+
+Base Legal: Art. 61, caput, §§ 1º e 2º da Lei nº 9.430/1996 e; Art. 553, caput, §§ 1º e 3º do RIPI/2010 (Checado pela Valor em 28/02/21).
+3.2.2) Juros de mora:
+Sobre os débitos do IPI incidirão juros de mora calculados à Taxa Referencial do Sistema Especial de Liquidação e de Custódia (Selic), para títulos Federais, acumulada mensalmente, a partir do 1º (primeiro) dia do mês subsequente ao do vencimento do prazo para o recolhimento até o último dia do mês anterior ao do recolhimento, e de 1% (um por cento) no mês do recolhimento.
+
+A taxa Selic "acumulada mensalmente" corresponde ao período entre o primeiro dia útil e o último dia útil do mês correspondente.
+
+No cálculo dos juros que envolver vários meses, aplica-se a soma das taxas Selic acumuladas em cada mês do respectivo período.
+
+Nota Valor Consulting:
+
+(2) O IPI não recolhido no vencimento será acrescido de juros de mora, independentemente do motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis.
+
+Base Legal: Art. 5º, § 3º e 61, § 3º da Lei nº 9.430/1996 e; Art. 554, caput, § 2º do RIPI/2010 (Checado pela Valor em 28/02/21).
+3.2.3) Aprofunde seu estudo:
+No Roteiro de Procedimentos intitulado "Recolhimento espontâneo em atraso" estudamos detalhadamente as disposições regulamentares pertinentes aos acréscimos legais (multa e juros de mora) incidentes no recolhimento (ou pagamento) do Imposto sobre Produtos Industrializados (IPI) fora do prazo regulamentar, inclusive com exemplo prático. Não deixe de ler!!!
+
+Base Legal: Art. 61, caput, §§ 1º e 2º da Lei nº 9.430/1996 e; Art. 553, caput, §§ 1º e 3º do RIPI/2010 (Checado pela Valor em 28/02/21).

@@ -1,0 +1,9 @@
+NOTA FISCAL COMPLEMENTAR DE ICMS-ST
+
+“Nota Fiscal Complementar, do Documento n° xxx, emitido em xx/xx/xxxx, emitido de acordo com o artigo 182, II, do RICMS/SP”.
+
+modalidade de frete deverá ser “sem frete”, código “9”
+
+Quanto ao código “escritural” indicado no tag “xProd”, fica à critério do contribuinte, podendo usar o formato proposto na página 19 da Nota Técnica 2016.002 (Formato: “CFOP9999”), ou o exemplo disposto na página 12 do Manual de Orientação de Preenchimento da NF-e (versão 2.02) (Exemplo: “Nota Fiscal Complementar referente à falta de destaque do valor do ICMS na nota fiscal original”).
+
+Quanto ao NCM, (quando não for complemento de quantidade, hipótese na qual utilizara a NCM do produto em questão), será informado o código 0000.00.00

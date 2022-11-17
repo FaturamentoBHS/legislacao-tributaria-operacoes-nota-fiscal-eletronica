@@ -1,0 +1,543 @@
+1) Introdução:
+Quando uma empresa abre filiais, seja um estabelecimento comercial ou industrial, normalmente existem operações entre a matriz e suas filiais (e vice-versa) que precisam ser registradas fiscalmente através da emissão de documentos fiscais (Notas Fiscais, por exemplo). Dentre essas operações, a principal é a transferência de mercadorias de estoque de um estabelecimento para outro estabelecimento pertencente ao mesmo titular (empresas com o mesmo número base de CNPJ, correspondente aos 8 (oito) primeiros dígitos: 12.345.678/XXXX-XX).
+
+Assim, podemos entender como transferência de mercadorias as saídas existentes no estoque do estabelecimento remetente para o estoque de outro estabelecimento pertencente ao mesmo titular (destinatário, seja ele matriz ou filial), transferindo, deste modo, a posse e a propriedade da mercadoria daquele para este.
+
+No Estado de São Paulo, a legislação do ICMS trouxe disposições específicas relacionadas à operação de transferência, principalmente no que se refere à determinação da Base de Cálculo (BC), uma vez que essa operação constitui fato gerador do imposto, sendo, portanto, normalmente tributada, conforme se depreende da leitura do artigo 2º, caput, I do Regulamento do ICMS (RICMS/2000-SP), aprovado pelo Decreto nº 45.490/2000, in verbis (1):
+
+Artigo 2º - Ocorre o fato gerador do imposto:
+
+I - na saída de mercadoria, a qualquer título, de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular;
+
+(...) (Grifo nossos)
+
+Assim, o contribuinte do ICMS deverá tributar normalmente a operação por intermédio da aplicação das alíquotas internas do Estado de São Paulo ou das alíquotas interestaduais, tratando-se de operações internas ou interestaduais, respectivamente, respeitados os possíveis benefícios fiscais (isenção, por exemplo) concedidos no âmbito da legislação tributária paulista. Já na composição da Base de Cálculo (BC), o contribuinte deverá observar as regras previstas nos artigos 38 e 39 do RICMS/2000-SP, que contém disposições específicas relacionadas à composição da Base de Cálculo (BC) nessas operações.
+
+No âmbito Federal, os contribuintes do Imposto sobre Produtos Industrializados (IPI) podem transferir produtos destinado à industrialização ou comércio, de um para outro estabelecimento, industrial ou equiparado, da mesma empresa, com suspensão do IPI, desde que atendidas determinadas condições, as quais serão analisadas no decorrer deste trabalho.
+
+Devido à importância do assunto para as empresas que possuem filiais, veremos neste Roteiro os procedimentos aplicáveis à operação de remessa de mercadorias de um estabelecimento para outro estabelecimento. Utilizaremos como base de estudo os artigos 38 e 39 do RICMS/2000-SP, o Regulamento do IPI (RIPI/2010), aprovado pelo Decreto nº 7.212/2010 e demais atos citados ao longo do trabalho.
+
+Registramos, porém, que trataremos neste texto apenas as transferências de mercadorias de estoque, não contemplando, portanto, as operações de transferências de bens do Ativo Imobilizado (AI) ou de material de uso e/ou consumo. Estes são tratados em Roteiros de Procedimentos específicos.
+
+Nota Valor Consulting:
+
+(1) Por unanimidade, o Plenário do Supremo Tribunal Federal (STF) declarou a inconstitucionalidade de dispositivos da Lei Complementar 87/1996 (Lei Kandir) que preveem a ocorrência de fato gerador do ICMS na transferência interestadual de mercadorias entre estabelecimentos de um mesmo contribuinte. A decisão se deu em sessão virtual finalizada em 16/04/2021 no julgamento da Ação Declaratória de Constitucionalidade (ADC) nº 49, na qual o governo do Rio Grande do Norte buscava a validação da cobrança.
+
+De acordo com o posicionamento adotado pelo Supremo Tribunal Federal (STF), o mero deslocamento físico de mercadorias entre estabelecimentos do mesmo titular, no mesmo Estado ou em Estados diferentes, não é fato gerador de ICMS, pois não há transmissão de posse ou propriedade de bens.
+
+Em seu voto, o relator, ministro Edson Fachin, ressaltou que a hipótese de incidência do ICMS é a operação jurídica praticada por comerciante que acarrete circulação de mercadoria e transmissão de sua titularidade ao consumidor final. "O mero deslocamento entre estabelecimentos do mesmo titular, na mesma unidade federada ou em unidades diferentes, não é fato gerador de ICMS, sendo este o entendimento consolidado nesta Corte", ressaltou.
+
+Como resultado, o Plenário julgou a Ação Declaratória de Constitucionalidade (ADC) improcedente, declarando a inconstitucionalidade dos artigos 11, 3º, II e 12, caput, I da Lei Complementar 87/1996, no trecho "ainda que para outro estabelecimento do mesmo titular", e artigo 13, 4º da Lei Complementar 87/1996.
+
+Diante o exposto, se faz mister mencionar que as decisões definitivas de mérito proferidas pelo Supremo Tribunal Federal (STF), nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal.
+
+Sugerimos ao contribuinte que consulte seu departamento jurídico quanto ao início da produção dos efeitos da referida decisão e da aplicabilidade ao caso concreto. De qualquer forma, mantivemos o presente Roteiro de Procedimentos considerando a operação tributada, pois as bases legais no Estado não sofreram alterações.
+
+Base Legal: Arts. 2º, caput I, 38 e 39 do RICMS/2000-SP; Art. 43, caput, X do RIPI/2010 e; Ação Declaratória de Constitucionalidade (ADC) nº 49 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2) Conceitos:
+2.1) Transferência de mercadorias:
+Para efeito de aplicação da legislação do ICMS no Estado de São Paulo, considera-se transferência a operação de que decorra a saída de mercadoria de um estabelecimento com destino a outro pertencente ao mesmo titular (mesma empresa). Ocorrendo dita operação, podemos dizer que a posse e a propriedade da mercadoria é transferida do estabelecimento remetente para o estabelecimento destinatário.
+
+Base Legal: Art. 4º, caput, V do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3) Tratamento Fiscal - ICMS:
+De acordo com a legislação do ICMS atualmente em vigor, temos que esse imposto incide, entre outras hipóteses, sobre as operações relativas à circulação de mercadorias, inclusive o fornecimento de alimentação, bebidas e outras mercadorias em qualquer estabelecimento. Nessa hipótese, o fato gerador do imposto Estadual é a saída de mercadoria, a qualquer título, de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular.
+
+Registra-se que a caracterização do fato gerador independe da natureza jurídica da operação que o constitua.
+
+Portanto, com base no exposto acima, temos que alguns Estados acabam exigindo o ICMS nas transferências de mercadorias pertencentes ao estoque dos estabelecimentos situados em seus territórios, como no caso do Estado de São Paulo, ainda que nosso Poder Judiciário já tenha se manifestado em sentido contrário em diversas ocasiões (2).
+
+Como exemplo, podemos citar a Súmula 166 do Superior Tribunal de Justiça (STJ):
+
+SÚMULA 166
+
+Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte.
+
+Como podemos verificar nesse enunciado, é do entendimento do STF que a mera circulação física, e não econômica, de mercadorias não constitui fato gerador do ICMS. Assim, a de se concluir que as saídas de mercadorias do estoque em transferência para outro estabelecimento da mesma empresa não estaria, em tese, sujeita ao imposto de competência Estadual, pois não há na operação circulação econômica de mercadorias. Apesar disso, o imposto ainda continua sendo exigido em São Paulo.
+
+Feito esses breves comentários, passaremos a analisar neste capítulo os procedimentos estabelecidos pela legislação paulista para a operação de transferência de mercadorias de estabelecimento contribuinte do ICMS para outro estabelecimento pertencente ao mesmo titular, sem previsão de retorno para o estabelecimento de origem.
+
+Nota Valor Consulting:
+
+(2) Ver nota 1 acima.
+
+Base Legal: Art. 2º, caput, I, § 2º da Lei Complementar nº 87/1996; Arts. 1º, caput, I e 2º, caput, I do RICMS/2000-SP e; Súmula STJ nº 166 (Checado pela Valor em 09/05/21).
+3.1) Base de Cálculo (BC):
+Regra geral, a Base de Cálculo (BC) do ICMS nas saídas de mercadorias é o valor da operação realizada, assim, quando estamos diante de uma operação de venda esse valor é facilmente identificado, pois corresponde ao valor cobrado pela mercadoria. Entretanto, quando realizamos uma operação de transferência não há cobrança de qualquer valor entre os estabelecimentos envolvidos, deste modo, considerando que a transferência é normalmente tributada faz-se necessário identificar o valor tributável da operação (ou Base de Cálculo da operação), evitando, desta forma, que o remetente utilize-se de um valor irrisório o que faria a Base de Cálculo (BC) e o ICMS ser também irrisório.
+
+Diante isso, nosso leitor deverá ficar atento às regras previstas nos artigos 38 e 39 do RICMS/2000-SP, que contém disposições específicas relacionadas à composição da Base de Cálculo (BC) nas operações de transferências de mercadorias do estoque de estabelecimento contribuinte para outro estabelecimento pertencente ao mesmo titular, conforme veremos no subcapítulo 3.2 (transferências internas) e subcapítulo 3.3 (transferências interestaduais) abaixo.
+
+Por fim, convém registrar que no caso de transferência interna de mercadorias entre estabelecimentos do mesmo titular o valor da operação não poderá ser inferior ao custo da mercadoria. Esse entendimento foi manifestado pela Consultoria Tributária da Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP) através da Resposta à Consulta nº 161/2005, a qual publicamos abaixo na íntegra:
+
+Resposta a Consulta Tributária nº 161/2005, de 09.10.2006
+ICMS - Transferência interna de mercadorias entre estabelecimentos do mesmo titular - Base de cálculo - Desconto de 100% ou 99,9% sobre o valor das mercadorias transferidas - Impossibilidade - O valor da operação não pode ser não inferior ao custo da mercadoria.
+
+
+1. A Consulente informa que sua atividade preponderante "é o fornecimento de alimentação e bebidas a consumidores finais, os quais são consumidos atualmente em seus estabelecimentos (restaurantes) localizados em quatro endereços desta capital", sendo optante do "regime especial de apuração e recolhimento do ICMS" (artigos 106 e 107 do RICMS/2000 e Portaria CAT 31/2001), que permite apurar o imposto devido mensalmente, mediante a aplicação do percentual de 3,2% (três inteiros e dois décimos por cento) sobre a receita bruta auferida no período.
+
+2. Informa, também, que os alimentos são preparados em um estabelecimento ("cozinha-central"), sendo posteriormente transferidos para os seus outros estabelecimentos, onde são consumidos.
+
+3. Alega que, como as saídas de mercadorias de um para outro estabelecimento do mesmo titular não estão incluídas no mencionado regime especial de tributação, sujeitando-se à tributação normal prevista no RICMS (artigo 2º, I, "d", combinado com o artigo 1º, § 1º, item 3, alínea "e", da Portaria CAT 31/2001), "o imposto recolhido na saída da cozinha central não poderá ser utilizado como crédito em seus outros estabelecimentos".
+
+4. Em face do exposto, "considerando que nas operações entre estabelecimentos da mesma empresa não há pagamento de preço, entende a Consulente que poderá atribuir um desconto de 100% no valor da nota fiscal (ou um desconto de 99,9%, por exemplo, a fim de manter um valor financeiro na operação)".
+
+5. Como "o desconto incondicional não integra a base de cálculo do ICMS (...), o valor da operação será "0" (ou , por exemplo, o valor equivalente a 0,01% sobre o valor da mercadoria, a fim de manter um valor financeiro na operação), não havendo imposto a ser destacado na nota fiscal e recolhido".
+
+6. Questiona se poderá proceder de acordo o exposto no item "4".
+
+7. A ocorrência do fato gerador do imposto, na hipótese de saída de mercadoria, ainda que para outro estabelecimento do mesmo titular, está expressamente prevista no artigo 2º, I, do RICMS/2000.
+
+8. Nessa hipótese, a base de cálculo do imposto é o valor da operação, a teor do disposto no artigo 37, I do mesmo regulamento:
+
+"Artigo 37 - Ressalvados os casos expressamente previstos, a base de cálculo do imposto nas hipóteses do artigo 2º é (Lei 6.374/89, art. 24, na redação da Lei 10.619/00, art. 1º, XIII):
+
+I - quanto às saídas de mercadorias aludidas nos incisos I, VIII, IX e XV, o valor da operação".
+
+9. Na hipótese de falta do valor da operação, a base de cálculo deverá ser formada de acordo com os critérios estabelecidos no seguinte artigo 38:
+
+"Artigo 38 - Na falta do valor a que se referem os incisos I e VII do artigo anterior, ressalvado o disposto no artigo 39, a base de cálculo do imposto é (Lei 6.374/89, art.25, na redação da Lei 10.619/00, art. 1º, XIV):
+
+I - o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na sua falta, no mercado atacadista regional, caso o remetente seja produtor, extrator ou gerador, inclusive de energia;
+
+II - o preço FOB estabelecimento industrial à vista, caso o remetente seja industrial, observado o disposto no § 1º;
+
+III - o preço FOB estabelecimento comercial à vista, nas vendas a outros comerciantes ou industriais, caso o remetente seja comerciante, observado o disposto nos §§ 1º e 2º.
+
+§ 1º - Para a aplicação dos incisos II e III adotar-se-á sucessivamente:
+
+1 - o preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente;
+
+2 - caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.
+
+...
+
+§ 3º - Na saída para estabelecimento situado neste Estado, pertencente ao mesmo titular, em substituição aos preços previstos nos incisos I a III, poderá o estabelecimento remetente atribuir à operação outro valor, desde que não inferior ao custo da mercadoria".
+
+10. No caso, portanto, a Consulente deverá observar o disposto no inciso II e no § 1º, ou, alternativamente, "atribuir à operação outro valor, desde que não inferior ao custo da mercadoria", conforme comanda o § 3º, da norma regulamentar supramencionada.
+
+11. Em síntese, o valor da base de cálculo de transferência internadas mercadorias do estabelecimento da Consulente, por ela denominado "cozinha-central", para os seus outros estabelecimentos, deve ser fixado de acordo com os critérios estabelecidos nesta resposta, sendo, no mínimo, equivalente ao custo da mercadoria produzida.
+
+12. Assim sendo, a Consulente não poderá atribuir à operação valor zero, ou valor próximo de zero - nem reduzir o valor da operação pela aplicação de desconto incondicional de 100% ou 99,9% sobre o valor das mercadorias transferidas - pois tal procedimento ofende os critérios estabelecidos pela legislação para a formação da base de cálculo na transferência interna de mercadorias entre estabelecimentos do mesmo titular.
+
+LUIZ GONZAGA DINIZ JÚNIOR - Consultor Tributário. De acordo. CRISTIANE REDIS CARVALHO - Consultora Tributária Chefe - 2ª ACT. GUILHERME ALVARENGA PACHECO - Diretor Adjunto da Consultoria Tributária
+
+Base Legal: Arts. 38 e 39 do RICMS/2000-SP e; Resposta à Consulta nº 161/2005 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.2) Transferências internas:
+O RICMS/2000-SP estabelece diversas Bases de Cálculo (BCs) para o ICMS nas operações de transferências de mercadorias dentro do Estado de São Paulo, conforme o remetente seja produtor, extrator ou gerador, inclusive de energia, estabelecimento industrial ou comercial. Vejamos cada uma dessas hipóteses nos subcapítulos seguintes.
+
+Base Legal: Equipe Valor Consulting.
+3.2.1) Promovidas por produtor, extrator ou gerador, inclusive de energia:
+Estabelece o artigo 38, caput, I do RICMS/2000-SP que a Base de Cálculo (BC) do ICMS na transferência realizada por produtor, extrator ou gerador, inclusive de energia, será o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na sua falta, no mercado atacadista regional.
+
+Base Legal: Art. 38, caput, I do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3.2.2) Promovidas por estabelecimento industrial:
+Quanto às operações realizadas por estabelecimento industrial, estabelece o artigo 38, caput, II do RICMS/2000-SP que a Base de Cálculo (BC) do ICMS será o preço free on board (FOB) estabelecimento industrial à vista, adotando-se sucessivamente:
+
+o preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente; ou
+caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.
+A expressão FOB significa "Posto a bordo" (free on board), sua utilização se deu originariamente nos termos comerciais internacionais, ou seja, nos International Commercial Terms (INCOTERMS), cujo contrato tem como principal característica a definição da responsabilidade das partes, no sentido de que a mercadoria é entregue a um transportador internacional indicado pelo comprador.
+
+No Brasil, o termo FOB refere-se ao preço de venda no estabelecimento do remetente (vendedor), sem ônus de outros encargos relativos ao transporte (frete e seguro), bem como dos riscos inerentes à entrega da mercadoria no destinatário. Nessa operação, o vendedor coloca a mercadoria à disposição do comprador em suas dependência, cabendo à responsabilidade pelo respectivo transporte ao destinatário (comprador).
+
+Base Legal: Art. 38, caput, II, § 1º do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3.2.3) Promovidas por estabelecimento comercial:
+Nas operações realizadas por estabelecimento comercial, estabelece o artigo 38, caput, III do RICMS/2000-SP que a Base de Cálculo (BC) do ICMS será o preço FOB estabelecimento comercial à vista, nas vendas a outros comerciantes ou industriais, adotando-se sucessivamente:
+
+o preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente; ou
+caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.
+Na hipótese de o estabelecimento remetente não efetuar vendas a outros comerciantes ou industriais, isto é, quando as operações sejam exclusivamente no comércio varejista, ou em qualquer caso, se não houver mercadoria similar, a Base de Cálculo (BC) do ICMS deverá ser o equivalente a 75% (setenta e cinco por cento) do preço de venda corrente no varejo, adotando-se o preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente.
+
+Base Legal: Art. 38, III, caput, §§ 1º e 2º do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3.2.4) Adoção de outro valor:
+Na saída de mercadoria para estabelecimento situado no Estado de São Paulo, pertencente ao mesmo titular, em substituição aos preços previstos nos subcapítulos 3.2.1, 3.2.2 e 3.2.3, poderá o estabelecimento remetente atribuir à operação outro valor, desde que não inferior ao custo da mercadoria.
+
+Base Legal: Art. 38, § 3º do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.3) Transferências interestaduais:
+Assim como nas operações internas, o RICMS/2000-SP estabelece diversas Bases de Cálculo (BCs) para o ICMS nas operações de transferências de mercadorias para estabelecimentos situados em outros Estados da Federação. Vejamos cada uma dessas hipóteses nos subcapítulos seguintes.
+
+Base Legal: Equipe Valor Consulting.
+3.3.1) Promovidas por estabelecimento comercial:
+Nas transferências de mercadorias para estabelecimento pertencente ao mesmo titular localizado em outro Estado da Federação ou no Distrito Federal, a Base de Cálculo (BC) do ICMS deverá ser o valor de aquisição correspondente à entrada mais recente da mesma mercadoria no estabelecimento remetente, ou seja, o valor constante no documento fiscal que acobertou a operação de aquisição mais recente da mercadoria a ser transferida. Ressalta-se que, no caso de mercadoria importada do exterior que se enquadrar no disposto na Resolução do Senado Federal nº 13/2013, devem ser observadas também as regras da Portaria CAT nº 64/2013.
+
+A Diretoria Executiva da Administração Tributária (Deat) da Sefaz/SP, em Regime Especial, tendo em vista peculiaridade de cada contribuinte, devidamente comprovada, poderá estabelecer que o valor da entrada mais recente da mercadoria seja obtido com base em período previamente determinado, preferencialmente dentro do mês da ocorrência do fato gerador.
+
+Esse entendimento foi exarado, inclusive, pela Consultoria Tributária da Sefaz/SP na Resposta à Consulta nº 2.585M1/2016, a qual reproduzimos abaixo na íntegra (3):
+
+RESPOSTA À CONSULTA TRIBUTÁRIA 2585M1/2016, de 26 de Fevereiro de 2016.
+
+Disponibilizado no site da SEFAZ em 23/03/2016.
+
+
+Ementa
+
+ICMS – Empresa paulista – Transferência de mercadorias de filial em São Paulo para matriz no Estado do Paraná – Base de cálculo – Valor da aquisição.
+
+I. A base de calculo a ser considerada, na transferência interestadual de mercadorias entre estabelecimentos de mesma titularidade, será o valor correspondente à entrada mais recente da mercadoria.
+
+
+Relato
+
+1.A Consulente, cuja CNAE corresponde a "Fabricação de fios, cabos e condutores elétricos isolados", informa ter matriz no Estado do Paraná e que parte dos produtos adquiridos no mercado interno e importados pela filial paulista é encaminhada, em transferência, para a matriz paranaense. Do mesmo modo, procede em sentido contrário, afirmando que "parte dos produtos adquiridos no mercado interno e importados pela matriz paranaense são por ela encaminhados, em transferência, para a Consulente."
+
+2.Questiona o valor da base de cálculo do ICMS nessas operações, citando o disposto no artigo 13, § 4º, I, da Lei Complementar 87/1996, artigo 39, I, do RICMS/SP e o artigo 289, § 3º, do Regulamento do Imposto de Renda, concluindo que os impostos recuperáveis não integram a base de cálculo do ICMS devido na operação interestadual de transferência entre estabelecimentos do mesmo titular.
+
+3.Por fim, pergunta:
+
+3.1 Se o valor da entrada mais recente da mercadoria previsto no artigo 39, I, do RICMS/SP é composto pelo "custo da mercadoria, acrescido dos gastos com transporte e seguro e, quando for o caso, dos gastos relativos ao desembaraço aduaneiro, sem os impostos recuperáveis incidentes na operação de entrada mais recente".
+
+3.2 Se deverá integrar, na base de cálculo do ICMS, o montante do próprio imposto incidente na saída, quando da sua apuração.
+
+Interpretação
+
+4.Preliminarmente, com relação às operações com mercadorias importadas e transferidas de estabelecimento paranaense para estabelecimento paulista, pertencentes ao mesmo titular, informamos que a presente resposta partirá da premissa de que ocorrerá a entrada física dessas mercadorias no estabelecimento localizado no Paraná e, posteriormente, tais mercadorias serão transferidas para o estabelecimento paulista. Isso porque, na hipótese de mercadoria importada do exterior, o local da operação, para efeito de cobrança do ICMS, é o do estabelecimento onde ocorre a sua entrada física (artigo 11, inciso I, alínea "d", da Lei Complementar nº 87/96, em conformidade com a alínea "a" do inciso IX do § 2º do artigo 155 da Constituição Federal). Caso a entrada física da mercadoria importada ocorra no estabelecimento paulista, o ICMS referente à operação de importação será devido a São Paulo, não havendo que se falar em operação de transferência de mercadorias.
+
+5.Na transferência de mercadorias da filial estabelecida no Estado de São Paulo para sua matriz, no Estado do Paraná, deve ser seguido o disposto no artigo 39 do RICMS/2000 (c/c artigo 13, § 4º da Lei Complementar 87/1996), que trata, especificamente, das saídas interestaduais para estabelecimentos pertencentes ao mesmo titular:
+
+"Artigo 39 - Na saída de mercadoria para estabelecimento localizado em outro Estado, pertencente ao mesmo titular, a base de cálculo é (Lei 6.374/89, art. 26, na redação da Lei 10.619/00, art. 1º, XV, e Convênio ICMS-3/95):
+
+I - o valor correspondente à entrada mais recente da mercadoria;
+
+(...)"
+
+6.Portanto, nas transferências que destinem mercadorias à matriz estabelecida no Estado do Paraná, o valor da operação (base de cálculo para o ICMS) deverá ser o valor de aquisição correspondente à entrada mais recente da mesma mercadoria na filial deste Estado, que promoverá a transferência, ou seja, o valor constante no documento fiscal que acobertou a operação de aquisição mais recente da mercadoria a ser transferida. Ressalta-se que, no caso de mercadoria importada do exterior que se enquadrar no disposto na Resolução do Senado Federal nº 13/2013, devem ser observadas também as regras da Portaria CAT 64/2013.
+
+7.Em que pese o entendimento deste Estado de São Paulo, na operação inversa, quando as mercadorias adquiridas no mercado interno ou importadas com entrada física no estabelecimento paranaense são transferidas da matriz no Paraná para a filial em São Paulo, a sujeição ativa é atribuída ao Estado do Paraná. Assim, a Consulente deverá se reportar à legislação desse Estado e ao respectivo Fisco dirigir eventuais dúvidas sobre essas operações.
+
+Nota Valor Consulting:
+
+(3) A Resposta à Consulta Tributária aproveita ao consulente nos termos da legislação vigente. Deve-se atentar para eventuais alterações da legislação tributária.
+
+Base Legal: Art. 39, caput, I, § único, 1 do RICMS/2000-SP; Resolução do Senado Federal nº 13/2013; Portaria CAT nº 64/2013 e; Resposta à Consulta nº 2.585M1/2016 (Checado pela Valor em 09/05/21).
+3.3.2) Promovidas por estabelecimento industrial:
+Na saída de mercadoria promovida por estabelecimento industrial para estabelecimento pertencente ao mesmo titular localizado em outro Estado da Federação, a Base de Cálculo (BC) será o custo da mercadoria produzida, assim entendido a soma do custo da matéria-prima, do material secundário, da mão de obra e do acondicionamento, atualizado monetariamente na data da ocorrência do fato gerador.
+
+A Deat, em Regime Especial, tendo em vista peculiaridade de cada contribuinte, devidamente comprovada, poderá estabelecer que o custo da mercadoria produzida seja o obtido com base em período determinado.
+
+Base Legal: Art. 39, caput, II, § único, 2 do RICMS/2000-SP e; Portaria CAT nº 18/2021 (Checado pela Valor em 09/05/21).
+3.3.3) Saídas de mercadorias não industrializadas:
+Tratando-se de transferências interestaduais de mercadorias não industrializadas, será adotado, como Base de Cálculo (BC) do ICMS, o preço corrente da mercadoria no mercado atacadista do estabelecimento remetente.
+
+Base Legal: Art. 39, caput, III do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.4) Alíquota do ICMS:
+Nas transferências de mercadorias destinadas a estabelecimento da mesma empresa localizado em território paulista (operação interna), o remetente deverá utilizar a alíquota de 7% (sete por cento), 12% (doze por cento), 18% (dezoito por cento), 20% (vinte por cento), 25% (vinte e cinco por cento) ou 30% (trinta por cento), conforme a mercadoria que estiver sendo transferida.
+
+Já nas transferências interestaduais destinadas a estabelecimento da mesma empresa localizado em outro Estado, deverá ser utilizada uma das seguintes alíquotas:
+
+4% (quatro por cento): nas operações com bens e mercadorias importados do exterior que, após o desembaraço aduaneiro: (i) não tenham sido submetidos a processo de industrialização ou; ainda que submetidos a processo de transformação, beneficiamento, montagem, acondicionamento, reacondicionamento, renovação ou recondicionamento, resultem em mercadorias ou bens com Conteúdo de Importação (CI) superior a 40% (quarenta por cento), conforme disciplina específica (1);
+7% (sete por cento): nas operações interestaduais que destinarem mercadorias aos Estados das regiões Norte, Nordeste e Centro-Oeste e ao Estado do Espírito Santo, assim como nas prestações interestaduais cujo destino seja estes Estados;
+12% (doze por cento): nas operações interestaduais que destinarem mercadorias aos Estados das regiões Sul e Sudeste, assim como nas prestações interestaduais cujo destino seja estes Estados.
+Base Legal: Arts. 52, I a II, § 2º, 53-A, 54, 54-A, 55 e 55-A do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3.5) Créditos do ICMS:
+Considerando a não-cumulatividade do ICMS, ocorrendo transferência de mercadoria tributada e não sendo os estabelecimentos optantes pelo Simples Nacional, o ICMS destacado na Nota Fiscal pelo estabelecimento remetente poderá ser utilizado como crédito pelo estabelecimento destinatário da mercadoria.
+
+Base Legal: Equipe Valor Consulting.
+3.6) Venda de mercadoria com entrega em outro estabelecimento:
+3.6.1) Entrega em filial fora do Estado (transferência a ordem):
+Em diversas oportunidades o Fisco paulista se posicionou no sentido da impossibilidade de aplicação da sistemática prevista no artigo 129 do RICMS/2000-SP nas vendas à ordem entre estabelecimentos do mesmo titular quando localizados em Estados distintos, conforme podemos verificar na Decisão Normativa abaixo:
+
+DN CAT 4/05 - DN - Decisão Normativa COORDENADOR DA ADMINISTRAÇÃO TRIBUTÁRIA - CAT nº 4 de 24.02.2005
+(...)
+
+6. Embora não sejam objeto de indagação, deve ser ressalvado, inicialmente, que:
+
+a) há algumas afirmações incorretas da Consulente sobre diferencial de alíquota, base de cálculo na transferência interestadual e adoção de procedimentos de venda à ordem, pois na realidade o que pretende é realizar "transferência à ordem", hipótese não prevista nem admitida pela legislação tributária paulista; (grifo nosso)
+
+b) não havendo a efetiva entrada dos produtos acabados no estabelecimento comercial paulista da Consulente, não há que se falar em transferência interestadual, mas sim em venda interestadual para clientes paulistas ou exportação direta, realizadas pelo seu estabelecimento fabril situado no Rio de Janeiro, ainda que o embarque seja efetuado em porto paulista.
+
+(...)
+
+As normas regulamentares editadas pelo Fisco paulista são dirigidas a estabelecimentos localizados no Estado de São Paulo. Portanto, não há como estender o mesmo regime às operações interestaduais de transferências, isto é, aplicar por analogia à operação de venda à ordem (artigo 129 do RICMS/2000-SP) quando se pretender realizar "transferência à ordem".
+
+Base Legal: Art. 129 do RICMS/2000-SP e; Item 6 da Decisão Normativa CAT nº 4/2005 (Checado pela Valor em 09/05/21).
+3.6.2) Entrega em filial dentro do Estado:
+Ocorrendo venda de mercadoria a contribuinte do ICMS, poderá o estabelecimento vendedor realizar a entrega diretamente no estabelecimento filial, desde que ambos estejam localizados no Estado de São Paulo.
+
+Na emissão dessa Nota Fiscal (transferência dentro do Estado), o estabelecimento emitente deverá fazer constar como destinatário o próprio adquirente e no campo "Informações Complementares" os endereços e os números de inscrição de ambos os estabelecimentos do adquirente, bem como a indicação expressa do local da entrega da mercadoria, no caso, a filial.
+
+O documento fiscal emitido pelo remetente deve ser registrado unicamente no estabelecimento em que, efetivamente, entrar a mercadoria, ou seja, no estabelecimento filial, sendo que este poderá efetuar o crédito do imposto, se for o caso.
+
+Como vemos, não ocorre na prática, a emissão de 2 (duas) Notas Fiscais, mas sim a emissão de um único documentos fiscal na forma mencionada.
+
+Base Legal: Art. 125, §§ 4º e 5º do RICMS/2000-SP (Checado pela Valor em 09/05/21).
+3.7) Transferência de mercadoria sujeita à substituição tributária:
+No caso de transferência de mercadoria sujeita à substituição tributária convidamos nossos leitores a lerem Roteiro de Procedimentos específico sobre esse tema em nosso "Guia do ICMS - São Paulo".
+
+Base Legal: Equipe Valor Consulting.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4) Tratamento Fiscal - IPI:
+Veremos neste capítulo as regras estabelecidas pela legislação do IPI para a operação de transferência de mercadorias de um estabelecimento contribuinte do imposto para outro estabelecimento da mesma empresa, sem previsão de retorno para o estabelecimento de origem.
+
+Base Legal: Equipe Valor Consulting.
+4.1) Transferência com suspensão do IPI:
+Os contribuintes do IPI podem transferir produtos destinados à industrialização ou comércio de um para outro estabelecimento, industrial ou equiparado à industrial, da mesma empresa, com suspensão do IPI (4), conforme prescreve o artigo 43, X do RIPI/2010:
+
+Art. 43. Poderão sair com suspensão do imposto:
+
+(...)
+
+X - os produtos remetidos, para industrialização ou comércio, de um estabelecimento industrial ou equiparado a industrial para outro da mesma firma;
+
+(...)
+
+Importante observar que a previsão normativa da suspensão do lançamento do IPI é uma faculdade atribuída ao contribuinte, cabendo a este decidir sobre sua aplicabilidade ou não no momento da emissão da Nota Fiscal.
+
+Lembramos, também, que a transferência de mercadorias para filial varejista será normalmente tributada. Isso ocorre, por que uma vez que o estabelecimento varejista não se equipara à indústria, o valor tributável não poderá ser inferior que 90% (noventa por cento) do preço de venda aos consumidores.
+
+Por fim, lembramos que, além dos demais requisitos normalmente exigidos pela legislação, a Nota Fiscal, modelos 1, 1-A ou 55 (NF-e), que acobertar a operação de transferência, se amparada pela suspensão do IPI, deve conter, no campo "Dados Adicionais", a seguinte expressão:
+
+"IPI suspenso, conforme artigo 43, inciso X, do RIPI/2010 (Decreto nº 7.212/2010)".
+Nota Valor Consulting:
+
+(4) Na operação beneficiada com suspensão haverá normalmente a tributação do IPI, mas em momento posterior, portanto, temos que na suspensão o lançamento do imposto fica prorrogado para a saída posterior quando, então, ocorrerá a circulação econômica.
+
+Base Legal: Art. 43, caput, X do RIPI/2010 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.2) Transferência com destaque do IPI:
+Conforme tratamos no subcapítulo anterior, as transferências realizadas entre estabelecimentos contribuintes, a critério do remetente, poderão ser realizadas ao abrigo da suspensão do IPI. Portanto, a contrário senso, as transferências de um estabelecimento industrial ou equiparado, com destino a estabelecimentos que não sejam contribuintes do imposto, deverão ser realizadas obrigatoriamente com destaque desse imposto.
+
+Assim, nas hipóteses de transferência com destaque do IPI (contribuinte obrigado ao destaque ou contribuinte que destacar por opção), o contribuinte remetente deverá observar as regras para fixação do valor tributável/base de cálculo tratadas nos subcapítulos seguintes.
+
+Base Legal: Equipe Valor Consulting.
+4.2.1) Transferências para filial atacadista ou interdependente:
+Primeiramente, cumpre-nos esclarecer que o Regulamento do IPI considera como sendo atacadista o estabelecimento que efetuar vendas:
+
+de bens de produção, exceto a particulares em quantidade que não exceda a normalmente destinada ao seu próprio uso;
+de bens de consumo, em quantidade superior àquela normalmente destinada a uso próprio do adquirente; e
+a revendedores.
+Na hipótese de transferência tributada de mercadoria, realizada por estabelecimento industrial ou equiparado, para filial atacadista ou para estabelecimento com a qual mantenha relação de interdependência, o valor tributável (ou BC) do IPI na operação não poderá ser inferior ao preço corrente no mercado atacadista da praça do remetente.
+
+Referido preço corrente no mercado atacadista da praça do remetente já foi objeto de várias dúvidas e questionamentos por parte dos contribuintes, por isso mesmo, foi baixado o Parecer Normativo CST nº 44/1981 que nos trouxe importantes esclarecimentos. Reproduzimos abaixo trechos do citado Parecer para que nossos leitores tenham um melhor entendimento sobre o assunto:
+
+(...)
+
+6. Registram os Dicionários da Língua Portuguesa que mercado, convencionalmente, significa a referência feita em relação à compra e venda de determinados produtos.
+
+6.1 - Isto significando, por certo, que numa mesma cidade, ou praça comercial, o mercado atacadista de determinado produto, como um todo, deve ser considerado relativamente ao universo das vendas que se realizam naquela mesma localidade, e não somente em relação àquelas vendas efetuadas por um só estabelecimento, de forma isolada.
+
+7. Por isso, os preços praticados por outros estabelecimentos da mesma praça que a do contribuinte interessado em encontrar o valor tributável do IPI através do preço corrente no mercado atacadista devem ser considerados para o cálculo da média ponderada de que trata o § 5º do art. 46 do RIPI/79 (5).
+
+(...)
+
+Como podemos observar no item 7 do Parecer Normativo CST nº 44/1981, para se conhecer o preço corrente no mercado atacadista, além do contribuinte recorrer aos preços por ele próprio praticados, deverá recorrer também aos demais preços praticados por outros estabelecimentos da mesma praça.
+
+Posteriormente a publicação deste Parecer Normativo, foi baixado o Ato Declaratório Normativo CST nº 5/1982, que teve como objetivo melhor elucidar o termo "produto" a que se refere o subitem 6.1 do Parecer Normativo CST nº 44/1981, o qual esclareceu ser este uma mercadoria perfeitamente caracterizada por marca, tipo, modelo, espécie, qualidade e número, se houver, na forma indicada no artigo 205, VIII do RIPI/1979 (6).
+
+O Ato Declaratório Normativo CST nº 5/1982 esclareceu, ainda, que do produto assim caracterizado, para efeito de cálculo da média ponderada, de que trata o artigo 46, § 5º do RIPI/1979 (5), que determinará o valor tributável mínimo a que alude o artigo 46, I, do RIPI/1979 (7), deverão ser consideradas as vendas efetuadas pelos remetentes e pelos interdependentes do remetente, no atacado, na mesma localidade, excluídos os valores de frete e IPI (8).
+
+Para melhor entendimento, reproduzimos, a seguir, o citado Ato Declaratório:
+
+Ato Declaratório Normativo CST Nº 5/82 (DOU de 4/5/82)
+
+O Coordenador do Sistema de Tributação, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF nº 34, de 18 de setembro de 1974, e tendo em vista o Parecer CST/DET nº 892/82,
+
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados, que o termo produto, constante do subitem 6.1 do Parecer Normativo CST nº 44, de 23 de novembro de 1981, indica uma mercadoria perfeitamente caracterizada e individualizada por marca, tipo, modelo, espécie, qualidade e número, se houver, na forma indicada no inciso VIII do art. 205 do Regulamento aprovado pelo Decreto nº 83.263, de 9 de março de 1979 (RIPI).
+
+Declara, igualmente, que, do produto assim caracterizado, para efeito de cálculo da média ponderada de que trata o § 5º do art. 46 do RIPI/79, que determinará o valor tributável mínimo a que alude o art. 46, inciso I, do mesmo Regulamento, deverão ser consideradas as vendas efetuadas pelo remetentes e pelos interdependentes do remetente, no atacado, na mesma localidade, excluídos os valores de frete e IPI.
+
+Em conclusão, temos que para se determinar o preço corrente no mercado atacadista da praça do remetente, na hipótese de existir vários preços para um mesmo produto, o contribuinte deverá considerar a média ponderada dos preços de cada produto, em vigor no mês anterior ao da saída do estabelecimento remetente, ou, na sua falta, aos preços vigentes no mês imediatamente anterior àquele. Já, a média ponderada dos preços de cada produto deverá ser apurada considerando as seguintes regras:
+
+individualização dos Produtos: o produto ou produtos que terão seus preços utilizados para cálculo da média devem ser caracterizados e individualizados por marca, tipo, modelo, espécie, qualidade e número, se houver;
+vendas de remetentes e interdependentes também contam: para fins de apuração desta média, devem ser também consideradas as vendas no atacado, na mesma localidade, excluídos os valores do frete e do IPI, efetuados pelos remetentes e pelos interdependentes do remetente.
+Notas Valor Consulting:
+
+(5) O artigo 46, § 5º do RIPI/1979 corresponde ao artigo 196 do RIPI/2010, atualmente em vigor.
+
+(6) O artigo 205, VIII do RIPI/1979 corresponde ao artigo 413, IV, "b" do RIPI/2010, atualmente em vigor.
+
+(7) O artigo 46, I, do RIPI/1979 corresponde ao artigo 195 do RIPI/2010, atualmente em vigor.
+
+(8) Na legislação atual do IPI, a parcela do frete passou a integrar o valor tributável do IPI, conforme artigo 190, § 1º do RIPI/2010.
+
+Base Legal: Arts. 14, I, "a" a "c", 190, § 1º, 195, I, 196 e 413, IV, "b" do RIPI/2010; Itens 6 e 7 do Parecer Normativo CST nº 44/1981 e; Ato Declaratório Normativo CST nº 5/1982 (Checado pela Valor em 09/05/21).
+4.2.1.1) Inexistência do preço corrente no mercado atacadista da praça do remetente:
+Não existindo preço corrente no mercado atacadista, os seguintes valores serão tomados como BC do IPI, de acordo com a situação específica:
+
+no caso de produto importado: o valor que serviu de BC ao Imposto de Importação (II), acrescido desse tributo e demais elementos componentes do custo do produto, inclusive a margem de lucro normal; e
+no caso de produto nacional: o custo de fabricação, acrescido dos custos financeiros e dos de venda, administração e publicidade, bem como do seu lucro normal e das demais parcelas que devam ser adicionadas ao preço da operação, ainda que os produtos hajam sido recebidos de outro estabelecimento da mesma firma que os tenha industrializado.
+Base Legal: Art. 196, § único, I, II do RIPI/2010 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.2.2) Transferência para filial varejista:
+Considera-se estabelecimento comercial varejista, para fins da legislação do IPI, o que efetuar vendas diretas a consumidor, ainda que realize vendas por atacado esporadicamente, considerando-se esporádicas as vendas por atacado quando, no mesmo semestre civil, o seu valor não exceder a 20% (vinte por cento) do total das vendas realizadas. Portanto, podemos concluir que varejista é aquele estabelecimento que, no semestre civil, realize vendas diretas a consumidor que representem, no mínimo, 80% (oitenta por cento) do total das vendas realizadas.
+
+Base Legal: Art. 14, caput, II do RIPI/2010 (Checado pela Valor em 09/05/21).
+4.2.2.1) Valor tributável:
+A BC mínima do IPI nas transferências, internas ou interestaduais, para filial exclusivamente varejista não pode ser inferior a 90% (noventa por cento) do preço de venda aos consumidores. Além disso, da aplicação desse percentual (90%) não pode resultar valor tributável inferior ao preço corrente do produto no mercado atacadista da praça do remetente.
+
+Base Legal: Art. 195, caput, II do RIPI/2010.
+4.2.2.2) Complementação do IPI na venda por preço superior:
+Sempre que o estabelecimento comercial varejista vender o produto que houver recebido em transferência por preço superior ao que haja servido à determinação do valor tributável, será este reajustado com base no preço real de venda, o qual, acompanhado da respectiva demonstração, será comunicado ao remetente (industrial), até o último dia do período de apuração subsequente ao da ocorrência do fato, para efeito de lançamento e recolhimento do imposto sobre a diferença verificada.
+
+O estabelecimento industrial, quando do recebimento da citada demonstração, deverá emitir Nota Fiscal Complementar para lançamento da diferença, até o último dia útil do período de apuração em relação ao movimento de entradas e saídas de produtos no período anterior.
+
+Base Legal: Arts. 195, § 1º e 407, IX, § 4º do RIPI/2010 (Checado pela Valor em 09/05/21).
+4.3) Seção de varejo:
+Caracteriza seção de varejo de um estabelecimento industrial a dependência interna destinada a venda a consumidor, isolada das demais partes da empresa, com que exerce perfeita distinção e controle dos produtos saídos de cada uma delas.
+
+No caso de o produto sair de qualquer seção do estabelecimento industrial com destino a seção de varejo, inexiste a obrigatoriedade da emissão de qualquer documento fiscal para acobertar a operação, tampouco exige-se o lançamento do imposto.
+
+A obrigação de lançar o IPI (incidente sobre o valor total da operação), no caso em análise, surge no momento da realização da venda, ou seja, no momento que o produto sai da seção de varejo. Contudo, a legislação permite, para o movimento diário da seção de varejo, a emissão de uma única Nota Fiscal com destaque do IPI, no fim do dia, para os produtos vendidos.
+
+A respeito da emissão de documento fiscal pelas vendas realizadas por seção de varejo, reproduzimos a seguir a Decisão nº 66/1999 da Superintendência Regional da Receita Federal (7º Região), a qual bem elucida o assunto:
+
+MINISTÉRIO DA FAZENDA SECRETARIA DA RECEITA FEDERAL
+SUPERINTENDÊNCIA REGIONAL DA RECEITA FEDERAL
+7º REGIÃO
+
+Decisão nº 66 de 11 de março de 1999
+
+Assunto: Imposto sobre Produtos Industrializados
+
+EMENTA: Emissor de cupom fiscal. Destaque do imposto. A exigência de uso do equipamento Emissor de Cupom Fiscal, por parte dos comerciantes varejistas, não afasta a exigência da emissão da nota fiscal de saída do produto por parte do industrial ou equiparado, nos termos da legislação do IPI, sempre que o cupom não ofereça destaque do imposto. É cabível a faculdade de emissão de nota fiscal diária, desde que atendidos os requisitos da legislação. (RIPI/2002, arts. 334 e 518, VI).
+
+Base Legal: Arts. 408 e 609, VI do RIPI/2010 e; Decisão nº 66/1999 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5) Emissão da Nota Fiscal:
+As operações de transferência de mercadorias entre estabelecimentos de um mesmo titular devem ser realizadas mediante a emissão de Nota Fiscal, Modelos 1, 1A ou 55 (Nota Fiscal Eletrônica - NF-e), com destaque do ICMS (salvo se o produto estiver amparado por benefício fiscal). Na emissão do referido documento fiscal devem ser observados todos os requisitos regulamentares previstos nos artigos 127 e 130 do RICMS/2000-SP e na Portaria CAT nº 162/2008, este na hipótese de contribuinte obrigado a emissão de NF-e.
+
+Dentre todos os requisitos regulamentares previstos para emissão de Nota Fiscal, destacamos o correto uso do Código Fiscal de Operação e Prestação (CFOP), pois é ele que nos permite diferenciar as diversas operações possíveis de serem realizadas por contribuintes do ICMS e do IPI. Deste modo, o contribuinte, na emissão da Nota Fiscal de transferência de mercadorias deverá utilizar um dos seguintes CFOPs:
+
+CFOP	Descrição
+Operações de Saída:
+5.151/6.151	Transferência de produção do estabelecimento
+Transferência de produto industrializado ou produzido no estabelecimento para outro estabelecimento da mesma empresa.
+5.152/6.152	Transferência de mercadoria adquirida e/ou recebida de terceiros
+Mercadoria adquirida ou recebida de terceiros para industrialização, comercialização ou utilização na prestação de serviço e que não tenha sido objeto de qualquer processo industrial no estabelecimento, transferida para outro estabelecimento da mesma empresa.
+5.155/6.155	Transferência de produção do estabelecimento, que não deva por ele transitar
+Classificam-se neste código as transferências para outro estabelecimento da mesma empresa, de produtos industrializados no estabelecimento que tenham sido remetidos para armazém geral, depósito fechado ou outro, sem que haja retorno ao estabelecimento depositante.
+5.156/6.156	Transferência de mercadoria adquirida ou recebida de terceiros, que não deva por ele transitar
+Classificam-se neste código as transferências para outro estabelecimento da mesma empresa, de mercadorias adquiridas ou recebidas de terceiros para industrialização ou comercialização, que não tenham sido objeto de qualquer processo industrial, remetidas para armazém geral, depósito fechado ou outro, sem que haja retorno ao estabelecimento depositante.
+5.408/6.408	Transferência de produção do estabelecimento em operação com produto sujeito ao regime de substituição tributária
+Classificam-se neste código os produtos industrializados ou produzidos no próprio estabelecimento em transferência para outro estabelecimento da mesma empresa de produtos sujeitos ao regime de substituição tributária.
+5.409/6.409	Transferência de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita ao regime de substituição tributária
+Classificam-se neste código as transferências para outro estabelecimento da mesma empresa de mercadorias adquiridas ou recebidas de terceiros que não tenham sido objeto de qualquer processo industrial no estabelecimento, em operações com mercadorias sujeitas ao regime de substituição tributária.
+Já o estabelecimento que receber as mercadorias em transferência deverá utilizar umas das seguintes CFOPs:
+
+CFOP	Descrição
+Operações de Entrada:
+1.151/2.151	Transferência para industrialização ou produção rural
+Entrada de mercadoria recebida, em transferência de outro estabelecimento da mesma empresa, para ser utilizada em processo de industrialização ou produção rural.
+1.152/2.152	Transferência para comercialização
+Classificam-se neste código as entradas de mercadorias recebidas em transferência de outro estabelecimento da mesma empresa, para serem comercializadas.
+1.408/2.408	Transferência para industrialização ou produção rural em operação com mercadoria sujeita ao regime de substituição tributária
+Classificam-se neste código as mercadorias recebidas em transferência de outro estabelecimento da mesma empresa, para serem industrializadas no estabelecimento, em operações com mercadorias sujeitas ao regime de substituição tributária.
+1.409/2.409	Transferência para comercialização em operação com mercadoria sujeita ao regime de substituição tributária
+Classificam-se neste código as mercadorias recebidas em transferência de outro estabelecimento da mesma empresa, para serem comercializadas, decorrentes de operações sujeitas ao regime de substituição tributária.
+Ressalta-se que existem outros CFOPs para operações diversas das exemplificadas, mas que se aplicam a setores específicos como, por exemplo, CFOP relativo à transferência de material de uso e consumo, transferência de energia elétrica, mas que não são o foco deste trabalho. Assim, recomendamos acessar nossa "Lista de CFOPs (Entradas e Saídas)" afim de consultar todas as CFOPs existentes na legislação do ICMS e do IPI.
+
+A fim de exemplificar as regras tratadas neste Roteiro de Procedimentos, suponhamos que a empresa Vivax Indústria e Comércio de Eletrônicos Ltda., indústria sediada no Município de Campinas/SP, tenha transferido para sua filial localizada no Município de São Paulo 100 (cem) monitores para computador a um preço FOB estabelecimento industrial à vista de R$ 400,00 (quatrocentos reais). Considerando, ainda, que a filial paulista seja empresa equiparada a industrial para efeitos de IPI, teremos a emissão do seguinte documento fiscal:
+
+Nota Fiscal de Transferência de Mercadoria
+Figura 1: Nota Fiscal de Transferência de Mercadoria.
+Base Legal: Arts. 127 e 130 do RICMS/2000-SP e; Portaria CAT nº 162/2008 (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.1) Escrituração da NF-e no Sped-Fiscal:
+A NF-e relativa à transferência de mercadorias deverá ser lançada no Sped-Fiscal do estabelecimento emitente. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+
+Lembramos que, para a efetiva geração do Sped-Fiscal, outros registros deverão ser apresentados, devendo o contribuinte observar as disposições do Ato Cotepe/ICMS nº 44/2018 e alterações posteriores, bem como o Guia Prático da Escrituração Fiscal Digital - EFD ICMS/IPI.
+
+Assim, considerando a Nota Fiscal de transferência analisada no capítulo 5 acima, a Vivax deverá escriturá-la nos referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Ato Cotepe/ICMS nº 44/2018 e; Guia Prático da EFD-ICMS/IPI (Checado pela Valor em 09/05/21).
+5.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal relativa à transferência de mercadorias, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000154768
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	150320X1
+11	DT_E_S	150320X1
+12	VL_DOC	40000,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	40000,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	40000,00
+22	VL_ICMS	7200,00
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+
+Base Legal: Registro C100 da EFD-ICMS/IPI (Checado pela Valor em 09/05/21).
+
+5.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal relativa à transferência de mercadorias, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Saída com Suspensão do IPI, conforme artigo 43, X do RIPI/2010, aprovado pelo Decreto nº 7.212/2010.
+Base Legal: Registro C110 da EFD-ICMS/IPI (Checado pela Valor em 09/05/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por Código de Situação Tributária (CST), CFOP e Alíquota de ICMS. No caso da Nota Fiscal relativa à transferência de mercadorias, a mesma deverá ser registrada da seguinte forma:
+
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	000
+03	CFOP	5151
+04	ALIQ_ICMS	18
+05	VL_OPR	40000,00
+06	VL_BC_ICMS	40000,00
+07	VL_ICMS	7200,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	Código interno do declarante
+
+Base Legal: Registro C190 da EFD-ICMS/IPI (Checado pela Valor em 09/05/21).

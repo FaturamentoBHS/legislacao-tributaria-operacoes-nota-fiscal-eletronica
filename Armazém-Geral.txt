@@ -1,0 +1,48 @@
+Os contribuintes por falta de espaço em seus estoques ou por questões de redução de custos, podem optar em utilizar os serviços de empresas de armazéns-gerais para guardar e conservar seus produtos.
+
+requisitos estabelecidos nos artigos 125 e 127 do RICMS/2000-SP
+
+Referida Nota Fiscal, deverá ser emitida sem o destaque do ICMS, haja vista a não incidência do imposto insculpida no artigo 7º, I do RICMS/2000-SP, in verbis:
+
+Artigo 7º - O imposto não incide sobre:
+
+I - a saída de mercadoria com destino a armazém geral situado neste Estado, para depósito em nome do remetente;
+
+(...)
+
+Na emissão da Nota Fiscal de remessa para armazém-geral dentro do Estado de São Paulo, o contribuinte do ICMS e/ou do Imposto sobre Produtos Industrializados (IPI) deverá fazer constar no documento fiscal, além dos demais requisitos normalmente exigidos, no mínimo as seguintes informações:
+
+Remessa para armazém-geral:
+a natureza da operação: "Outras Saídas - Remessa para armazém-geral";
+CFOP: 5.905;
+CST-ICMS: o código X41, sendo "X" a origem da mercadoria(Regime Normal) ou o código x400, sendo "X" a origem da mercadoria.
+CST do IPI: 55 - Suspensão;
+Código de enquadramento legal do IPI: 101;
+o valor das mercadorias;
+no campo "Informações Complementares", no quadro "Dados Adicionais": as indicações "Não Incidência do ICMS, conforme artigo 7º, inciso I do RICMS/2000-SP" e, "Saído com Suspensão do IPI, conforme artigo 43, inciso III do RIPI/2010", quando contribuinte deste imposto.
+Nota Valor Consulting:
+
+Base Legal: Arts. 43, caput, III, 415, caput, III e 482 do RIPI/2010 e; Arts. 7º, I, 125 e 127 do Anexo VII do RICMS/2000-SP
+
+
+Retorno de armazém-geral:
+a natureza da operação: "Outras Saídas - Retorno de armazém-geral";
+CFOP: 5.906;
+CST do IPI: 55 - Suspensão;
+Código de enquadramento legal do IPI: 101;
+o valor das mercadorias;
+no campo "Informações Complementares", no quadro "Dados Adicionais": as indicações"Não Incidência do ICMS, conforme artigo 7º, inciso III do RICMS/2000-SP" e, "Saído com Suspensão do IPI, conforme artigo 43, inciso III do RIPI/2010", quando contribuinte deste imposto.
+
+Base Legal: Art. 43, caput, III, caput, 415, III e 482 do RIPI/2010 e; Art. 7º do Anexo VII do RICMS/2000-SP
+
+Saída de armazém-geral com destino a outro estabelecimento:
+
+Base Legal: Art. 483, caput do RIPI/2010 e; Art. 8º do Anexo VII do RICMS/2000-SP
+
+
+Responsabilidade pelo pagamento do ICMS:
+Base Legal: Art. 11, caput, I do RICMS/2000-SP
+
+
+Artigo do site Valor Consulting: https://www.valor.srv.br/artigo.php?id=36
+

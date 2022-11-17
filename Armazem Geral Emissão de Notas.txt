@@ -1,0 +1,29 @@
+Armazem Geral emissão de notas
+
+ROSANGELA DOS SANTOS PEREIRA
+
+
+Colegas, estou a abrir uma empresa de Deposito de mercadorias de terceiros, sera um deposito que ira armazenar estoques de empresas varejistas e atacadistas. 
+Como nunca trabalhei com esse tipo de empresa, gostaria de saber como funciona.
+A empresa ira prestar um serviço certo?
+Minha duvida é referente a circulação das entradas ate o deposito e do deposito até a loja ou destinação. Como é emitida essa nota de revenda. ja que as entradas dessas empresas irão ficar armazenadas nesse deposito?
+Grata
+
+
+ 
+
+JOSE FLAVIO DA SILVA
+
+1) A empresa ira prestar um serviço certo?
+
+RESP. Sim, o armazém geral tem como objetivo a guarda e conservação de mercadorias e a emissão de títulos especiais (artigo 1º do Decreto Federal nº 1.102 de 21 de novembro de 1.903). Portanto, armazém geral é um estabelecimento que tem como objetivo o armazenamento e a guarda de mercadorias de terceiros.
+É um prestador de serviço e está indicado no item 11.04 da lista anexa à Lei Complementar nº 116/2003.
+
+2) Minha duvida é referente a circulação das entradas ate o deposito e do deposito até a loja ou destinação.
+Como é emitida essa nota de revenda. já que as entradas dessas empresas irão ficar armazenadas nesse deposito?
+
+RESP. – Não incide o ICMS nas operações de remessa de mercadoria destinada a armazém geral  e de retorno ao estabelecimento remetente, quando situados no próprio Estado.
+Agora, quando a mercadoria sai do armazém geral para outro estabelecimento diferente do depositante, então, incide o ICMS. O Depositante emitirá NF-e com incidência do ICMS.
+Atenção, porque para a legislação do ICMS, o armazém geral é responsável pelo pagamento do ICMS quando a mercadoria é depositada por contribuinte de outro Estado; assim, caso o Estado da federação do armazém geral seja diferente do Estado do estabelecimento depositante, nesse caso, o armazém geral é o responsável pelo ICMS.
+
+Obs. Nas legislações de todos os Estados existem a seção que trata do armazém geral, lá encontrará o passo a passo de emissão, da mesma forma como consta nos artigos 26 a 39 do Convênio SN 1970.

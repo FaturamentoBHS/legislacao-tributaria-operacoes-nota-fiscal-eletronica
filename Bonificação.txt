@@ -1,0 +1,13 @@
+Operação de Bonificação
+
+
+De acordo com o artigo 127, § 19, do RICMS/SP é permitida a inclusão de operações enquadradas em diferentes Códigos Fiscais de Operações e Prestações (CFOP) numa mesma nota fiscal, hipótese em que estes serão indicados neste campo e no quadro "EMITENTE" e no quadro "DADOS DO PRODUTO", na linha correspondente a cada item, após a descrição do produto.
+Diante do exposto na legislação paulista, fica claro que, salvo eventual posicionamento diverso dado pelo Fisco, a remessa da mercadoria a título de bonificação poderá ser feita de duas maneiras:
+a) com a mesma nota fiscal relativa à venda da mercadoria;
+b) com nota fiscal específica para a operação.
+Desta forma, nas operações de saídas de mercadoria a título de bonificação, o estabelecimento remetente deverá emitir Nota Fiscal, modelos 1 ou 1-A ou Nota Fiscal Eletrônica (modelo 55), caso o contribuinte esteja obrigado à emissão desse documento, contendo, além dos demais requisitos, as seguintes informações:
+a) no campo natureza da operação, a expressão: “Bonificação”;
+b) no campo do CFOP, o código 5.910 (operações internas) ou o 6.910 (operações interestaduais), conforme o caso;
+c) do valor do ICMS: quando devido, calculado pela alíquota interna ou interestadual, dependendo da operação realizada;
+d) no campo do CST: o código X00 “tributado integralmente”, se for o caso, para empresas tributadas pelo regime normal, e o CSOSN 400, para empresas optantes pelo Simples Nacional.
+Havendo aplicação do ICMS-ST somente deve haver a troca do CST para o X10 e do CSOSN para 201 ou 202, conforme o caso.

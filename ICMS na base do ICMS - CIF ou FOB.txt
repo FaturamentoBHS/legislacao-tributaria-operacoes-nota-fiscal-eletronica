@@ -1,0 +1,6 @@
+O frete ira compor a base do ICMS quando ele for cif ou fob ?
+
+RESP.  Quando for CIF sim, o frete irá compor a base de cálculo do ICMS.
+Seja o serviço efetuado no próprio veículo do vendedor, seja o serviço de transporte terceirizado por um transportador (este emitirá o CT-e); em quaisquer desses casos o valor do serviço de transporte entra na base de cálculo do ICMS da mercadoria.
+Quando for FOB e o serviço for feito no próprio veículo do vendedor, então, o vendedor deverá emitir um CT-e (afinal, temos uma prestação de serviço, o vendedor está agindo como transportadora).
+Nesse caso, o valor do serviço de transporte não entra na base de cálculo da mercadoria, estamos diante de uma prestação com cláusula FOB em que os fatos geradores da saída da mercadoria e da prestação de serviço são distintos.

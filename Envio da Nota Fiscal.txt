@@ -1,0 +1,7 @@
+portaria cat 162 de 29/12/08, artigo 13° paragrafo 6
+
+Artigo 13 - Após a análise a que se refere o artigo 12, a Secretaria da Fazenda comunicará o emitente, alternativamente:
+
+...
+
+§ 6º - O emitente da NF-e deverá, obrigatoriamente, disponibilizar “download” ou encaminhar o arquivo digital da NF-e e seu respectivo protocolo de autorização ao destinatário.

@@ -1,0 +1,78 @@
+
+Veremos neste Roteiro as Tabelas "A" e "B" do Anexo Único do Ajuste Sinief nº 7/2005, acrescentado pelo Ajuste Sinief nº 3/2010, com os respectivos Códigos de Regime Tributário (CRT) e de Situação da Operação no Simples Nacional (CSOSN), a serem inseridos no arquivo ".xml" da Nota Fiscal Eletrônica (NF-e). Este texto está atualizado até a publicação do Ajuste Sinief nº 14/2019, que revogou a utilização desses códigos a partir 01/01/2022
+
+
+1) Introdução:
+A Nota Fiscal Eletrônica (NF-e), Modelo 55, é um modelo de documento fiscal de existência apenas digital com validade jurídica garantida pela assinatura digital do emitente. A fase do projeto piloto da NF-e foi iniciada em 2005 e foi criada para substituir a Nota Fiscal, Modelos 1 e 1-A, utilizada pelos contribuintes do Imposto sobre Produtos Industrializados (IPI) e do ICMS. Atualmente, a NF-e deixou o status de projeto piloto, tornando-se um instituto oficial de controle fiscal recebido pelas Secretarias de Fazenda dos Estados.
+
+O conceito adotado trata a NF-e como um documento emitido e armazenado eletronicamente, com o intuito de documentar, para fins fiscais uma operação de circulação de mercadorias ou uma prestação de serviços garantida pela assinatura digital e recepção pela Fazenda (1).
+
+Com o objetivo de auxiliar clientes que possuem dúvidas em relação ao cadastramento de informações e tributação dos produtos, nossa Equipe Técnica resolveu elaborar o presente Roteiro de Procedimentos com a descrição e orientação de alguns campos importantes e obrigatórios para a emissão dos documentos fiscais, sejam NF-e ou Cupom Fiscal (CF). Dentre esses campos, 2 (dois) merecem destaque no presente momento, quais sejam: i) Código de Regime Tributário (CRT) e; ii) Código de Situação da Operação no Simples Nacional (CSOSN).
+
+Esses campos foram criados a partir da NF-e 2.0 e são obrigatórios para os contribuintes que concomitantemente estejam sujeitas às normas do Simples Nacional e sejam emissores de NF-e. Abaixo publicamos na íntegra as Tabelas "A" e "B" com os respectivos CRT e CSOSN, mas, lembramos que você, nosso estimado leitor, deve consultar o seu contabilista, pois ele é a pessoa tecnicamente preparada para lhe prestar esclarecimentos sobre o correto uso dessas Tabelas.
+
+Por fim, registramos que a Tabela A (CRT) e a Tabela B (CSOSN) foram inseridas em nosso ordenamento tributário através do Anexo Único do Ajuste Sinief nº 7/2005, acrescentado pelo Ajuste Sinief nº 3/2010.
+
+Nota Valor Consulting:
+
+(1) Lembramos que para emissão da NF-e o contribuinte deverá observar entre outras normas, as do Ajuste Sinief nº 7/2005, que instituiu esse documento eletrônico, bem como as instruções contidas no Manual de Orientação do Contribuinte (MOC), disponível na página do Conselho Nacional de Política Fazendária (Confaz) no endereço www.confaz.fazenda.gov.br.
+
+Base Legal: Anexo I do Ajuste Sinief nº 7/2005 (Checado pela Valor em 28/04/21).
+2) Códigos de Regime Tributário (CRT):
+Quando o contribuinte estiver sujeito as normas do Simples Nacional e concomitantemente for emissor de NF-e deverá indicar o CRT no preenchimento do documento fiscal eletrônico que emitir. Assim, apresentamos abaixo a Tabela com os CRT a serem inseridos no arquivo ".xml" da NF-e a partir de 01/01/2010:
+
+Tabela A - Código de Regime Tributário (CRT)
+1 - Simples Nacional
+2 - Simples Nacional - excesso de sublimite da receita bruta
+3 - Regime Normal
+Notas Explicativas:
+
+O código 1 será preenchido pelo contribuinte quando for optante pelo Simples Nacional.
+
+O código 2 será preenchido pelo contribuinte optante pelo Simples Nacional mas que tiver ultrapassado o sublimite de receita bruta fixado pelo Estado/DF e estiver impedido de recolher o ICMS/ISS por esse regime, conforme artigos 19 e 20 da Lei Complementar nº 123/2006.
+
+O código 3 será preenchido pelo contribuinte que não estiver na situação 1 ou 2.
+
+Nota Valor Consulting:
+
+(2) Conforme cláusula terceira do Ajuste Sinief nº 14/2019, restou revogado o Anexo I do Ajuste Sinief nº 7/2005 que trata dos "Códigos de Detalhamento do Regime e da Situação". Mas atenção, a revogação produz efeitos apenas a partir 01/01/2022.
+
+Base Legal: Anexo I do Ajuste Sinief nº 7/2005 e; Cláusulas 3ª e 4ª, caput, I do Ajuste Sinief nº 14/2019 (Checado pela Valor em 28/04/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3) Códigos de Situação da Operação no Simples Nacional (CSOSN):
+Quando o contribuinte estiver sujeito as normas do Simples Nacional e concomitantemente for emissor de Nota Fiscal Eletrônica (NF-e) deverá indicar o CSOSN no preenchimento do documento fiscal eletrônico que emitir. Assim, apresentamos abaixo a Tabela com os CSOSN a serem inseridos no arquivo ".xml" da NF-e a partir de 01/01/2010:
+
+Tabela B - Código de Situação da Operação no Simples Nacional (CSOSN)
+Código	Descrição
+101 - Tributada pelo Simples Nacional com permissão de crédito	- Classificam-se neste código as operações que permitem a indicação da alíquota do ICMS devido no Simples Nacional e o valor do crédito correspondente.
+102 - Tributada pelo Simples Nacional sem permissão de crédito	- Classificam-se neste código as operações que não permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e não estejam abrangidas nas hipóteses dos códigos 103, 203, 300, 400, 500 e 900.
+103 - Isenção do ICMS no Simples Nacional para faixa de receita bruta	- Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contemplados com isenção concedida para faixa de receita bruta nos termos da Lei Complementar nº 123, de 2006.
+201 - Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária	- Classificam-se neste código as operações que permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e com cobrança do ICMS por substituição tributária.
+202 - Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária	- Classificam-se neste código as operações que não permitem a indicação da alíquota do ICMS devido pelo Simples Nacional e do valor do crédito, e não estejam abrangidas nas hipóteses dos códigos 103, 203, 300, 400, 500 e 900, e com cobrança do ICMS por substituição tributária.
+203 - Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária	- Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contemplados com isenção para faixa de receita bruta nos termos da Lei Complementar nº 123, de 2006, e com cobrança do ICMS por substituição tributária.
+300 - Imune	- Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional contempladas com imunidade do ICMS.
+400 - Não tributada pelo Simples Nacional	- Classificam-se neste código as operações praticadas por optantes pelo Simples Nacional não sujeitas à tributação pelo ICMS dentro do Simples Nacional.
+500 - ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação	- Classificam-se neste código as operações sujeitas exclusivamente ao regime de substituição tributária na condição de substituído tributário ou no caso de antecipações.
+900 - Outros	- Classificam-se neste código as demais operações que não se enquadrem nos códigos 101, 102, 103, 201, 202, 203, 300, 400 e 500.
+Nota Explicativa:
+
+O CSOSN será usado na NF-e exclusivamente quando o CRT for igual a “1”, e substituirá os códigos da Tabela B - Tributação pelo ICMS do Anexo Código de Situação Tributária - CST do Convênio s/nº de 15 de dezembro de 1970.
+
+Nota Valor Consulting:
+
+(3) Conforme cláusula terceira do Ajuste Sinief nº 14/2019, restou revogado o Anexo I do Ajuste Sinief nº 7/2005 que trata dos "Códigos de Detalhamento do Regime e da Situação". Mas atenção, a revogação produz efeitos apenas a partir 01/01/2022.
+
+Base Legal: Anexo I do Ajuste Sinief nº 7/2005 e; Cláusulas 3ª e 4ª, caput, I do Ajuste Sinief nº 14/2019 (Checado pela Valor em 28/04/21).
+Informações Adicionais:
+
+Este material foi escrito no dia 06/02/2012 pelo(a) Valor Consulting e está atualizado até a doutrina e legislação vigente em 28/04/2021 (data da sua última atualização), sujeitando-se, portanto, às mudanças em decorrência das alterações doutrinárias e legais.
+
+Lembramos que não é permitido a utilização dos materiais aqui publicados para fins comerciais, pois os mesmos estão protegidos por direitos autorais. Também não é permitido copiar os artigos, materias e arquivos do Portal Valor Consulting para outro site, sistema ou banco de dados para fins de divulgação em sites, revistas, jornais, etc. de terceiros sem a autorização escrita dos proprietários do Portal Valor Consulting.
+
+A utilização para fins exclusivamente educacionais é permitida, desde que indicada a fonte:
+
+"Valor Consulting. Código de Regime Tributário (CRT) e Código de Situação da Operação no Simples Nacional (CSOSN) (Área: Tabelas do ICMS (SP)). Disponível em: https://www.valor.srv.br/artigo.php?id=85&titulo=codigo-de-regime-tributario-crt-e-codigo-de-situacao-da-operacao-no-simples-nacional-csosn. Acesso em: 07/10/2021."
+

@@ -1,0 +1,62 @@
+Carta de Correção Eletrônica: o que é e quando pode ser emitida?
+
+Durante o processo de emissão de notas fiscais eletrônicas, alguns procedimentos acontecem com pouca frequência e tiram o varejista da rotina comum dessa operação
+ 
+Carta de Correção Eletrônica: o que é e quando pode ser emitida?
+
+O que é a Carta de Correção Eletrônica dentro do processo de emissão de notas?
+Após a Nota Fiscal Eletrônica (NF-e) ser autorizada pela SEFAZ, ela não poderá sofrer alterações, pois qualquer modificação no seu conteúdo invalida a sua assinatura digital.
+
+Caso seja identificado irregularidades na sua emissão, a empresa poderá realizar o cancelamento da mesma desde que não tenha havido circulação de mercadorias.
+
+É possível também emitir uma nota fiscal eletrônica complementar ou uma nota fiscal eletrônica de ajuste, conforme o caso, ou então corrigir os erros em campos específicos da NF-e, por meio de uma Carta de Correção Eletrônica (CC-e).
+
+A CC-e não promoverá nenhum tipo de alteração no arquivo XML da NF-e emitida. Ela funcionará, assim como a Carta de Correção em papel, como um documento adicional que esclarece em formato de texto as correções relativas à nota referenciada.
+
+Não existe um modelo ou padrão de texto definido, sendo o texto livre com tamanho limitado a 1000 caracteres, devendo ser descrito de forma objetiva e clara a correção que deverá ser considerada.
+
+Objetivo da Carta de Correção Eletrônica e regulamentação
+O único objetivo desse documento é corrigir algumas informações da NF-e.
+
+A Carta de Correção Eletrônica foi regulamentada em todo Brasil pela Legislação, em um decreto que vigora desde o começo de Julho de 2011.
+
+De acordo com o Ajuste SINIEF desde 2012 a carta de correção em papel não pode ser mais usada, tornando como obrigatória a emissão da Carta de Correção Eletrônica para sanar erros em campos específicos da NF-e.
+
+O que pode ser corrigido pela carta de correção de NF-e?
+A Carta Correção eletrônica (CC-e) poderá ser usada para corrigir erros que sejam relacionados com:
+
+CFOP – Código Fiscal de Operação, desde que não mude a natureza dos impostos;
+Descrição da Mercadoria;
+Códigos Fiscais – Código de Situação Tributária (desde que não altere valores fiscais);
+Peso, Volume, Acondicionamento, desde que não interfira na quantidade faturada do produto, como por exemplo alterar o volume de 01 palete para 01 container;
+Data da Emissão ou de Saída (desde que não altere o período de apuração do ICMS);
+Dados do Transportador – Endereço do destinatário (desde que não na sua totalidade);
+Razão Social do Destinatário (desde que não altere por completo);
+Omissão ou Erro na Fundamentação Legal que Amparou a Saída com algum Benefício Fiscal, ou Operação que Contemple a sua Necessidade (dados adicionais);
+Inserir ou alterar dados adicionais na nota fiscal, como por exemplo, transportadora para redespacho, nome do vendedor, pedido do cliente, até mesmo trocar um fundamento legal mencionado indevidamente.
+O que não pode ser corrigido pela carta de correção eletrônica da NFe?
+Nos termos da cláusula décima quarta do Ajuste SINIEF 07/05, a emissão da carta de correção não pode estar relacionada a correção de erros como:
+
+Valores fiscais que determinam o valor do imposto, tais como: base de cálculo, alíquota, diferença de preço, quantidade, valor da operação ou da prestação; para estas situações se faz necessário a emissão de nota fiscal complementar de imposto;
+Correção de dados cadastrais que implique mudança do remetente ou do destinatário ou descrição da mercadoria que altere a alíquota do imposto;
+Data de emissão ou de saída, pois o fisco pode entender que a alteração da data de emissão pode ter o objetivo de reaproveitar a mesma em outras entregas;
+Destaque de Impostos ou quaisquer outros dados que alterem o Cálculo ou a Operação do Imposto;
+Se não for possível emitir uma carta de correção eletrônica para corrigir os erros de uma nota fiscal autorizada é necessário realizar o cancelamento de número de NFe, pois a carta de correção somente pode corrigir erros simples.
+
+Prazo para a transmissão da carta de correção eletrônica
+A CC-e poderá ser transmitida até 720 horas (30 dias) a partir da autorização de uso da NF-e que será corrigida. Ela somente poderá ser transmitida para uma NFe autorizada, pois não é possível corrigir uma NF-e cancelada.
+
+Uma NF-e poderá ter até 20 CC-e’s, porém, a última carta de correção deve contemplar todas as alterações.
+
+Conclusão
+É preciso muita atenção para emitir uma CC-e, e principalmente se for em um prazo distante da emissão da nota fiscal. Realizar esse processo com atenção e de forma correta evita possíveis interpretações por parte do Fisco que possam prejudicar a empresa.
+
+A emissão de uma carta de correção eletrônica deve ser utilizada em último caso.
+
+É obrigatória a disponibilização do arquivo digital CC-e para o destinatário e demais interessados, assim como ocorre com a emissão da NFe.
+
+Estar ciente de quais situações pode ser emitida uma carta de correção é o ponto chave para evitar desgastes com os clientes, fornecedores e com a fiscalização, pois a responsabilidade pela emissão da carta de correção é da empresa. Dessa forma sempre antes de emiti-la, deve-se conferir o Regulamento de ICMS do Estado para verificar se a correção a ser realizada é permitida.
+
+A carta de correção é um recurso a ser usado para corrigir pequenos erros que não afetam operações essenciais da nota fiscal como impostos, preços e quantidade.
+
+Quando o erro verificado se refere à legislação tributária, em alguns casos a melhor saída é a emissão de Nota Fiscal complementar. Mas estando a nota fiscal ainda no estabelecimento do emitente o mais prudente é cancelar a nota fiscal emitida com as informações incorretas e refazer a mesma.

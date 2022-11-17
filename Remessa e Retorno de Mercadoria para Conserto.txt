@@ -1,0 +1,691 @@
+Remessa e retorno de conserto
+Resumo:
+
+Os bens do Ativo Imobilizado (AI) das empresas contribuintes do ICMS e/ou do Imposto sobre Produtos Industrializados (IPI) podem apresentar problemas ou defeitos que somente terceiros podem solucionar, sendo que aqueles acabam obrigados a enviarem a estes os referidos bens para conserto. É exatamente essa operação (conserto) que analisaremos no presente Roteiro de Procedimentos, ou seja, verificaremos aqui os aspectos fiscais relativos às remessas e retornos para conserto de bens do Ativo Imobilizado (AI) ou de materiais de uso e/ou consumo, bem como a prestação de serviço decorrente dessa operação.
+
+
+ 
+1) Introdução:
+Dentre as diversas hipóteses de incidência do ICMS, de competência Estadual, temos o fornecimento de mercadorias com a concomitante prestação de serviços. Essa operação é um dos grandes problemas tributários para determinadas atividades econômicas quando o assunto é definir de quem é a competência tributária, dos Estados ou dos Municípios.
+
+A Lei Complementar nº 116/2003 (DOU de 01/08/2003), que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), buscando minimizar as polêmicas, destacou as hipóteses nas quais a prestação de serviço haverá também a incidência do ICMS sobre os materiais aplicados. Segundo essa Lei Complementar, haverá a incidência do ISSQN apenas nos serviços que constarem em sua Lista anexa e, sobre os materiais aplicados nesses serviços incidirá o ICMS apenas quando o item constante nesta Lista assim determinar.
+
+Seguindo esse dispositivo legal, hierarquicamente superior, o Regulamento do ICMS do Estado de São Paulo (RICMS/2000-SP), aprovado pelo Decreto nº 45.490/2000, veio estabelecer que o ICMS incidirá no fornecimento de mercadorias com prestação de serviços quando o serviço:
+
+não estiver compreendido na competência tributária dos Municípios; ou
+estiver compreendido na competência tributária dos Municípios, mas que, por indicação expressa de Lei Complementar, se sujeitar a incidência do ICMS.
+Portanto, os casos onde o ICMS incide sobre mercadorias e o ISSQN sobre serviços são expressos e específicos, ou seja, são àqueles casos expressamente mencionados na Lei Complementar nº 116/2003, em todos os demais apenas o ISSQN é devido, ainda que haja fornecimento de materiais.
+
+Dentre os serviços constantes da Lista de Serviços anexa à Lei Complementar nº 116/2003, que qualificam o emprego de mercadorias, peças e partes ao pagamento do ICMS, encontramos o subitem 14.01, que assim prescreve:
+
+Lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003.
+
+14.01 - Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS). (Grifo nossos)
+
+Como podemos verificar, a operação de conserto (ato de ajustar, reparar ou restaurar algo) está no campo de incidência do ISSQN, exceto as peças e partes empregadas que ficam sujeitas ao ICMS.
+
+Devido à importância do tema, analisaremos no presente Roteiro de Procedimentos os aspectos fiscais relativos às remessas e retornos para conserto de bens do Ativo Imobilizado (AI) ou de materiais de uso e/ou consumo, bem como a prestação de serviço decorrente dessa operação. Para tanto, utilizaremos como base o RICMS/2000-SP, a Lei Complementar nº 116/2003 e, no que se refere ao Imposto sobre Produtos Industrializados (IPI), utilizaremos o Regulamento do IPI (RIPI/2010), aprovado pelo Decreto nº 7.212/2010.
+
+Por fim, cabe nossa Equipe Técnica registrar que, deverá ser observado procedimento especial quando tratar-se de substituição de partes e peças defeituosas por assistência técnica, em virtude de garantia, conserto ou manutenção (1).
+
+Nota Valor Consulting:
+
+(1) Os procedimentos relacionados à substituição de partes e peças defeituosas por assistência técnica, em virtude de garantia, conserto ou manutenção estão disciplinados atualmente pela Portaria CAT nº 92/2001 (DOE de 05/12/2001).
+
+Base Legal: Subitem 14.01 da Lista de Serviços anexa à Lei Complementar nº 116/2003; Arts. 1º, caput, IV, 2º, caput, III e 7º, caput, IX e X do RICMS/2000-SP e; Portaria CAT nº 92/2001 (Checado pela Valor em 04/07/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2) Conceito:
+2.1) Serviço:
+As legislações do ICMS e do ISSQN não trazerem um conceito expresso de conserto, por isso mesmo vamos recorrer à doutrina pátria. Assim, segundo o douto Bernardo Ribeiro de Morais, in "Doutrina e Prática do Imposto Sobre Serviços", editora Revista dos Tribunais Ltda., novembro de 1975, p. 346, conserto:
+
+consiste no serviço que restitui ao objeto usado suas anteriores condições de uso ou funcionamento. Conserto, ajuste ou reparo vem a ser a atividade que tem por fim repor os objetos usados em bom estado, fazendo com que os mesmos fiquem no estado para o qual se destinavam. Os exemplos são inúmeros: conserto de bicicletas, caneta, mola, relógio, piano, balança, veículos, de máquinas, aparelhos, bombas, etc.
+
+Portanto, para fins tributários, podemos considerar o conserto como sendo uma operação executada de forma onerosa pelo qual colocamos em bom estado ou condição algo que estava danificado ou estragado, ou seja, ajustamos, reparamos ou restauramos algo, colocando-o novamente em boas condições de uso.
+
+Registra-se que, caso o bem consertado em estabelecimento de terceiro prestador de serviços se destine a uso próprio do estabelecimento remetente, ocorrerá a prestação de serviços sujeita à tributação do ISSQN, conforme depreende da leitura do subitem 14.01 da Lista de Serviços anexa a Lei Complementar nº 116/2003. Porém, caso o bem consertado se destine a posterior comercialização ou industrialização pelo estabelecimento remetente, estaremos diante de outro tipo de operação, qual seja, a industrialização por encomenda, que está no campo de incidência do ICMS e do IPI.
+
+Base Legal: Subitem 14.01 da Lista de Serviços anexa à Lei Complementar nº 116/2003 (Checado pela Valor em 04/07/21).
+3) Tratamento fiscal:
+3.1) Quanto ao ISSQN:
+Para identificarmos se o ISSQN incide ou não sobre a operação de conserto, é imprescindível saber se esse tipo de serviço consta ou não na Lista de Serviços anexa à Lei Complementar nº 116/2003. Caso conste, haverá normalmente a incidência do imposto Municipal, caso contrário, não haverá.
+
+Feito essa observação, convêm analisarmos o subitem 14.01 da Lista de Serviços anexa à Lei Complementar nº 116/2003, que assim dispõe:
+
+Lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003.
+
+14.01 - Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS). (Grifo nossos)
+
+Como podemos verificar neste dispositivo legal, a operação de conserto está no campo de incidência do ISSQN, exceto as peças e partes empregadas que ficam sujeitas ao ICMS. Assim, quando da prestação desse tipo serviço, deverá ser emitido pelo prestador Nota Fiscal de Serviço, o qual terá como valor da prestação a mão-de-obra efetivamente cobrada.
+
+No caso da mercadoria, se esta for empregada no conserto e cobrada do tomador, deverá ser faturada mediante a emissão de Nota Fiscal de Venda de mercadorias, mais precisamente a Nota Fiscal Eletrônica (NF-e), modelo 55.
+
+Base Legal: Lei Complementar nº 116/2003 (Checado pela Valor em 04/07/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.2) Quanto ao ICMS:
+Para identificarmos se o ICMS incide ou não sobre a operação de conserto, é imprescindível analisarmos os artigos 2º, caput, II e 7º, caput, VIII do RICMS/2000-SP, que assim dispõem:
+
+Artigo 2º - Ocorre o fato gerador do imposto:
+
+(...)
+
+III - no fornecimento de mercadoria com prestação de serviços:
+
+a) não compreendidos na competência tributária dos municípios;
+
+b) compreendidos na competência tributária dos municípios, mas que, por indicação expressa de lei complementar, sujeitem-se à incidência do imposto de competência estadual;
+
+(...)
+
+
+Artigo 7º - O imposto não incide sobre:
+
+(...)
+
+VIII - a saída, de estabelecimento prestador de serviço de qualquer natureza definido em lei complementar como de competência tributária do município, de mercadoria a ser ou que tenha sido utilizada na prestação de tal serviço, ressalvadas as hipóteses previstas na alínea "b" do inciso III do artigo 2º;
+
+Como podemos verificar no artigo 7º do RICMS/2000-SP, está amparada pela não incidência do ICMS a saída de estabelecimento prestador de serviço de qualquer natureza definido em Lei Complementar como de competência tributária do Município, de mercadoria a ser ou que tenha sido utilizada na prestação de tal serviço, ressalvadas as hipóteses previstas no artigo 2º, III, "b" do RICMS/2000-SP acima publicada.
+
+O artigo 2º, III, "b" do RICMS/2000-SP, por sua vez, estabelece que estão sujeitos ao ICMS o fornecimento de mercadoria com prestação de serviços, quando compreendidos na competência tributária dos Municípios, mas que, por indicação expressa de Lei Complementar, sujeitem-se à incidência do imposto de competência Estadual.
+
+Referida Lei Complementar, como já dito neste trabalho, é a Lei Complementar nº 116/2003. Essa Lei Complementar estabelece em sua Lista anexa quais são os serviços cujos materiais empregados estão sujeitos ao ICMS, no caso da operação de conserto, podemos verificar esse fato no subitem 14.01 da Lista de Serviços anexa à Lei Complementar nº 116/2003, que assim dispõe:
+
+Lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003.
+
+14.01 - Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS). (Grifo nossos)
+
+Dito tudo isso, concluímos que os casos onde o ICMS incide sobre mercadorias e o ISSQN sobre serviços são expressos e específicos, ou seja, são àqueles casos expressamente mencionados na Lei Complementar nº 116/2003, em todos os demais apenas o ISSQN é devido, ainda que haja fornecimento de materiais. No caso da prestação de serviço, o ICMS incidirá apenas sobre as peças e partes empregadas na prestação.
+
+Base Legal: Subitem 14.01 da Lista de Serviços anexa a Lei Complementar nº 116/2003 e; Arts. 2º, caput, III e 7º, caput, VIII do RICMS/2000-SP (Checado pela Valor em 04/07/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.2.1) Remessa e retorno de conserto:
+Regra geral, a saída de mercadoria do estabelecimento de contribuinte é fato gerador do ICMS; para que não haja a cobrança desse imposto em determinada operação ou sobre determinada mercadoria deverá haver expresso dispositivo legal determinando sua não tributação. Diante isso, o Estado de São Paulo, através do artigo 7º, caput, IX do RICMS/2000-SP, veio prever a não-incidência do ICMS na saída de máquinas, equipamentos, ferramentas ou objetos de uso do contribuinte, bem como de suas partes e peças, com destino a outro estabelecimento para lubrificação, limpeza, revisão, conserto, restauração ou recondicionamento, desde que os referidos bens voltem ao estabelecimento de origem.
+
+Referente ao retorno, a legislação do Estado de São Paulo não possui dispositivo prevendo prazo de retorno ao estabelecimento de origem dos bens enviados para conserto, mas existe uma norma do Confaz, o Ajuste Sinief nº 15/2020, que menciona o prazo de 180 (cento e oitenta) dias para movimentação de bens do Ativo Imobilizado (AI), prorrogável uma única vez por igual período. Acontece que esse Ajuste Sinief ainda não foi objeto de regulamentação expressa no Estado de São Paulo.
+
+Diante isso fica a dúvida se o contribuinte paulista deve ou não observar esse prazo de 180 (cento e oitenta) dias, ou seja, se deve observar o prazo do Ajuste Sinief nº 15/2020 mesmo ainda não incorporado à legislação paulista.
+
+Em algumas Respostas à Consulta já emitidas pela Consultoria Tributária da Secretaria da Fazenda restou orientado pela aplicabilidade do mencionado prazo, vejamos algumas:
+
+Resposta à Consulta nº 22.649/2020
+
+(...)
+
+6.1. Por quanto tempo o técnico poderia permanecer com o kit em sua residência, já que ele somente será utilizado quando houver um chamado para prestação de assistência técnica;
+
+(...)
+
+11. Em razão do questionamento apresentado no subitem 6.1. (acerca do tempo em que os técnicos poderão manter os referidos kits em sua residência), esclareça-se que a cláusula terceira do Ajuste SINIEF 15/2020 estipula o prazo de retorno de 180 (cento e oitenta) dias, prorrogável uma única vez por igual período.
+
+11.1. Nesse ponto, salienta-se que, embora a referida cláusula apenas mencione expressamente o prazo de 180 para a movimentação de ativo imobilizado, o entendimento desta Consultoria Tributária é no sentido de que, enquanto não houver regulamentação expressa,esse prazo é igualmente aplicável, por analogia,para a movimentação das partes e peças utilizadas nesse serviço.
+
+
+
+
+Resposta à Consulta nº 22.856/2020
+
+(...)
+
+17. Nesse sentido, conforme determinação prevista na cláusula sexta do Ajuste SINIEF 15/2020, e na cláusula quarta, § 2º , a remessa para conserto de parte/peça defeituosa, por contribuinte do imposto, usuário final do bem, ao estabelecimento do prestador do serviço (Consulente) deve estar acompanhada da Nota Fiscal emitida pelo remetente (cliente da Consulente e proprietário usuário final do bem), sem destaque do imposto, consignando o CFOP 5.915/6.915 ("remessa de mercadoria ou bem para conserto ou reparo"), recomendando que seja mencionado no campo "Informações Complementares" que se trata de uma "Remessa para manutenção, reparo ou conserto, sem a incidência do imposto - artigo 7º, inciso IX do RICMS/2000 - NF-e emitida nos termos do Ajuste SINIEF 15/20".
+
+(...)
+
+Por fim, vale mencionar que a não-incidência será aplicada independente das operações serem estaduais ou interestaduais.
+
+Nota Valor Consulting:
+
+(2) O artigo 132 do RICMS/2000-SP trata da isenção na remessa de peça defeituosa para o fabricante, promovida pelo estabelecimento ou pela oficina credenciada ou autorizada, desde que ocorra até 30 (trinta) dias depois do vencimento da garantia.
+
+Base Legal: Cláusula 3ª do Ajuste Sinief nº 15/2020; Arts. 7º, caput, IX e 132 do Anexo I do RICMS/2000-SP; Resposta à Consulta nº 22.649/2020 e; Resposta à Consulta nº 22.856/2020 (Checado pela Valor em 04/07/21).
+3.2.2) Base de Cálculo (BC) do ICMS:
+Com relação às partes e peças empregadas em operação de conserto, conforme já visto neste Roteiro de Procedimentos, as mesmas estão sujeitas ao ICMS por força do subitem 14.01 da lista de serviços anexa à Lei Complementar nº 116/200, exceto a mão-de-obra que fica sujeita ao ISSQN.
+
+Nesse caso, a Base de Cálculo (BC) do ICMS será o preço corrente da mercadoria fornecida ou empregada, conforme exemplo hipotético abaixo:
+
+Descrição	Valor (R$)
+Preço da mão-de-obra:	1.500,00
+Material empregado:	500,00
+Valor total do serviço:	2.000,00
+ICMS (R$ 1.500,00 X 18% - alíquota hipotética):	270,00
+ISSQN (R$ 500,00 X 5% - alíquota hipotética):	25,00
+Base Legal: Subitem 14.01 da Lista de Serviços anexa a Lei Complementar nº 116/2003 e; Art. 37, caput, III, "b" do RICMS/2000-SP (Checado pela Valor em 04/07/21).
+3.2.3) Crédito fiscal:
+O contribuinte paulista do ICMS está autorizado a apropriar crédito fiscal relativo ao valor destacado na Nota Fiscal de aquisição da mercadoria a ser fornecida ou empregada na prestação de serviço de conserto, em razão do princípio da não cumulatividade do imposto esculpido nos artigos 59 e 61 do RICMS/2000-SP.
+
+Base Legal: Arts. 59 e 61 do RICMS/2000-SP (Checado pela Valor em 04/07/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.3) Quanto ao IPI:
+Quanto ao IPI, lembramos que, são excluídas do conceito de industrialização as operações de conserto, reparação ou recondicionamento de produtos usados, nos termos do artigo 5º, caput, XI do RIPI/2010 (ressalvadas aquelas operações que gerem um produto novo). Contudo, tratando-se da 1º (primeira) saída de um bem, de origem estrangeira (importado), a operação será sempre tributada, mesmo que essa saída seja para conserto ou o bem um Ativo Imobilizado (AI) ou material de uso e/ou consumo, em virtude de expressa disposição legal contida no artigo 38, caput, II, "a" do RIPI/2010.
+
+Base Legal: Arts. 5º, caput, XI e 38, caput, II, "a" do RIPI/2010 (Checado pela Valor em 04/07/21).
+3.3.1) Aplicação de peças e partes em operação de conserto:
+Caso o contribuinte do Imposto sobre Produtos Industrializados (IPI) tenha apropriado crédito fiscal relativo a partes e peças aplicadas em operação de conserto, o mesmo deverá ser anulado, mediante estorno na escrita fiscal.
+
+Base Legal: Art. 254, caput, I, "e" do RIPI/2010 (Checado pela Valor em 04/07/21).
+4) Procedimentos (emissão e escrituração de Notas Fiscais):
+Veremos nesse capítulo os procedimentos fiscais previstos na legislação do ICMS e do IPI para emissão das Notas Fiscais de remessa e de retorno de conserto ou reparo.
+
+Base Legal: Equipe Valor Consulting.
+4.1) Remessa para conserto:
+Na remessa de bem para conserto ou reparo deverá ser emitido Nota Fiscal sem destaque do ICMS, pois a operação de remessa para conserto está amparada pela não incidência do imposto, conforme já analisado no subcapítulo 3.2.1 acima.
+
+Lembramos que a referida Nota Fiscal deverá conter, além dos demais requisitos exigidos pela legislação, as seguintes informações:
+
+Natureza da Operação: a expressão "Remessa para conserto ou reparo";
+Código Fiscal de Operações e Prestações (CFOP): o código 5.915 (operação interna) ou 6.915 (operação interestadual), conforme o caso;
+Base de Cálculo (BC) do ICMS: Não há que se falar em Base de Cálculo (BC) do ICMS, pois não haverá tributação. No entanto, para preenchimento da Nota Fiscal, faz-se necessário informar o valor da operação, assim, podemos utilizar as regras previstas para apuração da Base de Cálculo (BC) na falta de valor da operação, conforme disciplina o artigo 38 do RICMS/2000-SP, ou seja, em regra utiliza-se o valor atribuído ao bem no mercado;
+CST-ICMS: o código X41, sendo "X" a origem da mercadoria. Para verificar todos os CSTs possíveis, acessar o Roteiro de Procedimentos intitulado "Código de Situação Tributária (CST/ICMS)", disponível em nosso Portal;
+campo "Informações Complementares" da Nota Fiscal: as expressões:
+ICMS: "Não-incidência do ICMS, conforme artigo 7º, caput, IX do RICMS/2000-SP";
+IPI: "Não é Fato Gerador do IPI", caso o remetente seja contribuinte desse imposto.
+A fim de exemplificar os procedimentos tratados neste subcapítulo, suponhamos que a empresa fictícia Vivax Indústria e Comércio de Eletrônicos Ltda., empresa com sede no Município de Campinas/SP, tenha, em 25/07/2X01, remetido para a assistência técnica Tecnoinfo Informática Ltda. um computador (NCM: 8471.50.10) que apresentou defeito. O objetivo é consertá-lo e restabelecer suas condições de uso e funcionamento.
+
+Considerando que esse computador está registrado na contabilidade da Vivax pelo custo de R$ 3.300,00 (três mil e trezentos reais), teremos a emissão da seguinte Nota Fiscal de remessa para conserto:
+
+Nota Fiscal de remessa para conserto ou reparo
+Figura 1: Nota Fiscal de remessa para conserto ou reparo.
+Base Legal: Arts. 7º, caput, IX, 38 e 132 do RICMS/2000-SP (Checado pela Valor em 04/07/21).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.1.1) Escrituração da Nota Fiscal:
+A Nota Fiscal Eletrônica (NF-e) relativa à remessa para conserto e reparo deverá ser lançada no Sped-Fiscal do estabelecimento emitente, bem como do estabelecimento destinatário. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Lembramos que, para a efetiva geração do Sped-Fiscal, outros registros deverão ser apresentados, devendo o contribuinte observar as disposições do Ato Cotepe/ICMS nº 44/2018 e alterações posteriores, bem como o Guia Prático da Escrituração Fiscal Digital - EFD ICMS/IPI.
+
+Assim, considerando a Nota Fiscal analisada no subcapítulo 8.1 acima, a Vivax deverá escriturá-la nos referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Ato Cotepe/ICMS nº 44/2018 e; Guia Prático da EFD-ICMS/IPI.
+4.1.1.1) Pelo emitente:
+4.1.1.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal relativa à remessa para conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	00099256
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	250720X1
+11	DT_E_S	250720X1
+12	VL_DOC	3300,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	3300,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 do Guia Prático da EFD-ICMS/IPI.
+4.1.1.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal relativa à remessa para conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Não-incidência do ICMS, conforme artigo 7º, caput, IX do RICMS/2000-SP". Não é Fato Gerador do IPI.
+Base Legal: Registro C110 do Guia Prático da EFD-ICMS/IPI.
+4.1.1.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por CST, CFOP e Alíquota de ICMS. No caso da Nota Fiscal relativa à remessa para conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	041
+03	CFOP	5915
+04	ALIQ_ICMS	
+05	VL_OPR	3300,00
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 do Guia Prático da EFD-ICMS/IPI.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.1.1.2) Pelo destinatário:
+4.1.1.2.1) Registro C100:
+A Nota Fiscal relativa à remessa para conserto e reparo deverá ser registrada no EFD-ICMS/IPI pelo estabelecimento destinatário da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	0
+03	IND_EMIT	1
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	00099256
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	250720X1
+11	DT_E_S	250720X1
+12	VL_DOC	3300,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	3300,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 do Guia Prático da EFD-ICMS/IPI.
+4.1.1.2.2) Registro C110:
+A Nota Fiscal relativa à remessa para conserto e reparo deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Não-incidência do ICMS, conforme artigo 7º, caput, IX do RICMS/2000-SP".
+Base Legal: Registro C110 do Guia Prático da EFD-ICMS/IPI.
+4.1.1.2.3) Registro C190:
+A Nota Fiscal relativa à remessa para conserto e reparo deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	041
+03	CFOP	1915
+04	ALIQ_ICMS	
+05	VL_OPR	3300,00
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 do Guia Prático da EFD-ICMS/IPI.
+4.2) Retorno de conserto:
+Sempre que mandamos um bem para consertar, pressupomos que haverá um retorno, sob pena de ser descaracterizada a operação caso isso não ocorra.
+
+No retorno de mercadoria anteriormente remetida para conserto também não haverá incidência do ICMS, conforme prevê o artigo 7º, caput, X do RICMS/2000-SP, mas cabe observar que, sendo aplicadas partes ou peças no conserto do bem, estas serão normalmente tributadas no retorno, uma vez que a não-incidência prevista no artigo 7º, caput, IX e X do RICMS/2000-SP aplicam-se somente na remessa e no retorno do bem objeto do conserto.
+
+Quanto ao IPI, o Parecer Normativo CST nº 434/1970 reza que o benefício é aplicado desde que os bens sejam destinados ao uso da empresa encomendante, assim, deverá ser observado que haverá incidência do IPI, no retorno, quando:
+
+o produto objeto da operação de conserto, revisão, etc., destinar-se a comércio pelo estabelecimento encomendante;
+as partes e peças empregadas na operação referirem-se a componentes normais do estoque do executor da operação (produtos de fabricação própria), uma vez que, neste caso, os produtos não foram confeccionados para serem empregados exclusivamente na operação; ou
+a operação for realizada após o prazo de garantia.
+Assim como na remessa, o retorno deverá ser acobertado pela emissão de Nota Fiscal Modelos 1, 1A ou 55 (NF-e). Referida Nota Fiscal deverá conter, além dos demais requisitos exigidos pela legislação, as seguintes informações:
+
+Natureza da Operação: a expressão "Retorno de conserto ou reparo";
+CFOP: o código 5.916 (operação interna) ou 6.916 (operação interestadual), conforme o caso;
+Base de Cálculo (BC) do ICMS: O valor correspondente às partes e peças eventualmente aplicadas no conserto, conforme artigo 37, caput, I do RICMS/2000-SP;
+CST-ICMS: o código X41, sendo "X" a origem da mercadoria. Para verificar todos os CSTs possíveis, acessar o Roteiro de Procedimentos intitulado "Código de Situação Tributária (CST/ICMS)", disponível em nosso Portal;
+campo "Informações Complementares" da Nota Fiscal: as expressões:
+ICMS: "Não-incidência do ICMS, conforme artigo 7º, caput, X do RICMS/2000-SP";
+IPI: "Não é Fato Gerador do IPI", caso o remetente seja contribuinte desse imposto;
+"Retorno da sua Nota Fiscal nº XXXXXX de XX/XX/XXXX".
+Em relação aos materiais utilizados no conserto, deverá ser observado que, sendo utilizados produtos como cola, tinta, verniz ou quaisquer outros produtos não caracterizados como parte ou peça do bem, ou seja, não integrados efetivamente ao bem, não há que se falar em incidência do ICMS, pois esses produtos comporão o preço do serviço e ficarão sujeitos à incidência do ISSQN.
+
+Dando continuidade ao exemplo iniciado no subcapítulo 4.1 acima, suponhamos que já no dia seguinte à remessa o computador tenha sido arrumado e devolvido ao remetente originário (Vivax). Assim, a empresa Tecnoinfo deverá emitir a seguinte Nota Fiscal:
+
+Nota Fiscal de retorno de conserto ou reparo
+Figura 2: Nota Fiscal de retorno de conserto ou reparo.
+Base Legal: Arts. 7º, caput, X e 37, caput, I do RICMS/2000-SP e; Parecer Normativo CST nº 434/1970 (Checado pela Valor em 04/07/21).
+4.2.1) Escrituração da Nota Fiscal:
+A Nota Fiscal Eletrônica (NF-e) relativa ao retorno de conserto e reparo deverá ser lançada no Sped-Fiscal do estabelecimento emitente, bem como do estabelecimento destinatário. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Lembramos que, para a efetiva geração do Sped-Fiscal, outros registros deverão ser apresentados, devendo o contribuinte observar as disposições do Ato Cotepe/ICMS nº 44/2018 e alterações posteriores, bem como o Guia Prático da Escrituração Fiscal Digital - EFD ICMS/IPI.
+
+Assim, considerando a Nota Fiscal analisada no subcapítulo 8.1 acima, a Vivax deverá escriturá-la nos referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Ato Cotepe/ICMS nº 44/2018 e; Guia Prático da EFD-ICMS/IPI.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.2.1.1) Pelo emitente:
+4.2.1.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal relativa ao retorno de conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000001853
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	260720X1
+11	DT_E_S	260720X1
+12	VL_DOC	3300,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	3300,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 do Guia Prático da EFD-ICMS/IPI.
+4.2.1.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal relativa ao retorno de conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Não-incidência do ICMS, conforme artigo 7º, caput, X do RICMS/2000-SP".
+Base Legal: Registro C110 do Guia Prático da EFD-ICMS/IPI.
+4.2.1.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por CST, CFOP e Alíquota de ICMS. No caso da Nota Fiscal relativa ao retorno de conserto e reparo, a mesma deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	041
+03	CFOP	5916
+04	ALIQ_ICMS	
+05	VL_OPR	3300,00
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 do Guia Prático da EFD-ICMS/IPI.
+4.2.1.2) Pelo destinatário:
+4.2.1.2.1) Registro C100:
+A Nota Fiscal relativa ao retorno de conserto e reparo deverá ser registrada no EFD-ICMS/IPI pelo estabelecimento destinatário da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	0
+03	IND_EMIT	1
+04	COD_PART	Código interno do declarante
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	00099256
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	260720X1
+11	DT_E_S	260720X1
+12	VL_DOC	3300,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	3300,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Base Legal: Registro C100 do Guia Prático da EFD-ICMS/IPI.
+4.2.1.2.2) Registro C110:
+A Nota Fiscal relativa ao retorno de conserto e reparo deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	Código interno do declarante
+03	TXT_COMPL	Não-incidência do ICMS, conforme artigo 7º, caput, X do RICMS/2000-SP".
+Base Legal: Registro C110 do Guia Prático da EFD-ICMS/IPI.
+4.2.1.2.3) Registro C190:
+A Nota Fiscal relativa ao retorno de conserto e reparo deverá ser registrada da seguinte forma:
+
+Código interno do declarante
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	041
+03	CFOP	1916
+04	ALIQ_ICMS	
+05	VL_OPR	3300,00
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 do Guia Prático da EFD-ICMS/IPI.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.3) Nota Fiscal de Serviço:
+A Nota Fiscal de Serviço deverá conter, além dos demais requisitos exigidos pela legislação, as seguintes informações:
+
+Natureza da Operação: a expressão "Prestação de serviço tributado pelo ISSQN - Conserto", no caso de utilização de NF-e Conjugada;
+CFOP: o código 5.933 (operação interna) ou 6.933 (operação interestadual), conforme o caso, no caso de utilização de NF-e Conjugada;
+Base de Cálculo (BC) do ISSQN: A Base de Cálculo (BC) do ISSQN será o valor da mão-de-obra cobrada pelo serviço.
+Base Legal: Lei Complementar nº 116/2003 (Checado pela Valor em 04/07/21).
+4.4) Nota Fiscal do material aplicado:
+Conforme já mencionado o material aplicado na operação de conserto está no campo de incidência do ICMS, devendo ser emitido Nota Fiscal para documentar a saída da mercadoria empregada na prestação dos serviços. Na referida Nota Fiscal deverá conter, além dos demais requisitos exigidos pela legislação, as seguintes informações:
+
+Natureza da Operação: a expressão "Venda de mercadoria";
+CFOP: o código 5.101/5.102 (operação interna) ou 6.101/6.102 (operação interestadual), conforme o caso;
+Base de Cálculo (BC) do ICMS: O valor da mercadoria empregada ou fornecida na prestação do serviço;
+CST-ICMS: o código X00, sendo "X" a origem da mercadoria. Para verificar todos os CSTs possíveis, acessar o Roteiro de Procedimentos intitulado "Código de Situação Tributária (CST/ICMS)", disponível em nosso Portal;
+Dando continuidade ao exemplo iniciado no subcapítulo 4.1 acima, suponhamos que para conserto do computador tenha sido utilizado uma placa de vídeo (NCM: 8471.80.00) adquirida de terceiros pela empresa de assistência técnica (Tecnoinfo). Considerando que a Tecnoinfo cobrará da Vivax a peça substituída na operação, teremos a emissão da seguinte Nota Fiscal:
+
+Nota Fiscal de venda de material aplicado em conserto ou reparo
+Figura 3: Nota Fiscal de venda de material aplicado em conserto ou reparo.
+Base Legal: Equipe Valor Consulting.
+5) Remessa para conserto por não contribuinte do ICMS:
+Primeiramente, cabe nos esclarecer que a emissão de Notas Fiscais para acobertar a circulação de bens, materiais ou mercadorias é uma obrigação do contribuinte do ICMS, a quem cumpre atender as obrigações fiscais, principal e acessórias, vinculadas à pratica habitual de operação de circulação de mercadoria ou de prestação de serviço de transporte intermunicipal ou interestadual e de comunicação, conforme previstas no RICMS/2000-SP.
+
+Assim, quem não reveste a condição de contribuinte do ICMS não terá de cumprir nenhuma obrigação principal ou acessória relacionada ao imposto. Recomenda-se, entretanto, que as empresas não-contribuintes do ICMS que eventualmente transportem bens, materiais ou mercadorias, que faça o com documento de uso interno, declaração elaborada pelo remetente, por exemplo, para acompanhar o trânsito dos mesmos até o destinatário final.
+
+Recomenda-se que referida declaração contenha no mínimo as seguintes indicações:
+
+os dados do emitente;
+os dados do destinatário;
+descrição do material transportado (denominação dos bens, número de volumes, etc.);
+características do transporte (veículo utilizado, frete próprio ou terceiro, etc.);
+motivo determinante da remessa ou retorno dos bens, no caso do presente Roteiro de Procedimentos, que o transporte se refere à bens de sua propriedade destinados a conserto ou reparo;
+o fato de estar o remetente desobrigado de manter Inscrição Estadual no Estado.
+Essa declaração deve ser emitida em quantidades de vias suficientes para a retenção de uma delas em eventual fiscalização Estadual. Recomendamos a utilização de 3 (três) vias, sendo uma para o remetente, uma para o destinatário e outra para acompanhar os materiais juntamente com a via do destinatário.
+
+Esse posicionamento podemos extrair da análise da Resposta à Consulta nºs 499/1987, que transcrevemos a seguir:
+
+Resposta à Consulta nº 499, de 14.09.87 - Boletim APT nº 363/88
+
+
+Obrigação acessória - Remessa de materiais por não-contribuinte do imposto.
+
+
+1 - A .......... relata que suas ........ Subseções, espalhadas em todo o território paulista, possuem equipamentos de reprodução xerográfica, para uso e fornecimento de cópias aos advogados.
+
+2 - Considerando que necessita enviar materiais (papel, toner, revelador, absorvente, cilindro etc.) para as respectivas Subseções, consulta sobre a possibilidade de despachar esses materiais (por ônibus, caminhonete ou outro veículo) acompanhados do memorando anexado à consulta, do qual constam, além da discriminação dos bens, indicações sobre o remetente, destinatário e empresa transportadora.
+
+3 - As obrigações acessórias previstas no Regulamento do ICM aprovado pelo Decreto no 17.727/81 devem, em princípio, ser cumpridas:
+
+a) pelo sujeito passivo da obrigação principal; e
+
+b) pelas demais pessoas inscritas ou sujeitas à inscrição no Cadastro de Contribuintes do ICM. As obrigações atribuídas a outras pessoas estão expressamente estabelecidas na legislação (v.g., os arts. 389 e 390 do RICM).
+
+4 - No caso vertente, a consulente não pratica operações relativas à circulação de mercadorias, não é inscrita nem está sujeita à inscrição no Cadastro de Contribuintes do ICM (art. 17 do RICM). Não está obrigada, portanto, ao cumprimento das obrigações acessórias estabelecidas para os contribuintes em geral.
+
+5 - Assim sendo e à falta de disposição expressa exigindo a emissão de documento específico para o transporte dos materiais referidos na Consulta, pode a interessada adotar o impresso que lhe convier.
+
+
+José Bento Pane
+
+Consultor Tributário
+
+
+De acordo.
+
+Cássio Lopes da Silva Filho
+
+Consultor Tributário-Chefe
+
+Enfatizando esse entendimento, a Consultoria Tributária da Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP) editou nova Resposta à Consulta (131/2006) sobre a matéria em análise, a qual transcrevemos na íntegra:
+
+ICMS - Obrigações acessórias - Movimentação de bens, neste Estado, por empresa não-contribuinte do ICMS - Possibilidade de utilização de documento interno.
+
+
+Resposta à Consulta n° 131/2006, de 26 de abril de 2006
+
+
+1. A Consulente formula a presente consulta nos seguintes termos:
+
+"Possuímos jogo com 06 bonecos tamanho grande, produzidos artesanalmente, que são vestidos por pessoas e utilizados para apresentações em escolas, sem fins comerciais (não se cobra entrada ou ingresso). Como estes bonecos eventualmente precisam ser enviados para outras cidades e localidades fora do estado de São Paulo, gostaríamos de saber como devemos proceder neste caso, já que não existe uma nota fiscal que acompanha o produto transportado, ficando sujeito a fiscalização na estrada e um possível questionamento sobre seu destino e origem. Solicitamos assim a gentileza de que esta Secretaria nos informe a melhor forma de assegurar que o transporte chegue a seu destino sem imprevistos. Que tipo de documentação devemos usar?"
+
+2. Inicialmente, esclarecemos que nos termos do Regulamento do ICMS/SP, aprovado pelo Decreto 45.490/00, contribuinte do imposto é qualquer pessoa, natural ou jurídica, que de modo habitual ou em volume que caracterize intuito comercial, realize operações relativas à circulação de mercadorias ou preste serviços de transporte interestadual ou intermunicipal ou de comunicação (artigo 9º). É também contribuinte a pessoa natural ou jurídica que, mesmo sem habitualidade ou intuito comercial, importe mercadoria ou bem do exterior, qualquer que seja a sua finalidade (artigo 10, inciso I).
+
+2.1. O artigo 19 do mesmo regulamento determina a inscrição no Cadastro de Contribuintes do ICMS daqueles que se enquadrem na previsão do citado artigo 9º e de algumas exceções específicas.
+
+3. Não sendo a Consulente contribuinte do ICMS e, portanto, não inscrita no cadastro de contribuintes deste Estado, não terá que cumprir nenhuma obrigação acessória relativa a este imposto.
+
+4. Assim, para a movimentação de seus bens, dentro do Estado de São Paulo, a Consulente poderá utilizar documento interno que, recomenda-se, contenha a indicação de que se trata de bens de propriedade da Consulente, destinados à apresentação em escolas, que retornarão ao estabelecimento de origem, bem como informações sobre o local de remessa e de destino, data do evento, descrição dos bens (denominação dos objetos, número de volumes, etc.) e características do transporte, com vias suficientes para a eventual retenção de uma delas, na hipótese de ser interpelada pela fiscalização. Devendo, nesse momento, comprovar o motivo determinante da remessa ou retorno dos referidos bens, sendo conveniente, também, a apresentação de cópia da presente resposta.
+
+4.1. Registre-se, que essa orientação refere-se, exclusivamente, à legislação do ICMS (imposto de competência estadual), uma vez que não cabe a este órgão consultivo se pronunciar acerca da eventual necessidade de utilização de documentos relativos à fiscalização sob competência de outros entes federativos.
+
+5. Ressalta-se, ainda, que a orientação acima somente prevalece dentro do território paulista, em virtude da limitação da competência outorgada pela Constituição Federal e da autonomia das unidades federadas.
+
+5.1. Dessa forma, para a movimentação de bens fora do nosso Estado, recomendamos a consulta aos demais Fiscos estaduais envolvidos.
+
+
+RENATA CYPRIANO DELLAMONICA
+
+Consultora Tributária.
+
+De acordo.
+
+ELAISE ELLEN LEOPOLDI
+
+Consultora Tributária Chefe - 3ª ACT.
+
+De acordo.
+
+GUILHERME ALVARENGA PACHECO
+
+Diretor Adjunto da Consultoria Tributária.
+
+Ressaltamos que este é o entendimento do fisco paulista em relação às operações internas, devendo ser consultado o fisco do Estado destinatário, quando se tratar de operações interestaduais, para que o estabelecimento fique resguardado de qualquer questionamento por parte dele.
+
+Nota Valor Consulting:
+
+(3) O artigo 17 do RICM/1981-SP (citado no item 4 da Resposta à Consulta nº 499/1987) corresponde ao artigo 19 do atual Regulamento do ICMS, aprovado pelo Decreto nº 45.490/2000.
+
+Base Legal: Art. 19 do RICMS/2000-SP; Resposta à Consulta nº 499/1987 e; Resposta à Consulta nº 131/2006 (Checado pela Valor em 04/07/21).
+5.1) Procedimentos a serem observados por quem recebe o bem para conserto:
+Conforme visto no capítulo anterior, quando a remessa para conserto for realizada por não contribuinte do ICMS, este não estará obrigado a emitir Nota Fiscal, assim, caberá ao estabelecimento que receber o bem ou a mercadoria para conserto emitir Nota Fiscal correspondente à entrada dos mesmos. Registra-se que essa Nota Fiscal será identificada como sendo de entrada.
+
+Lembramos que esse documento fiscal (Nota Fiscal de Entrada) servirá para acompanhar o trânsito da mercadoria até o local do estabelecimento emitente, na hipótese desse estabelecimento assumir o encargo de retirá-la ou de transportá-la, e será emitido com todos os requisitos normalmente exigidos pela legislação, inclusive com o uso da CFOP 1.915 (operação interna) ou 2.915 (operação interestadual), correspondente a entrada de bem ou mercadoria recebido para conserto ou reparo.
+
+Nota Valor Consulting:
+
+(4) Caso nosso leitor queira mais informações a respeito das remessas de bens efetuadas por não contribuinte, recomendamos a leitura do nosso Roteiro de Procedimentos intitulado "Circulação de bens, materiais ou mercadorias por não contribuinte".
+
+Base Legal: Art. 136, caput, I, § 1º, I do RICMS/2000-SP (Checado pela Valor em 04/07/21).
+6) Mercadorias do estoque enviadas para conserto:
+A remessa de mercadoria avariada para conserto à assistência técnica, considerando que o produto consertado se destina a posterior comercialização, caracteriza industrialização por encomenda, que se encontra sujeita à tributação pelo ICMS e pelo IPI.
+
+Esse entendimento foi exarado pela Consultoria Tributária da Sefaz/SP através da Resposta à Consulta nº 11.878/2016, a qual transcrevemos na íntegra:
+
+RESPOSTA À CONSULTA TRIBUTÁRIA 11878/2016, de 19 de Agosto de 2016.
+Disponibilizado no site da SEFAZ em 22/08/2016.
+
+Ementa
+
+ICMS - Assistência técnica - Conserto de equipamento para posterior revenda - Remessa e retorno.
+
+I. A remessa de mercadoria avariada para conserto à assistência técnica, considerando que o produto consertado se destina a posterior comercialização, caracteriza industrialização por encomenda e deve observar disciplina específica (artigo 402 e seguintes do RICMS/2000 c/c artigo 3º da Portaria CAT 92/2001).
+
+
+Relato
+
+1.A Consulente, a qual possui atividade principal de fabricação de periféricos para equipamentos de informática (CNAE 26.22-1/00), declara que também presta serviço de reparo para clientes, pessoas jurídicas "detentores das marcas".
+
+2.Informa que o cliente envia tanto o equipamento avariado para conserto sob o CFOP 5.915, a título de "remessa para conserto", como também as partes, peças e equipamentos como material consignado sob o CFOP 5.949, a título de "outras saídas". Após serem reparados, os equipamentos retornam sob o CFOP 5.916, a título de "retorno de conserto", e as partes e peças utilizadas são retornadas simbolicamente sob o CFOP 5.949, a título de "retorno de peças".
+
+3.Menciona que, até o presente momento, não realiza o creditamento do ICMS destacado na Nota Fiscal referente à entrada dessas partes, peças e equipamentos, por considerá-los bens de uso e consumo, de propriedade do cliente, que não serão utilizados no processo produtivo.
+
+4.Acrescenta que, no retorno das partes, peças e equipamentos, efetua o estorno do débito, com base na alínea "a" do inciso I do artigo 63 do RICMS/2000, sendo que, muitas vezes, as saídas não ocorrem no mesmo mês em que se verificou a entrada no estabelecimento, "em virtude disso também o crédito não é recuperado".
+
+5.Por fim, indaga se, no momento do recebimento do material consignado, poderia creditar-se do ICMS destacado na Nota Fiscal referente à remessa das peças, e se, no momento da devolução simbólica do material consignado, poderia deixar de estornar o débito do ICMS destacado na Nota Fiscal referente ao retorno das peças.
+
+Interpretação
+
+6.Inicialmente, considerando que os clientes da Consulente são pessoas jurídicas "detentoras das marcas" e que os CFOPs apresentados pela Consulente (item 2 supra) são do grupo "5", essa resposta partirá do pressuposto de que seus clientes estão localizados neste Estado e enviam os equipamentos avariados para conserto e posterior comercialização (produtos caracterizados como mercadorias).
+
+7.Essa hipótese, em que contribuinte do imposto remete mercadoria avariada para conserto à assistência técnica e o produto consertado destina-se a posterior comercialização, caracteriza industrialização por encomenda, conforme disciplina do artigo 3º da Portaria CAT 92/2001. Nessa situação, deverão ser seguidas as regras referentes à industrialização por encomenda previstas nos artigos 402 e seguintes do RICMS/2000, observada a Portaria CAT 22/2007, quando for o caso.
+
+8.Ainda nesse caso, o envio de partes e peças para conserto desses mesmos equipamentos, pelo cliente da Consulente, deve também observar as regras estabelecidas pelos artigos 402 e seguintes do RICMS/2000, tanto na remessa efetuada pelo encomendante, como no respectivo retorno.
+
+8.1.Dessa forma, quanto à indagação registrada no item 5 desta resposta, cumpre salientar que, a princípio, não há que se falar em crédito do imposto, em razão da disciplina estabelecida para a industrialização sob encomenda (artigo 402 do RICMS/2000), em que a remessa de materiais (equipamentos, partes e peças), pelo encomendante, ao industrializador (Consulente) ocorre sob a suspensão do lançamento do ICMS.
+
+9.No entanto, posto isso, no que se refere à menção feita pela Consulente a material consignado (itens 2 e 5 desta resposta), ressalve-se que, nos termos do artigo 470 do RICMS/2000, "entende-se por consignação industrial a operação na qual ocorre remessa, com preço fixado, de mercadoria com finalidade de integração ou consumo em processo industrial, em que o faturamento dar-se-á quando da utilização desta mercadoria pelo destinatário". Dessa forma, a consignação industrial pressupõe uma operação de venda (faturamento), sendo o remetente o vendedor da mercadoria enviada em consignação.
+
+9.1.Tendo em vista que as partes e peças enviadas para serem utilizadas no conserto do equipamento avariado não são vendidas à Consulente (uma vez que equipamentos, partes e peças são enviados pelo cliente encomendante e serão a ele retornados), depreende-se do exposto que, na situação em questão, não devem ser observadas as regras de consignação industrial previstas nos artigos 470 a 474-A do RICMS/2000.
+
+10.Por oportuno, cabe esclarecer quem de todo modo, o retorno do material consignado (item 4 desta resposta) não se enquadra nas hipóteses previstas na alínea "a" do inciso I do artigo 63, uma vez que não se trata de "devolução de mercadoria, em virtude de garantia ou troca, efetuada por produtor ou por qualquer pessoa natural ou jurídica não considerada contribuinte ou não obrigada à emissão de documentos fiscais".
+
+11.Por fim, como a Consulente descreve procedimentos diversos dos informados nesta resposta à consulta, deverá dirigir-se ao Posto Fiscal de sua vinculação para buscar orientação quanto à eventual necessidade de regularização da situação apresentada (artigo 529 do RICMS/2000

@@ -1,0 +1,45 @@
+ICMS - Art. 3º, caput do Anexo I do RICMS/2000-SP
+	- ANEXO I - ISENÇÕES
+
+(isenções a que se refere o artigo 8º deste regulamento)
+
+Artigo 3º (AMOSTRA GRÁTIS) - Saída interna ou interestadual, a título de distribuição gratuita, de amostras de diminuto ou nenhum valor comercial, desde que em quantidade estritamente necessária para dar a conhecer a natureza, espécie e qualidade da mercadoria (Convênio ICMS-29/90).
+
+Parágrafo único - Para efeito da isenção prevista neste artigo, será considerada amostra gratuita a que:
+
+1 - relativamente a medicamento contiver (Convênio ICMS-171/10): (Redação dada ao item pelo Decreto 56.804, de 03-03-2011; DOE 04-03-2011; Retificação DOE 10-03-2011; Efeitos desde 01-03-2011)
+
+a) quantidade suficiente para o tratamento de um paciente, tratando-se de antibióticos;
+...
+
+2 - relativamente aos demais produtos:
+
+a) contiver a indicação, em caracteres bem visíveis, da expressão "Distribuição Gratuita";
+
+b) consistir em quantidade não excedente a 20% (vinte por cento) do conteúdo ou do número de unidades da menor embalagem de apresentação comercial do mesmo produto, para venda a consumidor.
+
+
+
+
+IPI - Art. 54, caput, III do RIPI/2010
+	- Art. 54.  São isentos do imposto:
+...
+
+III - as amostras de produtos para distribuição gratuita, de diminuto ou nenhum valor comercial, assim considerados os fragmentos ou partes de qualquer mercadoria, em quantidade estritamente necessária a dar a conhecer a sua natureza, espécie e qualidade, atendidas as seguintes condições (Lei nº 4.502, de 1964, art. 7º, inciso V):
+...
+
+
+
+NOTA FISCAL ELETRÔNICA
+
+Natureza da Operação: Remessa de Amostra Grátis
+CST/CSOSN: Isenção de ICMS
+Código Tributário do IPI: Isenção de IPI
+CFOP: 5911
+VALOR: O preço efetivamente cobrado pelo estabelecimento remetente na operação mais recente;
+Caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de sua similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.
+DADOS ADICIONAIS/INFORMAÇÕES COMPLEMENTARES: Pordutos que seguem para distribuição gratuita, a título de amostra grátis.
+Isento de ICMS, conf. art. 3° do Anexo I do RICMS/SP
+Isento do IPI, conf. inciso III, alínea "c" do artigo 54 do RIPI/2010
+
+

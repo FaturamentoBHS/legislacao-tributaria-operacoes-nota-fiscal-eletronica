@@ -1,0 +1,13 @@
+Os itens em que se aplica a ICMS-ST recebem um Código Especificador da Substituição Tributária (CEST), que é um número específico definido conforme o Convênio ICMS 92, de agosto de 2015.
+
+Segundo define a legislação:
+
+“Fica instituído o Código Especificador da Substituição Tributária – CEST, que identifica a mercadoria passível de sujeição aos regimes de substituição tributária e de antecipação do recolhimento do imposto, relativos às operações subsequentes.”
+
+O CEST é composto por sete dígitos, sendo que:
+
+Os dois primeiros se referem ao segmento do bem e mercadoria, que é um grupo formado por produtos de características semelhantes
+
+Terceiro, quarto e quinto dígitos correspondem ao item de um segmento de bem e mercadoria, um subgrupo dentro do segmento
+
+Sexto e sétimo dígitos especificam o produto, permitindo sua identificação.

@@ -1,0 +1,13 @@
+Art. 274, § 3° - RICMS/SP 
+
+Artigo 274 - O contribuinte substituído, ao realizar operação com mercadoria ou prestação de serviço que tiver recebido com imposto retido, emitirá documento fiscal, sem destaque do valor do imposto, que conterá, além dos demais requisitos, a seguinte indicação "Imposto Recolhido por Substituição - Artigo......do RICMS" (Lei 6.374/89, art. 67, § 1º, e Ajuste SINIEF-4/93, cláusula terceira, na redação do Ajuste SINIEF-1/94).
+§ 1º - O documento fiscal terá subsérie distinta, salvo se for Nota Fiscal.
+
+§ 2º - Quando o contribuinte substituído tiver adquirido a mercadoria ou serviço sem a retenção do imposto devido por substituição tributária em virtude de decisão judicial, qualquer que seja o favorecido da referida decisão, esta circunstância será mencionada no documento fiscal que emitir, no campo "Informações Complementares", indicando a obrigação do destinatário em relação ao recolhimento do imposto na operação subseqüente.
+
+§ 3º - O contribuinte substituído que realizar operações destinadas ao território paulista, com a finalidade de comercialização subseqüente, ou prestação de serviço vinculada a operação ou prestação abrangida pela substituição tributária, deverá, no campo "Informações Complementares" do documento fiscal:
+
+1 - indicar a base de cálculo sobre a qual o imposto foi retido e o valor da parcela do imposto retido cobrável do destinatário;
+
+2 - relativamente a cada mercadoria, discriminar as indicações previstas no item anterior.
+

@@ -1,0 +1,11 @@
+Não é a inscrição estadual que torna a pessoa contribuinte, mas as suas atividades econômicas (aqui é que ficará determinado se ocorre ou não o fato gerador do ICMS e como tal ser ou não ser contribuinte do ICMS) .
+Lembre-se que a Lei Complementar nº 116/2003 (Lei Geral do ISS) determina a incidência do ICMS, em alguns casos, no fornecimento de mercadorias em determinadas prestações de serviços, por exemplo, itens 14.01 e 14.03 da lista anexa, portanto, é contribuinte, também, do ICMS.
+
+Tem que ser identificado qual a finalidade dessas aquisições de mercadorias no outro Estado!
+É que tais materiais podem ser usados, exclusivamente, como uso ou consumo (insumos) na prestação do serviço, ou seja, podem simplesmente serem agregados ao serviço prestado e como tal sujeito apenas ao ISS. E nessa utilização específica, quando oriundos de outros Estados, estariam sujeitos unicamente ao ICMS diferencial de alíquotas (artigo 155, §2º, VIII, ‘a’, CF/88), sem direito ao crédito fiscal conforme determinação do artigo 33, I, Lei Kandir (LC nº 87/96).
+
+2) Evidentemente, quando o prestador de serviço estabelecido no Rio de Janeiro não for inscrito no cadastro estadual com atividade econômica sujeita ao ICMS (pessoa física ou jurídica não contribuinte), o remetente do outro Estado estará responsável pelo recolhimento do DIFAL do Convênio ICMS nº 93/2015 (emenda CF/88 nº 87/2015, artigo 155, §2º, VIII, ‘b’, CF/88).
+
+EM SÍNTESE:
+O fato é que em uma prestação de serviço poderá existir ou não a incidência do ICMS (artigo 1º, §2º, Lei Complementar nº 116/2003). Existirá ICMS quando o item da lista anexa determinar expressamente que no fornecimento de peças e partes incidirá ICMS (itens citados acima 14.01 e 14.03), nesse caso, nas saídas das peças e partes deverá ser emitida a NF-e conforme determinação da legislação tributária; do contrário, os bens que apenas serão utilizados como uso e consumo (insumos) e integrados ao serviço terão seus valores monetários integrados a base de cálculo do ISS, hipótese em que será emitida apenas a documentação fiscal do serviço (sem discriminá-los).
+Na entrada de outro Estado desses materiais, como já dito acima, poderá ser tributado pelo DIFAL tradicional ou pelo DIFAL do Convênio ICMS nº 93/2015.

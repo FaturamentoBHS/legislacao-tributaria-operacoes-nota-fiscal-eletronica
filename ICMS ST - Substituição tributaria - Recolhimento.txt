@@ -1,0 +1,29 @@
+ICMS ST - Substituição tributaria
+
+Tenho uma industria, onde algumas vezes e dependendo para qual estado, a mercadoria tem que ser cobrada sub stituição tributaria. O Proble é que essa empresa não possui  inscrição auxiliar  em outros estaod, então a duvida e´:  
+1 - Como faço para recolher esse ICMS ST ???? 
+2 - Tem que emitir uma guia  para cada nota ???? ou tem como recolher uma guia para cada estado???
+3 - Essa guia tem que ser emitida com qual vencimento????  
+4 - Qual o codigo para  emissão da guia ???
+5 - Tem com o recolher esse ICMS, tipo por fechamento mensal ???? 
+ ver perfil de Rubensdenunciar
+
+ 
+
+1 - Como faço para recolher esse ICMS ST ???? 
+RESP. Por GNRE.
+
+2 - Tem que emitir uma guia  para cada nota ???? ou tem como recolher uma guia para cada estado???
+RESP. Sim, a GNRE exige o número do documento fiscal de origem (nº da NF-e). 
+Uma guia para cada Estado no caso de vc ter inscrição no outro Estado (Inscrição de substituto tributário no Estado destinatário), nesse caso, iria pagar o ICMS por apuração (por período mensal de apuração englobando as vendas do referido mês).
+
+3 - Essa guia tem que ser emitida com qual vencimento????  
+RESP. A GNRE deverá seguir com a mercadoria e DANFE.
+
+4 - Qual o código para  emissão da guia ???
+RESP. Conforme artigo 88-A, §1º, I, 'm', Convênio/SINIEF 06/89, Código 10009-9.
+
+5 - Tem como recolher esse ICMS, tipo por fechamento mensal ???? 
+RESP. Ver item 2 acima, pagar com código de apuração mensal, por apuração mensal, código 10004-8 na GNRE, apenas quanto for inscrito no Estado de destino. Nesse caso, estará autorizado a reter o ICMS e repassar o ICMS a favor do Estado de destino no prazo estipulado no Convênio ou Protocolo ICMS (código GNRE 10004-8).
+
+ 

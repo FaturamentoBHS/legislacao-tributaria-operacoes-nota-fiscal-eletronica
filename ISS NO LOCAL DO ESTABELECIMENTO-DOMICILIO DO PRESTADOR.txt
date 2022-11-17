@@ -1,0 +1,65 @@
+
+Os colega poderiam me ajudar com relação a situação abaixo;
+
+Um cliente nos trouxe uma peça para conserto em nossa empresa SP, e após finalização efetuamos a emissão de nota fiscal de serviço da prefeitura de SP.
+Porém agora ele está nos cobrando o imposto em Santos.
+O serviço foi prestado em SP e sem retenção.  Com o codigo de serviço: 07498.
+
+Gostaria de saber se ele como tomador está correto em nos cobrar esse imposto, mesmo o serviço sendo executado em SP.
+
+ 
+
+
+Boa tarde, CELLI GOMES.
+
+O código de serviço 07498 corresponde ao item 14.01 da Lista de serviços:
+
+
+14.01Conserto, restauração, manutenção e conservação de máquinas, aparelhos, equipamentos, motores, elevadores ou de quaisquer outros objetos, exceto veículos (exceto peças e partes empregadas, que ficam sujeitas ao ICMS)
+
+
+A LC 116/2003 dispõe que:
+
+Art. 3o  O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local: (Redação dada pela Lei Complementar nº 157, de 2016)            (Vide ADIN 3142)
+
+Não há como prosperar a cobrança do ISSQN no local do estabelecimento tomador já que o item 14.01 não faz parte das exceções. 
+
+Atenciosamente,
+
+
+
+
+CELLI GOMES
+
+
+Renato Carvalho, Olá.
+
+Obrigado pelo seu retorno.
+
+Fiz está mesma consulta e tive o mesmo entendimento.
+
+Porém como se trata de Santos, achei que tivesse alguma lei municipal a qual  eu não estivesse sabendo.
+Pois o tomador insiste que o imposto e retido lá.
+
+ 
+
+RENATO CARVALHO
+
+
+Isso Celi se dá em decorrência do Art. 146 da Constituição Federal:
+
+Art. 146. Cabe à lei complementar:
+I - dispor sobre conflitos de competência, em matéria tributária, entre a União, os Estados, o Distrito Federal e os Municípios;
+II - regular as limitações constitucionais ao poder de tributar;
+III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;
+b) obrigação, lançamento, crédito, prescrição e decadência tributários;
+c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas.
+d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso do imposto previsto no art. 155, II, das contribuições previstas no art. 195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.         (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)
+
+
+
+Os municípios devem respeitar a LC 116 (regra geral) para não entrar em "guerra" fiscal. 
+
+
+Atenciosamente,

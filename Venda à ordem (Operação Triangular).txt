@@ -1,0 +1,183 @@
+Venda à ordem (Operação Triangular)
+Resumo:
+
+Analisaremos no presente Roteiro de Procedimentos o tratamento contábil aplicável às operações de venda à ordem, também chamada de venda por conta e ordem ou, simplesmente, de operação triangular.
+
+linkedin sharing buttonfacebook sharing buttontwitter sharing buttonwhatsapp sharing buttontelegram sharing button
+Postado em: 23/07/2020 - Área: Manual de lançamentos contábeis.
+
+
+ 
+1) Introdução:
+Normalmente, nas operações relativas à circulação de mercadorias, a mercadoria objeto de comercialização é entregue diretamente ao estabelecimento que consta como destinatário na Nota Fiscal que acoberta a operação. Porém, é comum, quer pela facilidade logística quer pela entrega rápida, o contribuinte realizar a venda para uma determinada pessoa jurídica e solicitar que a mercadoria seja entregue pelo fornecedor a estabelecimento de terceiros (seu cliente), operação esta denominada de "venda à ordem", "venda por conta e ordem" ou, simplesmente, de "operação triangular".
+
+No que se refere à área tributária, mais especificamente a do ICMS e do Imposto sobre Produtos Industrialização (IPI), temos que a operação de "venda à ordem" ocorre quando um estabelecimento adquire mercadoria de um determinado fornecedor e, antes mesmo de recebê-la, promove a venda a terceiro, qualificando-o como o efetivo destinatário da mercadoria, razão pela qual a saída promovida pelo fornecedor será feita por conta e ordem do adquirente originário.
+
+Feito esses brevíssimos comentários e levando em consideração a importância do tema, veremos no presente Roteiro de Procedimentos o tratamento contábil aplicável às operações de venda à ordem. Para tanto, utilizaremos como fonte de estudo os princípios e regras contábeis trazidos pela Lei nº 6.404/1976, bem como outras fontes citadas ao longo do trabalho.
+
+Base Legal: Art. 40 do Convênio Sinief s/nº de 15/12/1970 e; Art. 129, §§ 2º e 3º do RICMS/2000-SP (Checado pela Valor em 23/07/20).
+2) Conceitos:
+2.1) Figuras participantes da venda à ordem:
+Figuram na operação de venda à ordem 3 (três) pessoas distintas que devem ter as seguintes características:
+
+fornecedor (ou vendedor): é quem vende a mercadoria, sendo, obrigatoriamente contribuinte do ICMS;
+adquirente (ou comprador) originário: é quem adquiri a mercadoria do fornecedor e a revende ao destinatário final. Também deverá ser contribuinte do ICMS; e
+destinatário final: é o adquirente final da mercadoria, ou seja, é quem compra a mercadoria do adquirente originário. Poderá ser qualquer pessoa natural ou jurídica, contribuinte ou não do ICMS.
+Base Legal: Art. 129, §§ 2º e 3º do RICMS/2000-SP (Checado pela Valor em 23/07/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2.2) Venda à ordem:
+Para efeitos da legislação do ICMS, a operação de "venda à ordem" ocorre quando um estabelecimento contribuinte do imposto (adquirente originário) adquire mercadoria de um determinado fornecedor (vendedor remetente) e, antes mesmo de recebê-la, promove a venda a terceiro (destinatário final), qualificando-o como o efetivo destinatário da mercadoria, razão pela qual a saída promovida pelo fornecedor será feita por conta e ordem do adquirente originário.
+
+No Estado de São Paulo, por exemplo, a legislação prevê a realização dessa operação em 3 (três) fases distintas, a saber:
+
+1ª (primeira) fase: o fornecedor (vendedor remetente) efetua a venda da mercadoria ao adquirente originário (quem está comprando a mercadoria);
+2ª (segunda) fase: o fornecedor (vendedor remetente), por conta e ordem do adquirente originário, entrega a mercadoria a uma terceira pessoa (destinatário final);
+3ª (terceira) fase: o adquirente originário promove a venda da mercadoria para o destinatário final (recebedor efetivo das mercadorias remetidas diretamente pelo fornecedor por conta e ordem do adquirente original).
+Para melhor visualização da operação, elaboramos o esquema abaixo:
+
+Fluxo Venda à Ordem
+Figura 1: Fluxo Venda à Ordem.
+Repare que, a operação de venda à ordem pressupõe que cada um dos estabelecimentos envolvidos (fornecedor, adquirente originário e destinatário final) pertença a 3 (três) estabelecimentos distintos, conforme entendimento da Consultoria Tributária da Secretaria da Fazenda do Estado de São Paulo (Sefaz/SP), exarado através do item 4 da Resposta à Consulta nº 268/2004.
+
+Lembramos que os procedimentos fiscais que tratam da operação de venda à ordem tem como fundamento, além do RICMS/2000-SP, o artigo 40 do Convênio Sinief s/nº, de 15/12/1970, portanto, alcançam tanto as operações internas quanto as interestaduais, desde que o fornecedor e o adquirente sejam contribuintes do imposto.
+
+Base Legal: Art. 40 do Convênio Sinief s/nº, de 15/12/1970; Art. 129, §§ 2º e 3º do RICMS/2000-SP e; Item 4 da RC nº 268/2004 (Checado pela Valor Consulting em 31/03/19).
+3) Tratamento fiscal:
+Para conferir o tratamento fiscal da operação de venda à ordem, acesso em nosso Manual de Emissão de Notas Fiscais o Roteiro de Procedimentos intitulado "Venda à ordem (ou venda por conta e ordem)". Nesse roteiro vemos detalhadamente os procedimentos fiscais aplicáveis às operações de venda à ordem com base no artigo 129, §§ 2º e 3º do RICMS/2000-SP, aprovado pelo Decreto nº 45.490/2000 e normas corelatas.
+
+4) Tratamento contábil:
+Utilizaremos um exemplo prático a fim de exemplificar o tratamento contábil aplicável às operações de venda à ordem. Assim, suponhamos que a empresa fictícia Vivax Indústria e Comércio de Eletrônicos Ltda. (adquirente originário), tenha comprado do fornecedor Ronaldo Distribuidora de Artigos de Informática Ltda. (vendedor remetente), no dia 30/10/20X1, 500 mouses para computador (NCM: 8471.60.53), a um preço unitário de R$ 40,00 (quarenta reais).
+
+Suponhamos também que, os 500 mouses sejam imediatamente revendidos para loja Riviera Ltda. (destinatário final), a um preço unitário de R$ 75,00 (setenta e cinco reais), com entrega por conta e ordem do adquirente originário (Vivax). Deste modo, objetivando minimizar custos logísticos a empresa Vivax solicitou ao fornecedor que entregasse as mercadorias diretamente à loja Riviera, seu cliente.
+
+De posse dessas informações, exemplificaremos a seguir a forma de contabilização da operação de venda à ordem sob o enfoque do adquirente originário (1), a qual podemos dividir da seguinte forma:
+
+aquisição das mercadorias; e
+venda das mercadorias adquiridas.
+Nota Valor Consulting:
+
+(1) Neste exemplo o fornecedor (Ronaldo Distribuidora) optou por não emitir Nota Fiscal de "Simples Faturamento", cuja emissão é opcional no Estado de São Paulo.
+
+Base Legal: Art. 129, §§ 2º e 3º do RICMS/2000-SP (Checado pela Valor em 23/07/20).
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.1) Aquisição das mercadorias:
+Bom, para iniciar os trabalhos vamos "desenhar" a Nota Fiscal emitida pelo fornecedor Ronaldo Distribuidora de Artigos de Informática Ltda.:
+
+Campo da NF-e	Valor (R$)
+Valor da mercadoria (500 unidades X R$ 40,00)	20.000,00
+IPI (R$ 20.000,00 X 10%) (2)	2.000,00
+Total da NF-e (R$ 20.000,00 + 2.000,00)	22.000,00
+ICMS destacado na NF-e (20.000,00 X 18%) (2)	3.600,00
+Agora, vamos para as tratativas contábeis...
+
+Considerando que a Vivax está adquirindo os mouses para revenda, não há que se falar em crédito fiscal do IPI, assim, o referido imposto deverá ser agregado ao custo das mercadorias adquiridas. Contabilmente, a aquisição das mercadorias pela Vivax deverá ser efetuada como qualquer outra compra, conforme podemos ver nos lançamentos a seguir:
+
+Pela aquisição de 500 mouses para revenda, conf. NF-e nº XXX.XXX, de DD/MM/AA:
+
+D - Estoques (AC) _ R$ 16.550,00 (3)
+
+D - ICMS a Recuperar (AC) _ R$ 3.600,00
+
+D - PIS/Pasep a Recuperar (AC) _ R$ 330,00 (4)
+
+D - Cofins a Recuperar (AC) _ R$ 1.520,00 (5)
+
+C - Fornecedores (PC) _ R$ 22.000,00
+
+
+Pelo pagamento da NF-e nº XXX.XXX, de DD/MM/AA:
+
+D - Fornecedores (PC) _ R$ 22.000,00
+
+C - Bco. c/ Mvto. (AC) _ R$ 22.000,00
+
+
+Legenda:
+
+AC: Ativo Circulante; e
+
+PC: Passivo Circulante.
+
+Notas Valor Consulting:
+
+(2) As alíquotas do ICMS e do IPI, e seus respectivos valores, constantes desse exemplo são meramente ilustrativos, assim, num caso prático nosso leitor deverá verificar na legislação a efetiva carga tributária da operação.
+
+(3) Estoque = Total da NF-e - Tributos recuperáveis ==> Estoque = R$ 22.000,00 - (R$ 3.600,00 + R$ 330,00 + R$ 1.520,00) ==> Estoque = R$ 16.550,00.
+
+(4) PIS/Pasep creditável = Total da NF-e X Alíquota ==> PIS/Pasep creditável = R$ 22.000,00 X 1,65% ==> PIS/Pasep creditável = R$ 330,00. Somente é admissível apropriação de crédito do PIS/Pasep para as empresas tributadas pelo lucro real, ou seja, que apurem a contribuição na sistemática não cumulativa.
+
+(5) Cofins creditável = Total da NF-e X Alíquota ==> Cofins creditável = R$ 22.000,00 X 7,60% ==> Cofins creditável = R$ 1.520,00. Somente é admissível apropriação de crédito da Cofins para as empresas tributadas pelo lucro real, ou seja, que apurem a contribuição na sistemática não cumulativa.
+
+Base Legal: Equipe Valor Consulting.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+4.2) Venda das mercadorias adquiridas:
+Considerando as informações acima, teremos a emissão pela empresa Vivax da seguinte Nota Fiscal de venda para o destinatário final, no caso a loja Riviera Ltda.:
+
+Campo da NF-e	Valor (R$)
+Valor da mercadoria (500 unidades X R$ 75,00)	37.500,00
+IPI (6)	0,00
+Total da NF-e	37.500,00
+ICMS destacado na NF-e (37.500,00 X 18%) (6)	6.750,00
+Neste exemplo, a empresa Vivax não é considerada contribuinte do IPI, haja vista os mouses não serem fruto de industrialização em seu estabelecimento, ou seja, ela está realizando uma venda de mercadoria adquirida de terceiros no mercado interno (revenda), situação que foge do campo de incidência do imposto federal. Além disso, consideraremos que a Vivax está sujeita ao regime de incidência não cumulativa das contribuições para o PIS/Pasep e Cofins.
+
+Contabilmente, a Vivax deverá efetuar os lançamentos contábeis como se fosse uma venda normal, do seguinte modo:
+
+Pelo registro da revenda de 500 mouses à empresa Riviera Ltda., conf. NF-e nº XXX.XXX, de DD/MM/AA:
+
+D - Clientes (AC) _ R$ 37.500,00
+
+C - Receita de venda de mercadorias (CR) _ R$ 37.500,00
+
+
+Pelo registro do ICMS incidente sobre a venda de mercadorias, conf. NF-e nº XXX.XXX, de DD/MM/AA:
+
+D - ICMS sobre Vendas (CR) _ R$ 6.750,00
+
+C - ICMS a Recolher (PC) _ R$ 6.750,00
+
+
+Pelo registro do PIS/Pasep incidente sobre a venda de mercadorias, conf. NF-e nº XXX.XXX, de DD/MM/AA:
+
+D - PIS/Pasep sobre Vendas (CR) _ R$ 618,75
+
+C - PIS/Pasep a Recolher (PC) _ R$ 618,75
+
+
+Pelo registro da Cofins incidente sobre a venda de mercadorias, conf. NF-e nº XXX.XXX, de DD/MM/AA: (7)
+
+D - Cofins sobre Vendas (CR) _ R$ 2.850,00
+
+C - Cofins a Recolher (PC) _ R$ 2.850,00
+
+
+Pelo registro do custo das mercadorias vendidas de mercadorias, conf. NF-e nº XXX.XXX, de DD/MM/AA: (8)
+
+D - Custo das Mercadorias Cendidas (CR) _ R$ 16.550,00
+
+C - Estoques (AC) _ R$ 16.550,00
+
+
+Legendas:
+
+AC: Ativo Circulante;
+
+CR: Conta de Resultado; e
+
+PC: Passivo Circulante.
+
+Notas Valor Consulting:
+
+(6) A alíquota e o respectivo ICMS constante desse exemplo são meramente ilustrativos, assim, num caso prático nosso leitor deverá verificar na legislação a efetiva carga tributária da operação. Além disso, não teremos a incidência do IPI na operação, haja vista os mouses não serem fruto de industrialização por parte da Vivax, ou seja, ela está realizando uma venda de mercadoria adquirida de terceiros no mercado interna (revenda), situação que foge do campo de incidência do imposto federal.
+
+(7) PIS/Pasep devido = Valor da mercadoria X Alíquota ==> PIS/Pasep devido = R$ 37.500,00 X 1,65% ==> PIS/Pasep devido = R$ 618,75.
+
+(8) Cofins devido = Valor da mercadoria X Alíquota ==> Cofins devido = R$ 37.500,00 X 7,60% ==> Cofins devido = R$ 2.850,00.

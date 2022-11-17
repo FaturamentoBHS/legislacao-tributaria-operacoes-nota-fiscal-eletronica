@@ -1,0 +1,347 @@
+Venda para entrega futura
+Resumo:
+
+Normalmente, nas operações relativas à circulação de mercadorias (ou produtos), a mercadoria objeto de comercialização é entregue logo em seguida à realização do negócio jurídico. Porém, por questões comerciais ou até mesmo de logística diversas empresas optam em efetuar a venda da mercadoria para remetê-la ao comprador apenas posteriormente.
+
+Essa operação é denominada pela legislação tributária de "Venda para entrega futura" e é muito utilizada nos dias atuais. Assim, devido sua importância, veremos no presente Roteiro de Procedimentos o tratamento fiscal aplicável a essas operações.
+
+linkedin sharing buttonfacebook sharing buttontwitter sharing buttonwhatsapp sharing buttontelegram sharing button
+Postado em: 18/09/2020 - Área: Manual de emissão de Notas Fiscais.
+
+
+ 
+1) Introdução:
+Normalmente, nas operações relativas à circulação de mercadorias (ou produtos), a mercadoria objeto de comercialização é entregue logo em seguida à realização do negócio jurídico (venda, no caso em análise). Porém, por questões comerciais ou até mesmo de logística (conveniência ou necessidade do cliente) diversas empresas optam em efetuar a venda da mercadoria para remetê-la ao comprador apenas posteriormente. Perante a legislação tributária, essa operação é denominada de "Venda para entrega futura" ou, como alguns denominariam, "Faturamento Antecipado" (1).
+
+Assim, para efeitos da legislação do ICMS (do Estado de São Paulo), a operação de Venda para entrega futura ocorre quando um estabelecimento vendedor comercializa uma dada mercadoria mas permanece com a mesma até a sua posterior entrega ao adquirente no prazo convencionado entre ambos, enquanto o pagamento do seu valor é efetuado antecipadamente. É no momento da efetiva entrega que ocorre o fato gerador do ICMS, conforme veremos no decorrer deste trabalho.
+
+Nessa operação, o vendedor contribuinte do ICMS poderá optar por um dos seguintes procedimentos:
+
+documentar o faturamento mediante Recibo, situação em que a Nota Fiscal de Venda somente deverá ser emitida quando da saída física da mercadoria ou bem; ou
+emitir Nota Fiscal de Simples Faturamento no momento da realização do negócio jurídico (venda), sem destaque do ICMS e; emitir uma nova Nota Fiscal por ocasião da saída física, global ou parcial, da mercadoria ou bem do estabelecimento, com o destaque do imposto se devido.
+Caso o vendedor seja, ainda, contribuinte do Imposto sobre Produtos Industrializados (IPI) deverá observar a legislação Federal desse imposto. Adiantamos que dita legislação também prevê a faculdade da emissão de Nota Fiscal de "Venda para entrega futura", desde que não haja destaque do IPI, o que torna obrigatória a sua emissão. Assim, têm-se que é facultado o lançamento desse imposto na respectiva Nota Fiscal
+
+No decorrer no presente Roteiro de Procedimentos veremos em detalhes os procedimentos emanados pela legislação do IPI.
+
+Assim, devido à importância do tema, veremos no presente Roteiro de Procedimentos o tratamento fiscal aplicável às operações de Venda para entrega futura. Para tanto, utilizaremos como base o artigo 129, §§ 1º e 3º do RICMS/2000-SP, aprovado pelo Decreto nº 45.490/2000, e o artigo 40 do Convênio Sinief s/nº, de 1970. No que se refere ao IPI, utilizaremos como base os artigos 187, I, 407, VII, § 3º e 410 do Regulamento do IPI (RIPI/2010), aprovado pelo Decreto nº 7.212/2010.
+
+Por fim, registramos que este procedimento, por estar amparado em Convênio ICMS (2), alcança tanto as operações internas quanto as interestaduais.
+
+Notas Valor Consulting:
+
+(1) A legislação do ICMS não faz distinção entre as operações de "Venda para entrega futura" e "Faturamento Antecipado" dando-lhes igual tratamento. Porém, essa verdade não acontece com a legislação do Imposto de Renda (IR) que as tratam de forma diferente.
+
+(2) Interessante observar que, para uma norma disciplinar operações específicas vinculando procedimentos a serem observados pelos Estados ou pelo Distrito Federal há que existir acordo firmado pelas autoridades fazendárias competentes no âmbito do Conselho Nacional de Política Fazendária (Confaz). Tais normas são editadas via Protocolos, Convênios ou Ajustes Sinief.
+
+Base Legal: Arts. 187, caput, I, 407, caput, VII, § 3º e 410 do RIPI/2010; Art. 40 do Convênio Sinief s/nº, de 1970 e; Art. 129, §§ 1º e 3º do RICMS/2000-SP .
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+2) Conceitos:
+2.1) Venda para entrega futura:
+A operação de Venda para entrega futura ocorre quando um estabelecimento vendedor comercializa uma dada mercadoria mas permanece com a mesma até a sua posterior entrega ao adquirente no prazo convencionado entre ambos, enquanto o pagamento do seu valor é efetuado antecipadamente. Portanto, nessa operação, a entrega da mercadoria não ocorre de imediato e sim em momento posterior.
+
+Em outras palavras, essas operações representam vendas efetivamente concluídas cuja receita já foi registrada pela vendedora em sua contabilidade, porém, por conveniência ou por alguma peculiaridade do adquirente, as mercadorias serão efetivamente entregues em momento ulterior.
+
+Registra-se que a emissão de Nota Fiscal, Modelos 1, 1A ou 55 (NF-e) para documentar o faturamento da venda realizada antes da entrega física da mercadoria ao comprador é opcional, tanto para a legislação do ICMS como para a do IPI. Assim, a emissão desse documento e/ou o pagamento antecipado não caracterizam, por si só, fato gerador de ambos os impostos.
+
+Base Legal: Art. 410 do RIPI/2010 e; Art. 129, caput do RICMS/2000-SP .
+2.2) Faturamento Antecipado:
+Diferentemente da "Venda para entrega futura", o "Faturamento Antecipado" ocorre quando um estabelecimento vendedor comercializa uma dada mercadoria que ainda não foi produzida ou adquirida de terceiros, ou seja, o vendedor comercializa algo que ainda não possui em seus estoques. Neste caso, também ocorre o pagamento antecipado da venda, porém, sem a disponibilidade imediata da mercadoria.
+
+Base Legal: Equipe Valor Consulting.
+2.3) Diferenças entre "Venda para entrega futura" e "Faturamento Antecipado":
+A diferença essencial entre "Venda para entrega futura" e "Faturamento Antecipado" é que, no primeiro caso a mercadoria fica a disposição do adquirente, enquanto no segundo isto não ocorre, pois a mesma ainda não foi adquirida de terceiros (no caso de revenda) ou produzida (no caso de fabricação pelo estabelecimento vendedor).
+
+Base Legal: Equipe Valor Consulting.
+3) Tratamento Tributário:
+3.1) Quanto ao IPI:
+Segundo a legislação do IPI, é facultado ao contribuinte emitir ou não a Nota Fiscal de "Venda para entrega futura", desde que não haja destaque do imposto, o que torna obrigatória a sua emissão. Caso opte em emitir a respectiva Nota Fiscal, o contribuinte deverá dar saída do produto de seu estabelecimento nos 3 (três) dias seguintes à data de emissão do documento fiscal.
+
+Pra um melhor entendimento desse assunto, publicamos na íntegra o Parecer Normativo CST nº 480/1970, que muito nos ensina:
+
+Parecer Normativo CST nº 480/1970
+
+
+Emitida a Nota Fiscal e lançado o tributo, deve a mercadoria sair do estabelecimento nos 3 dias seguintes à data de emissão do efeito: ocorrido o fato gerador pela saída ficta do produto, após o decurso do prazo apontado (RIPI - Decreto nº 61.514, 12/10/67, art. 7º, parágrafo único, inciso III), a permanência no estabelecimento fará presumir má-fé do contribuinte, se não ajustada a venda para entrega futura ou a entrega parcelada do produto (nas hipóteses de unidades que saem desmontadas); excetuam-se, todavia, os casos de força maior, de não haver disponibilidade de transporte ou, ainda, de haver sido cancelada a operação, declarada a circunstância na Nota Fiscal.
+
+01 - IPI
+
+01.09 - Lançamento
+
+01.09.03 - Nota Fiscal
+
+1. Emitida a Nota Fiscal e lançado o tributo sem que saia a mercadoria do estabelecimento, ocorrerá o fato gerador na forma do que dispõe o art. 7º, parágrafo único, III, do RIPI (hipótese de saída ficta do produto), devendo o industrial promover a sua retirada.
+
+2. Mesmo assim, há de ficar comprovada a ocorrência de força maior, de não haver transporte disponível ou, ainda, de haver sido cancelada a operação (declarada a circunstância na Nota Fiscal), sob pena de se presumir má-fé, especialmente se ficar comprovado o propósito de evasão, que se caracterizaria pela vigência de alíquota mais elevada na ocasião da saída real. É que, já tendo ocorrido o fato gerador com o decurso dos três dias, não há que falar em emissão de nova Nota Fiscal (com novo cálculo do Imposto) quando da efetiva saída; os produtos se farão acompanhar da Nota Fiscal primitivamente emitida. Daí o exigir-se a comprovação da ocorrência de um dos motivos inicialmente enunciados.
+
+3. A emissão da Nota Fiscal, com lançamento do Imposto, sem corresponder à saída efetiva da mercadoria, só é admitida pelo RIPI quando se tratar de faturamento antecipado ou de entrega parcelada, de unidades desmontadas, obedecidas as normas que a respeito edita (art. 85, c.c. o art. 83, incisos V e VI e §§ 2º e 3º, e art. 24, § 5º).
+
+4. O exame comparativo dos dispositivos acima mencionados, mais o inciso III do art. 84, todos do RIPI, permite concluir que o faturamento antecipado se refere, unicamente, aos casos de venda para entrega futura da mercadoria, quando acolhe o Regulamento como forma de propiciar à empresa capital de giro previamente à entrega do produto, ocasião em que normalmente receberia ela o pagamento do preço respectivo.
+
+5. O faturamento em questão, com entrega simbólica da mercadoria e fato gerador na saída do produto pronto do estabelecimento, exclui, deste modo, a ocorrência da saída ficta prescrita no já citado art. 7º, parágrafo único, III, do RIPI, aplicando-se esta apenas às hipóteses de venda para entrega imediata. Por conseguinte, a adoção de uma qualquer das formas implicará, automaticamente, não só no atendimento das condições a que se subordina a mesma, como, igualmente, na exclusão dos benefícios advindos da outra, tendo-se em vista os fins previstos pelo Legislador.
+
+6. Conclui-se, pois, que, adotado o faturamento antecipado, pressupor-se-á tratar-se de venda para entrega futura de produto ainda não pronto, ficando excluída, por via de conseqüência, a ocorrência do fato gerador ao término do tríduo previsto no art. 7º, parágrafo único, III, do RIPI. Será indispensável, então, na forma da Lei, a emissão da nova Nota Fiscal quando da saída efetiva do produto do estabelecimento, observada a alíquota de incidência vigente nesse momento (art. 83, § 2º).
+
+7. Inferir-se-á má-fé do contribuinte que adotar procedimento diferente, considerado irregular em face dos objetivos da sistemática do IPI ora em vigor.
+
+Base Legal: Arts. 187, caput, I, 407, caput, VII, § 3º e 410 do RIPI/2010 e; PN CST nº 480/1970 .
+3.2) Quanto ao ICMS:
+A operação de Venda para entrega futura esta devidamente regulamentada no Estado de São Paulo através do artigo 129, §§ 1º e 3º do RICMS/2000-SP, aprovado pelo Decreto nº 45.490/2000, e em âmbito nacional pelo artigo 40 do Convênio Sinief s/nº, de 1970.
+
+Importante dizer que, perante a legislação do ICMS as operações de "Venda para entrega futura" e "Faturamento Antecipado" recebem igual tratamento procedimental, conforme veremos nos capítulos seguintes, onde entraremos em detalhes nos procedimentos para a emissão e escrituração dos documentos fiscais que envolvem a operação.
+
+Base Legal: Art. 40 do Convênio Sinief s/nº, de 1970 e; Art. 129, §§ 1º e 3º do RICMS/2000-SP .
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+3.3) Quanto ao IR:
+Conforme dissemos anteriormente, a legislação do IR trata de forma diferente as operações de "Venda para entrega futura" e "Faturamento Antecipado", pois ditas operações ocorrem de modos diferentes. A Venda para entrega futura acontece quando, embora a empresa tenha a mercadoria à disposição do comprador, não faz a entrega por conveniência ou por alguma peculiaridade deste, enquanto o Faturamento Antecipado ocorre quando a empresa vende o produto que ainda não fabricou ou adquiriu de terceiros.
+
+Assim, diz-se que no primeiro caso ocorre o fato gerador do IR, visto que a mercadoria está à disposição do cliente e a despesa já foi realizada, havendo possibilidade, desta feita, de ser mensurado o lucro, já na segunda hipótese, o fato gerador do IR não se verifica, haja vista que a despesa com a fabricação ou aquisição da mercadoria ainda não aconteceu.
+
+Nesse sentido temos diversas Soluções de Consulta que pacificam o assunto, conforme se exemplifica através das seguintes ementas:
+
+MINISTÉRIO DA FAZENDA
+SECRETARIA DA RECEITA FEDERAL
+SOLUÇÃO DE CONSULTA Nº 8 de 07 de Janeiro de 2009
+
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+
+EMENTA: FATURAMENTO ANTECIPADO. RECONHECIMENTO DA RECEITA. REGIME DE COMPETÊNCIA. No caso de faturamento antecipado, assim entendido o faturamento realizado em situações nas quais o contribuinte não possua ainda disponível para entrega o bem objeto do contrato de compra e venda, a receita deverá ser computada no período de apuração em que o bem for produzido (ou for adquirido, no caso de revenda), ficando disponível para o comprador, quando integrará a base de cálculo da Cofins. Se a produção do bem negociado for contratada mediante a execução de etapas autônomas, a conclusão de cada etapa, com a entrega da correspondente parcela produzida ao adquirente, demandará a apropriação da correspondente receita e seu oferecimento à tributação pela contribuição, tenha ou não ocorrido o respectivo recebimento do montante devido pela parte entregue.
+
+
+
+VENDA PARA ENTREGA FUTURA. O contrato de compra e venda se perfaz quando as partes concordam quanto à coisa e ao preço. A tradição da coisa pode ser real ou simbólica. Uma vez perfeito o contrato, impõe-se seu reconhecimento pela contabilidade da empresa, independentemente de a entrega real ser futura. Prevalecimento do regime de competência (art. 187 da Lei das S/A), ainda que não tenha havido o recebimento do preço, aspecto que não atinge o nascimento do direito e respectivas obrigações entre as partes contratantes.
+
+Base Legal: SC RFB nº 08/2009 e; Acórdão do 1º CC nº 103-9.051/89 .
+4) Procedimentos (Emissão e escrituração das Notas Fiscais):
+4.1) Nota Fiscal de Simples Faturamento:
+Na operação de "Venda para entrega futura" fica facultado ao contribuinte do ICMS que vender a mercadoria emitir Nota Fiscal com a indicação de que se destina a Simples Faturamento, computando-se neste o valor referente aos tributos incidentes, inclusive o ICMS calculado por dentro.
+
+Essa Nota Fiscal servirá apenas como documento hábil para cobrança antecipada do valor do negócio realizado entre vendedor e comprador, possuindo, portanto, característica muito mais comercial do que fiscal. Além disso, considerando que nesse momento não haverá circulação física de mercadoria, não há que se falar em fato gerador do ICMS e por consequência fica vedado o destaque do valor desse imposto.
+
+Relativamente ao IPI, a legislação também prevê que é facultado ao estabelecimento industrial ou equiparado à industrial emitir Nota Fiscal de "Venda para entrega futura", salvo se houver destaque do imposto Federal, o que tornará obrigatória a sua emissão. Ou seja, o contribuinte, se assim desejar, poderá destacar o IPI no momento do Simples Faturamento.
+
+O RIPI/2010 prevê essa faculdade ao contribuinte, não havendo nenhuma restrição a que o imposto somente seja destacado quando da emissão da Nota Fiscal de Remessa do produto; desde que a cobrança ou valor faturado à título de antecipação não inclua o valor do IPI.
+
+Se o contribuinte, ao emitir a Nota Fiscal de Simples Faturamento incluir o valor do IPI no total faturado, ficará o mesmo obrigado ao destaque do imposto no documento fiscal aludido, na forma artigo 407, VII do RIPI/2010.
+
+Portanto, a Nota Fiscal de Simples Faturamento, quando utilizada, deverá ser emitida observando-se todos os requisitos normalmente exigidos pela legislação, principalmente:
+
+CFOP: 5.922 ou 6.922, tratando-se de operação interna (dentro do Estado de São Paulo) ou interestadual respectivamente;
+Natureza da Operação: "Simples Faturamento - Venda para entrega futura";
+Valor Total: Valor da operação, acrescido dos tributos incidentes (quanto ao IPI, levar em consideração o acima comentado);
+Informações Complementares da NF: a expressão "Nota Fiscal de Simples Faturamento em venda para entrega futura, emitida nos termos do artigo 129, caput do RICMS/2000-SP".
+No que se refere a escrituração fiscal dessa Nota Fiscal, ela deverá ser feita pelo emitente no Livro Registro de Saídas (LRS) e, pelo destinatário no Livro Registro de Entradas (LRE) (3), utilizando-se das colunas relativas:
+
+a "Documento Fiscal"; e
+"Observações", apondo-se nesta a expressão "Simples Faturamento".
+Nota Valor Consulting:
+
+(3) Lembramos que o estabelecimento adquirente (destinatário) deverá utilizar a CFOP 1.922 (Operação interna) ou 2.922 (Operação interestadual) para escriturar a entrada em seu LRE da Nota Fiscal de Simples Faturamento.
+
+Base Legal: Arts. 187, caput, I, 407, caput, VII e 410 do RIPI/2010 e; Art. 129, caput e § 3º, 1 do RICMS/2000-SP .
+4.1.1) Desfazimento da Venda:
+Na hipótese de ocorrer o desfazimento da venda antes da entrega total ou parcial da mercadoria, não deverá ser emitido Nota Fiscal de devolução, uma que não haverá circulação efetiva de mercadoria.
+
+Para regularizar a situação, o estabelecimento vendedor (remetente) e comprador (destinatário) deverão anotar no campo "Observações" do LRS e LRE respectivamente, na mesma linha do Livro em que foi registrada a Nota Fiscal de Simples Faturamento, a seguinte mensagem: "venda desfeita em __/__/____". (caso haja algum documento pertinente, é aconselhável mencionar).
+
+Base Legal: Equipe Valor Consulting.
+4.2) Nota Fiscal de Remessa:
+Na operação de "Venda para entrega futura", a emissão da Nota Fiscal de Simples Faturamento fica condicionada à emissão por ocasião da saída efetiva da mercadoria, em quantidade total ou parcial, de Nota Fiscal de Remessa para acobertar o trânsito da mesma até o estabelecimento adquirente que, além dos demais requisitos exigidos pela legislação, conterá:
+
+CFOP: 5.116 ou 6.116, tratando-se de venda de produção do estabelecimento ou; 5.117 ou 6.117, tratando-se de venda de mercadoria adquirida ou recebida de terceiros;
+Natureza da Operação: "Remessa - Entrega Futura";
+o valor da operação ou, se tiver ocorrido reajuste contratual do preço da mercadoria, este preço, se lhe for superior;
+o destaque do valor do ICMS, se devido;
+sem lançamento do valor do IPI (pois já ocorreu no momento da emissão da Nota Fiscal de Simples Faturamento), ou com lançamento complementar se ocorrer majoração da respectiva alíquota entre as datas da emissão da Nota Fiscal de Simples Faturamento e da Nota Fiscal de Remessa;
+Informações Complementares da NF (referente ao ICMS e/ou IPI): Informar o número de ordem, a série (se adotada) e a data da emissão da Nota Fiscal relativa ao Simples Faturamento (Ver subcapítulo 4.1 acima), bem como da Nota Fiscal expedida pelo comprador ao destinatário da mercadoria, se este não for o próprio comprador, assim como do IPI destacado nessas Notas Fiscais;
+Informações Complementares da NF (referente ao IPI): Indicar a diferença do IPI resultante de eventual redução da alíquota, ocorrida entre a emissão da Nota Fiscal de Simples Faturamento e a da Nota Fiscal de Remessa do produto.
+Portanto, concluímos que se o remetente for estabelecimento industrial ou equiparado à industrial deverá emitir Nota Fiscal com destaque do ICMS e sem destaque do IPI, pois este, em princípio, já foi destacado na Nota Fiscal de Simples Faturamento.
+
+Em que pese o destaque do IPI ser efetivado na Nota Fiscal de Simples Faturamento, o destinatário, caso seja industrial ou equiparado e esteja adquirindo um produto que lhe dê direito ao crédito do imposto, somente poderá se apropriar quando do recebimento da mercadoria, a vista do documento que acompanhar o produto. Note-se que, nos termos do artigo 226, X, do RIPI/2010, nesse momento o lançamento do crédito será feito com base no valor do IPI destacado na Nota Fiscal de Simples Faturamento.
+
+No que se refere a escrituração fiscal dessa Nota Fiscal, ela deverá ser feita pelo emitente no LRS e, pelo destinatário no LRE (4), utilizando-se das colunas próprias, anotando-se na de "Observações" os dados identificativos da Nota Fiscal emitido para efeito de Simples Faturamento, se emitida.
+
+Notas Valor Consulting:
+
+(4) Lembramos que o estabelecimento adquirente (destinatário) deverá utilizar as CFOPs 1.116/2.116 ou 1.117/2.117, conforme o caso, para escriturar a entrada em seu LRE da Nota Fiscal de Remessa.
+
+(5) Ressaltamos que o destaque do ICMS não poderá ser feito antecipadamente, mas poderá ocorrer a situação de o valor do IPI compor a Base de Cálculo (BC) do ICMS, ou seja, quando a mercadoria se destinar ao Uso/Consumo ou Ativo Permanente do adquirente. Neste caso, o fornecedor que emitir Nota Fiscal por processamento eletrônico de dados deverá parametrizar o sistema de forma que o mesmo inclua o valor do IPI na Base de Cálculo (BC) do ICMS, evitando-se transtornos operacionais.
+
+Base Legal: Arts. 226, X, 251, II e § 3º e 407, § 3º do RIPI/2010 e; Art. 129, §§ 1º e 3º, 3 do RICMS/2000-SP .
+5) Exemplo Prático:
+A fim de exemplificar os procedimentos tratados neste Roteiro, suponhamos que a empresa fictícia Vivax Indústria e Comércio de Eletrônicos Ltda., indústria com sede no Município de Campinas/SP, tenha efetuado a venda para a empresa Magazine Viber Ltda. de 10.000 (dez mil) mouses para computador (NCM: 8471.60.53), a um preço unitário de R$ 40,00 (com impostos inclusos). Suponhamos também que esses mouses tenham sido adquiridos de terceiros para revenda e que apesar de estarem disponíveis em estoque, só serão entregues para a empresa Viber em data posterior à cobrança, ou seja, temos ai uma típica Venda para entrega futura.
+
+De posse dessas informações e considerando que ambas as empresas estão localizadas no Estado de São Paulo, exemplificaremos a seguir a forma de emissão das Notas Fiscais que envolvem a operação de Venda para entrega futura, quais sejam:
+
+Nota Fiscal de Simples Faturamento (Ver subcapítulo 5.1 abaixo);
+Nota Fiscal de Remessa (Ver subcapítulo 5.2 abaixo).
+Base Legal: Equipe Valor Consulting.
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.1) Nota Fiscal de Simples Faturamento:
+Considerando as informações acima, teremos a emissão pela empresa Vivax da seguinte Nota Fiscal de Simples Faturamento para registrar o valor a ser antecipado pela empresa Viber, relativamente à compra dos mouses:
+
+Nota Fiscal de Venda para entrega futura
+Figura 1: Nota Fiscal de Venda para entrega futura.
+Base Legal: Equipe Valor Consulting.
+5.1.1) Escrituração da NF-e no Sped-Fiscal:
+A Nota Fiscal Eletrônica de Simples Faturamento deverá ser lançada na Escrituração Fiscal Digital (EFD), popularmente chamada de Sped-Fiscal, do estabelecimento emitente. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Dando continuidade ao caso hipotético visto no capítulo 5 acima, a Vivax deverá escriturar os referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Guia Prático da EFD-ICMS/IPI .
+5.1.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal Eletrônica de Simples Faturamento, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	999999
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000301500
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	151120X1
+11	DT_E_S	
+12	VL_DOC	0,00
+13	IND_PGTO	0
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	
+17	IND_FRT	9
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	
+22	VL_ICMS	
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Nota Valor Consulting:
+
+(6) Considerando que o PIS/Pasep e a Cofins dependem do tipo de apuração adotado pelo contribuinte, nossa Equipe Técnica optou pelo não lançamento desses valores no Sped-Fiscal.
+
+Base Legal: Registro C100 da EFD-ICMS/IPI .
+5.1.1.2) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por Código da Situação Tributária (CST), Código Fiscal de Operação e Prestação (CFOP) e Alíquota de ICMS. No caso da Nota Fiscal Eletrônica de Simples Faturamento, a mesma deverá ser registrada da seguinte forma:
+
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	090
+03	CFOP	5922
+04	ALIQ_ICMS	
+05	VL_OPR	0,00
+06	VL_BC_ICMS	0,00
+07	VL_ICMS	0,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 da EFD-ICMS/IPI .
+5.2) Nota Fiscal de Remessa:
+Passado algum tempo, a empresa Viber solicitou a entrega em seu estabelecimento, também situado em Campinas/SP, dos produtos adquiridos da empresa Vivax, produtos estes já devidamente pagos com base na Nota Fiscal de Simples Faturamento. Assim, para acobertar o trânsito dos mouses até o estabelecimento adquirente a Vivax terá que emitir a seguinte Nota Fiscal de Remessa:
+
+Nota Fiscal de Remessa de Entrega Futura
+Figura 2: Nota Fiscal de Remessa de Entrega Futura.
+Base Legal: Equipe Valor Consulting.
+5.2.1) Escrituração da NF-e no Sped-Fiscal:
+A Nota Fiscal Eletrônica de Remessa deverá ser lançada no Sped-Fiscal do estabelecimento emitente. O lançamento deverá ser feito mediante o preenchimento dos vários Registros do Bloco C, constantes do Guia Prático da EFD-ICMS/IPI, principalmente:
+
+o Registro C100 da EFD-ICMS/IPI;
+o Registro C110 da EFD-ICMS/IPI; e
+o Registro C190 da EFD-ICMS/IPI.
+Dando continuidade ao caso hipotético visto no capítulo 5 acima, a Vivax deverá escriturar os referidos Registros da forma tratada nos próximos subcapítulos.
+
+Base Legal: Guia Prático da EFD-ICMS/IPI .
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.2.1.1) Registro C100:
+O Registro C100 destina-se ao lançamento dos totais de valores apresentados na Nota Fiscal. No caso da Nota Fiscal Eletrônica de Remessa, a mesma deverá ser registrada da seguinte forma:
+
+Registro C100
+Nº	Campo	Valor
+01	REG	C100
+02	IND_OPER	1
+03	IND_EMIT	0
+04	COD_PART	999999
+05	COD_MOD	55
+06	COD_SIT	00
+07	SER	1
+08	NUM_DOC	000335501
+09	CHV_NFE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+10	DT_DOC	151220X1
+11	DT_E_S	151220X1
+12	VL_DOC	400.000,00
+13	IND_PGTO	2
+14	VL_DESC	
+15	VL_ABAT_NT	
+16	VL_MERC	400.000,00
+17	IND_FRT	0
+18	VL_FRT	
+19	VL_SEG	
+20	VL_OUT_DA	
+21	VL_BC_ICMS	400.000,00
+22	VL_ICMS	72.000,00
+23	VL_BC_ICMS_ST	
+24	VL_ICMS_ST	
+25	VL_IPI	
+26	VL_PIS	
+27	VL_COFINS	
+28	VL_PIS_ST	
+29	VL_COFINS_ST	
+Nota Valor Consulting:
+
+(7) Considerando que o PIS/Pasep e a Cofins dependem do tipo de apuração adotado pelo contribuinte, nossa Equipe Técnica optou pelo não lançamento desses valores no Sped-Fiscal.
+
+Base Legal: Registro C100 da EFD-ICMS/IPI .
+CONTINUA DEPOIS DA PUBLICIDADE
+
+
+ 
+5.2.1.2) Registro C110:
+O Registro C110 tem por objetivo identificar os dados contidos no campo Informações Complementares da Nota Fiscal, que sejam de interesse do Fisco, conforme dispõe a legislação. No caso da Nota Fiscal Eletrônica de Remessa, a mesma deverá ser registrada da seguinte forma:
+
+Registro C110
+Nº	Campo	Valor
+01	REG	C110
+02	COD_INF	999999
+03	TXT_COMPL	Nota Fiscal de Remessa relativa a Nota Fiscal de Simples Faturamento nº 000.301.500 de 15/11/20X1. Rmitida nos termos do artigo 129, § 1º do RICMS/2000-SP. Material adquirido de terceiros para revenda.
+Base Legal: Registro C110 da EFD-ICMS/IPI .
+5.1.1.3) Registro C190:
+O Registro C190 tem por objetivo representar a escrituração dos documentos fiscais totalizados por Código da Situação Tributária (CST), Código Fiscal de Operação e Prestação (CFOP) e Alíquota de ICMS. No caso da Nota Fiscal Eletrônica de Remessa, a mesma deverá ser registrada da seguinte forma:
+
+Registro C190
+Nº	Campo	Valor
+01	REG	C190
+02	CST_ICMS	000
+03	CFOP	5117
+04	ALIQ_ICMS	18,00
+05	VL_OPR	400.000,00
+06	VL_BC_ICMS	400.000,00
+07	VL_ICMS	72.000,00
+08	VL_BC_ICMS_ST	0,00
+09	VL_ICMS_ST	0,00
+10	VL_RED_BC	0,00
+11	VL_IPI	0,00
+12	COD_OBS	
+Base Legal: Registro C190 da EFD-ICMS/IPI .

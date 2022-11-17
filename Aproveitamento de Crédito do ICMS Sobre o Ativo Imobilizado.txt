@@ -1,0 +1,552 @@
+APROVEITAMENTO DE CRÉDITOS DO ICMS SOBRE O ATIVO IMOBILIZADO
+
+Aproveitamento Crédito ICMS Ativo Imobilizado - Conteúdo
+ 
+Ao comprar um bem para o seu ativo imobilizado, as empresas têm direito ao aproveitamento de créditos do ICMS. Porém, é necessário entender as regras para esse benefício.
+
+Por: Fernando Bento
+
+Quando uma empresa adquire um bem destinado ao seu ativo imobilizado, existem situações de acordo com a legislação do ICMS em que se pode recuperar o crédito do ICMS, e essa é uma alternativa para reduzir o débito tributário do ICMS ao final de um período de apuração.
+
+CONCEITOS IMPORTANTE SOBRE O ATIVO IMOBILIZADO
+Primeiramente, vamos elencar alguns conceitos do ativo imobilizado com base no inciso IV do artigo 179 da Lei Nº 6.404/76 (Sociedades por Ações).
+
+No ativo imobilizado são classificados os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens.
+
+Já no conceito do Código de Pronunciamentos Contábeis (CPC) n° 27, é de que o ativo imobilizado é todo o ativo tangível, ou corpóreo que é mantido para uso na produção ou fornecimento de mercadorias e serviços que se espera utilizar por mais de um ano.
+
+VALOR PARA SER CONSIDERADO ATIVO IMOBILIZADO
+Conforme a Lei 12.973/2014 e o art. 2º do Decreto 1.598/1977 à partir de 2014 o valor mínimo para imobilizações passou a ser de R$ 1.200,00. Antes disso, até o ano de 2013, o valor mínimo era de R$ 326,61.
+
+É importante ressaltar que essa norma refere-se apenas para fins de apuração do imposto de renda como dedução conforme consta no art. 301 do RIR/99. Conforme a Lei poderá ser deduzido diretamente como despesa, os bens cujo prazo de vida útil seja inferior ao período de 1 ano (sem limite de valor de aquisição) ou cujo custo unitário seja inferior a R$ 1.200,00.
+
+Ressalta-se que para fins de aproveitamento de crédito do ICMS, é indiferente o valor do bem que foi adquirido, considerando as regras citadas que faça parte da atividade da empresa e que gera saídas tributadas pelo ICMS ou com manutenção do crédito o contribuinte poderá se aproveitar do crédito referente ao ativo imobilizado.
+
+REGRAS PARA O CRÉDITO DO ATIVO IMOBILIZADO
+No entanto, algumas regras para o aproveitamento de créditos do ICMS sobre o ativo imobilizado devem ser observadas ao se comprar o bem.
+
+Uma empresa pode pleitear o direito a crédito do valor do ICMS apenas quando os bens que compõem ao ativo imobilizado estejam diretamente relacionados ao seu processo de produção ou comercialização de mercadorias ou até mesmo as prestações de serviços tributadas pelo ICMS.
+
+Considerando esses conceitos podemos citar alguns exemplos onde uma empresa pode recuperar tal crédito do ICMS.
+
+ 
+EXEMPLO A: MÁQUINA PARA A INDÚSTRIA
+Uma indústria adquiriu uma máquina injetora de plástico para compor seu ativo imobilizado, para fabricação de seus produtos, ou seja nesse caso pode recuperar o crédito do ICMS tendo em vista que esse bem está interligado diretamente ao processo produtivo.
+
+ 
+Aproveitamento Crédito ICMS Ativo Imobilizado - Conteúdo
+ 
+EXEMPLO B: CRÉDITO DE ICMS PARA COMPRA DE VEÍCULO PARA TRANSPORTE DOS FUNCIONÁRIOS
+Vamos supor que essa mesma indústria adquira um veículo para transporte dos seus funcionários e sócios.
+
+Vejamos que diretamente não está interligado a sua atividade de produção e comercialização, apesar desse bem ser contabilizado no ativo imobilizado, nessa situação a indústria não poderá recuperar o crédito do ICMS sobre o ativo imobilizado.
+
+ 
+Aproveitamento Crédito ICMS Ativo Imobilizado - Conteúdo
+ 
+EXEMPLO C: CAMINHÃO DE CARGAS
+Uma transportadora adquiriu um caminhão de cargas para sua prestação de serviço de transporte. Note que nessa situação o bem do ativo está relacionado diretamente à sua utilização da atividade da empresa, então nesse caso esse bem pode ser recuperado o crédito do ICMS, desde que seja utilizado na prestação de serviço de transporte intermunicipal e interestadual, cujo ambos de regra são tributados pelo ICMS.
+
+Caso o transporte seja intramunicipal, ou seja, dentro do próprio município, esse bem do ativo não gera direito a crédito do ICMS, considerando que conforme a Lei Complementar nº 116/2003, esses tipo de transporte é fato gerador do ISS.
+
+ 
+Aproveitamento Crédito ICMS Ativo Imobilizado - Conteúdo
+ 
+CÁLCULO DO CRÉDITO DO ATIVO IMOBILIZADO
+No que tange ao cálculo do crédito do ativo imobilizado, com a publicação da Lei Complementar nº 102/2000, é efetuado de forma fracionada, ou seja, a razão de 1/48 (um, quarenta e oito avos) por mês ou outro período de apuração previsto na legislação, no cálculo abrangerá as saídas tributadas, isentas para o exterior bem como o custo do diferencial de alíquotas, na seguinte equação matemática :
+{ [ (a + b) / 48] . [ (d+ f) : c] } = valor do ICMS a ser lançado como crédito do ICMS.
+
+Onde:
+• Valor do ICMS constante do documento fiscal da aquisição do ativo;
+• Valor do ICMS correspondente ao diferencial de alíquota;
+• Valor Total de saídas ou prestações (d + e + f);
+• Valor das saídas ou prestações destinadas ao exterior;
+• Valor das saídas ou prestações isentas ou não-tributadas;
+• Valor das saídas ou prestações tributadas (c - d - e).
+
+Após ser realizado tal cálculo mensal, para fins de aproveitamento de crédito do ativo o contribuinte deverá observar a legislação interna do seu estado para verificar se terá que emitir uma nota fiscal de entrada com o CFOP 1.604 ou se o lançamento do crédito é feito diretamente em ajuste em sua apuração mensal em “Outros Créditos”.
+
+Com a obrigatoriedade para as empresas do Regime normal de apuração do arquivo EFD ICMS/IPI, a escrituração do CIAP (Controle de Crédito de ICMS do Ativo Permanente), será feito diretamente no Bloco G do arquivo EFD ICMS/IPI, e não mais de forma escritural manual.
+
+Você pode se interessar por:
+?? ICMS na importação de ativo imobilizado: como reduzir custos
+?? Serviço AFIXCODE: Levantamento de créditos do ICMS sobre ativo imobilizado (CIAP)
+
+ 
+ 
+FABRICAÇÃO DO PRÓPRIO ATIVO IMOBILIZADO
+Em algumas situações o contribuinte pode adquirir componentes para construir seu próprio ativo imobilizado, e considerando que tal será utilizado em sua atividade o contribuinte também poderá recuperar o crédito do ICMS em 1/48, mas nessa situação sua contabilidade terá que elaborar um controle interna de cada componente que está sendo utilizado para a fabricação desse bem para posteriormente cadastrá-lo de forma individual para fins de aproveitamento de crédito do ICMS.
+
+Nessa situação indicada o contribuinte deve se atentar a legislação do ICMS interna do seu Estado para verificar as normas para fins de aproveitamento do crédito do ICMS na construção do seu ativo imobilizado.
+
+ 
+
+ 
+APROVEITAMENTO DE CRÉDITO DE ICMS SOBRE IMOBILIZADO NA PRÁTICA
+Neste tópico, unimos perguntas comuns dos nossos leitores e clientes sobre o aproveitamento de crédito ICMS sobre o ativo imobilizado. Aproveite para analisar as respostas e se tiver dúvidas, por favor, envie através do campo de comentários, ficaremos felizes em te auxiliar.
+
+PERGUNTA 1: ATIVO IMOBILIZADO E CRÉDITO DE ICMS
+Pergunta: “Todos os ativos imobilizados têm crédito de ICMS?”
+
+Resposta: confira o vídeo:
+
+
+
+PERGUNTA 2: APROVEITAMENTO DE CRÉDITO ICMS EM PEÇAS DE REPOSIÇÃO
+Pergunta: “Gostaria de saber no caso de compra de peças de reposição para máquina do processo produtivo, máquina registrada no ativo imobilizado, onde essas peças sofrem desgaste frequente, Posso aproveitar do crédito de ICMS?”
+
+Primeiramente é necessário verificar se na legislação do seu Estado permite o aproveitamento do crédito do CIAP, referente às peças de reposição. Em segundo momento tem que verificar se essas peças são apenas para reposição (desgaste) ou aumentam a vida útil do bem. De fato, ao aumentar a vida útil do bem, sua empresa tem direito ao crédito do ICMS do CIAP de tal peça em 1/48.
+
+PERGUNTA 3: QUANDO APROVEITAR CRÉDITO DE ICMS
+Pergunta: “Como distinguir quando há crédito de ICMS?”
+
+Resposta: confira o vídeo:
+
+
+
+PERGUNTA 4: CRÉDITO DE CIAP NO ESTADO DE SP - SÃO PAULO
+Pergunta: “Saberia me informar se o estado de São Paulo permite o crédito de CIAP no mesmo mês da baixa do bem?”
+
+Resposta: Se o bem está em produção, ou seja, gerando atividade econômica para empresa, mesmo que seja posteriormente baixado, com base nos artigos 59 a 66 do RICMS/SP, não vemos impedimentos para tomada do crédito, pois terá que informar ao fisco na EFD a baixa do bem e também a tomada de crédito.
+
+PERGUNTA 5: APROVEITAR CRÉDITO DE ICMS PARA COMPRA DE CAMINHÃO NO ESTADO DE MG - MINAS GERAIS
+Pergunta: “Gostaria de saber o procedimento para usar o crédito de ICMS para compra de caminhão, sendo que a empresa utiliza crédito de ICMS para o transporte de café entre estados e ela é de MG - Minas Gerais. Ainda está disponível essa opção para a compra de caminhão pelo crédito acumulado de ICMS?”
+
+Resposta: Tiveram algumas alterações na parte da utilização do crédito acumulado do ICMS no Estado de Minas Gerais, mas pelo que verifiquei são passíveis sim de utilização para compra de ativos e aquisição de matérias primas desde que autorizados pelo fisco, se atentar ao Decreto Estadual nº 47.986/2020.
+
+ 
+ 
+CONSIDERAÇÕES FINAIS
+Considerando o princípio da não-cumulatividade, o contribuinte, que utilizar o crédito do ICMS em 1/48 avos do ativo imobilizado pode ser uma das alternativas que as empresas podem utilizar para equalizar sua carga tributária mensal referente ao ICMS , desde que seja feito um planejamento tributário pela empresa, observando-se as hipóteses e estratégias para se aproveitar de crédito do ICMS e gerando uma melhor rotatividade no fluxo financeiro da empresa.
+
+Bibliografia
+Lei n° 6.404/1976
+Lei Complementar nº 87/1996
+Lei Complementar nº 102/2000
+Código Tributário Nacional
+NBC TG 27 (R3)
+Manual do arquivo EFD ICMS/IPI , Versão 2.0.22
+BORGES, Humberto Bonavides. Gerência de impostos: IPI, ICMS e ISS. 2 ed. São Paulo: Atlas, 1998
+CARRAZZA, Roque Antônio. Curso de Direito Constitucional Tributário. 8 ed. rev. e ampl. São Paulo: Malheiros, 1996
+ 
+ 
+
+27 de setembro de 2018 às 10:16
+PARABÉNS AO ARTIGO PUBLICADO,UMA VEZ QUE O ASSUNTO É DE GRANDE RELEVÂNCIA AO CONHECIMENTO DE QUALQUER PESSOA.
+
+Responder
+Fernando BentoFernando Bento disse:
+27 de setembro de 2018 às 15:02
+Obrigado Rodolfo pelo elogio.
+
+Responder
+Talita Marques disse:
+27 de setembro de 2018 às 14:06
+Olá Fernando , primeiramente gostaria de agradecer sobre seu artigo, muito bom!
+
+Se fosse possível, gostaria de compreender um pouco mais sobre o cálculo do ICMS do ativo imobilizado, já que foi apresentada a fórmula: “{ [ (a + b) / 48] . [ (d+ f) : c] } = valor do ICMS a ser lançado como crédito do ICMS”
+
+Me parece que “a” corresponde = Valor do ICMS constante do documento fiscal da aquisição do ativo;
+“b” = Valor do ICMS correspondente ao diferencial de alíquota;
+“d” , “f” = Valor Total de saídas ou prestações (d + e + f); todavia professor, não identifiquei a letra “e” na expressão matemática, e não consegui entender o que representa a letra “c”.
+
+Desde já agradeço sua atenção.
+
+Abraços.
+
+Responder
+Fernando BentoFernando Bento disse:
+27 de setembro de 2018 às 15:02
+Ola Talita Boa Tarde.
+Então respondendo ao seu questionamento essa formula, está na Decisão Normativa CAT 001/2001, sinceramente eu também acho uma equação bem confusa, mas nesse exemplo abaixo resumi a formula da SEFAZ/SP para melhor entender vejamos :
+
+De acordo com nota 2 do item 3.3 da Decisão Normativa CAT n° 01/2001, menciona-se um exemplo de cálculo do imposto a ser creditado mensalmente pelo contribuinte paulista ao adquirir um bem para compor seu ativo imobilizado:
+
+Descrição da operação
+
+Valores (R$)
+
+a) valor do ICMS constante do documento fiscal
+
+1.200,00
+
+b) valor do ICMS correspondente ao diferencial de alíquota
+
+600,00
+
+c) valor Total de saídas ou prestações (d + e + f)
+
+20.000,00
+
+d) valor das saídas ou prestações destinadas ao exterior
+
+2.000,00
+
+e) valor das saídas ou prestações isentas ou não-tributadas
+
+5.000,00
+
+f) valor das saídas ou prestações tributadas (c – d – e)
+
+13.000,00
+
+g) cálculo do valor a que tem direito o contribuinte a título de crédito do ICMS relativo à entrada ou aquisição de ativo permanente, conforme a seguinte sugestão de equação matemática.
+
+{ [ (a + b) / 48] . [ (d+ f) : c] } = valor do ICMS a ser lançado como crédito no RAICMS
+
+Então, à vista dessa equação matemática, têm-se o valor de R$ 28,12 a ser lançado diretamente no livro Registro de Apuração do ICMS – RAICMS no item “Outros Créditos”, com fundamento no que dispõe o artigo 61, § 10, do RICMS, conforme segue
+
+{ [ (R$ 600,00 + R$ 1.200,00) / 48] . [ (R$ 2.000,00 + R$ 13.000,00) : R$ 20.000,00] } =
+
+= {R$ 37,50 . [ R$ 15.000,00 : R$ 20.000,00] } = = {R$ 37,50 . 0,75} = R$ 28,12
+
+O valor do crédito a ser apropriado pelo contribuinte paulista neste período de apuração referente ao ativo imobilizado será de R$ 28,12.
+
+De Regra tal formula poderá ser simplificada pela seguinte equação:
+
+Fator = [(B + C)]/ E x 1/48.
+
+Descrição da operação
+
+Valores (R$)
+
+A1) valor do ICMS constante do documento fiscal
+
+R$ 1.200,00
+
+A2) valor do ICMS correspondente ao diferencial de alíquota
+
+R$ 600,00
+
+Total do valor do ICMS aquisição A
+
+R$ 1.800,00
+
+b) valor das saídas ou prestações tributadas
+
+R$ 13.000,00
+
+c) valor das saídas ou prestações destinadas ao exterior
+
+R$ 2.000,00
+
+d) valor das saídas ou prestações isentas ou não-tributadas
+
+R$ 5.000,00
+
+Total das saídas (B+C+D)
+
+R$ 20.000,00
+
+Onde: “B” correspondente a saídas tributadas, “C” às saídas com exportação, e “E” às saídas totais
+
+Fator = R$ 13.000,00 + R$ 2.000,00 x 1/48 =
+
+R$ 20.000
+
+Fator = R$ 15.000,00 x 1/48 =
+
+R$ 20.000,00
+
+Fator = 0,75 x 1/48
+
+Fator = 0,015625
+
+Para o cálculo do valor do crédito será o resultado do fator multiplicador pelo valor do ICMS destacado no documento fiscal. Desta forma teremos:
+
+Cálculo do valor do crédito = Fator x A
+
+Crédito = 0,015625 x R$ 1.800,00
+
+Crédito = R$ 28,12
+
+Caso ainda tiver eventual duvida pode me contactar diretamente no email
+
+Responder
+Luiz Fernando disse:
+29 de março de 2019 às 11:49
+Boa tarde Fernando,
+
+Gostei muito do seu artigo, está de parabéns!
+
+O credito de ICMS sobre compra de ativo imobilizado de CAMERAS SEGURANÇA (INDUSTRIA), NOBREAK…posso me creditar do ICMS destacado na NF? Se sim, pelo total ou fracionado?
+
+Luiz Fernando
+
+Responder
+Fernando BentoFernando Bento disse:
+1 de abril de 2019 às 11:26
+Bom Dia Luiz Fernando
+Referente há hipótese de crédito em parcela unica ou em até 1/48 avos
+o que sua empresa tem que analisar se esses equipamentos fazer parte do processo produtivo ou de prestação de serviço da empresa, que geram tributação do ICMS, ou seja que são essencial para gerar as atividades principal da empresa venda ou serviços que sejam tributados pelo ICMS.
+Caso não se enquadre nessa situação apesar de ser contabilidade como ativo imobilizado o contribuinte não poderá recuperar o crédito do ICMS.
+
+Responder
+Everton disse:
+2 de maio de 2019 às 10:39
+Bom dia, Excelente texto. Muito detalhado. Parabéns. Sou um pouco leigo no assunto. Mas trabalho com um produtor rural que adquiriu varias maquinas de outro estado. Após alguns anos a SEFAZ/MA cobrou a diferença de ICMS, pois a contabilidade não nos informou do recolhimento desses valores. Nesse caso posso aproveitar o ICMS dessas compras? Se sim, de qual forma?
+
+Responder
+Fernando BentoFernando Bento disse:
+2 de maio de 2019 às 12:35
+Boa Tarde Everton
+A SEFAZ/MA disciplinou os critérios para o credenciamento para utilização do benefício de conta-gráfica concedido aos produtores rurais enquadrados no regime de antecipação tributária de acordo com os produtos primários listados no art. 64-A do RICMS-MA. Se formos considerar que o produtor rural tem inscrição estadual e entrega as obrigações acessórias como a EFD ICMS/IPI se for o caso e nessa situação poderá se creditar do ICMS em 1/48 avos considerando que esses bens façam parte do seu ativo imobilizado e ligado diretamente a sua atividade.
+
+Responder
+Elaine disse:
+10 de maio de 2019 às 10:48
+Trabalho em uma contabilidade e uma empresa comprou um ativo que tem relação com a atividade da empresa. Teve um crédito de ICMS desse ativo no valor de 1020,00 e dividido em 48 ficaria 21,25 de crédito mensal. Mas essa empresa não vende com ICMS pois o produto dela é isento. Mesmo assim posso usar esse crédito mensal? Faço o ajuste no sistema? Quando gero o arquivo SPED esse valor sai duplicado.. mas se eu excluir o ajuste não sai esse valor no demonstrativo da DIME. Pode me ajudar?
+
+Responder
+Fernando BentoFernando Bento disse:
+17 de maio de 2019 às 09:36
+Boa Tarde Elaine
+Considerando que seu produto tem isenção do ICMS,primeiramente terá que verificar se a legislação permite a manutenção do crédito ou não. Caso permitir não há necessidade de fazer estorno na apuração mensal.
+Na situação em que a legislação não permita tal manutenção do crédito, pode ser feitas duas situações no cálculo do CIAP.
+1 – Não considerar essas saídas onde está o fator “isentas ou não tributadas”, assim não há nenhum ajuste a ser feito em sua apuração mensal.
+2 – Considerar o valor de todas as saídas, e fazer o estorno proporcional do crédito na apuração, ou seja no Registro E111 do arquivo EFD ICMS/IPI lançaria um ajuste a título de estorno de crédito e na DIME seria no campo do Item 050, conforme prevê a PORTARIA SEF N° 153, DE 27 DE MARÇO DE 2012.
+
+FERNANDO BENTO
+Consultor Fiscal/Tributário
+Email: fernandoslv@hotmail.com
+Facebook: Fernando Bento
+Instagram: Fernando_Bento83
+Linkedin: Fernando Bento
+Twitter : Fernando_bento8 – twitter.com/Fernando_Bento8
+
+Responder
+Yuri Teichert disse:
+9 de julho de 2019 às 15:01
+Boa tarde Fernando, tudo bem?
+
+Em relação a uma empresa do regime normal que adquire um bem para o ativo imobilizado (chão de fábrica), porém o emitente da nota é uma empresa optante pelo Simples Nacional.
+
+Meu cliente pode se aproveitar do crédito informado em “Dados Adicionais”, onde trata sobre o aproveitamento do crédito?
+
+Ou apenas quando o emitente for regime normal também que irá transferir o crédito?
+
+Obrigado!
+
+Responder
+Fernando BentoFernando Bento disse:
+23 de julho de 2019 às 12:01
+Boa Tarde Yuri
+No que tange a situação em que o contribuinte do Simples Nacional, seja o vendedor do bem destinado ao ativo imobilizado do adquirente, conforme prevê o § 1° do artigo 58 da Resolução CGSN nº 140/2018, os contribuintes do Simples Nacional, em regra, somente poderão repassar o crédito do ICMS aos contribuintes do Regime Periódico de Apuração, desde que as mercadorias adquiridas sejam destinadas à comercialização ou industrialização, ou seja, em uma situação que contribuinte do Simples Nacional efetuar a venda de uma mercadoria na qual a destinação pelo o adquirente seja para ativo imobilizado do contribuinte, o repasse do crédito do ICMS não poderá ser mencionado na nota fiscal.
+
+Caso tenha recebido essa nota fiscal já estar mencionada no documento fiscal de forma indevida, o remetente deverá inutilizar ou cancelar a nota fiscal e o destinatário efetuar o eventual estorno do crédito , caso tenha se apropriado, sem prejuízo de eventuais sanções ao Contribuinte do Simples Nacional, de acordo com o parágrafo único do artigo 62 da Resolução CGSN n° 140/2018.
+
+Nesse caso para se aproveitar diretamente de 1/48 avos, teria que comprar de uma empresa do Regime Normal de Apuração.
+Existe uma hipótese de quando se compra mercadoria de um Simples Nacional, para se creditar do ICMS próprio para o ativo, mas é quando recebe uma mercadoria com substituição tributária ou seja no CFOP 5.405 e de regra a legislação interna do seu Estado permite recuperar o crédito considerando que essa mercadoria não será destinada a comercialização.
+
+Dúvidas estou a disposição
+
+Responder
+Fagner Ronaldo Silva Lima disse:
+18 de julho de 2019 às 15:16
+Fernando, muito bom seus comentários, na verdade uma aula.
+
+Tenho uma dúvida, posso tomar crédito do icms em ativos inferior ao valor de 1200rs? exemplo: peças que compõe um compressor, portão automático, entre outros?
+
+Responder
+Fernando BentoFernando Bento disse:
+23 de julho de 2019 às 12:22
+Boa Tarde Fagner
+Referente ao valor de R$ 1.200,00, isso não interfere para aproveitamento do crédito do ativo.
+Em regra se considerar esse bem em sua contabilidade como ativo e faça parte do seu processo de produção ou prestação de serviço que gere saídas tributadas pelo ICMS, poderá perfeitamente aproveitar do crédito do ICMS em 1/48 avos.
+Com base na Resposta Consulta SEFAZ/SP 3647/2014 , o entendimento que com base no artigo 319 do Regulamento do Imposto de Renda faculta, aos contribuintes, contabilizar as compras de ativo imobilizado de valores inferiores ao limite ali estabelecido (R$ 1.200,00), diretamente no resultado.
+Essa opção permite ao contribuinte escolher se prefere manter controle sobre itens de “valores menores”, ou simplesmente reconhecer diretamente no resultado essas compras, e evitar controles desnecessários sobre itens que possam ser considerados menos relevantes.
+
+Entretanto, ao fazer sua opção, é importante que o contribuinte seja coerente. A decisão tomada deve embasar tanto a sua contabilidade, quanto seus livros fiscais, seja sob as normas federais, estaduais ou municipais. Ao optar contabilizar no resultado a compra de bem de imobilizado de valor reduzido, a empresa terá o benefício de abater o valor desse item como despesa para fins de imposto de renda, mas não terá o benefício referente ao crédito, tomado a proporção de 1/48 do ICMS, incidente na aquisição.
+
+Por outro lado, caso opte por classificá-lo como ativo imobilizado, precisará manter o controle desse bem para fins contábeis e respectivo crédito de ICMS. Porém, somente abaterá essa despesa, para fins de Imposto de Renda, com a depreciação desse item.
+
+A decisão na forma de contabilizar o item deve ser levada em consideração na hora da escolha do CFOP para a escrituração referente à entrada da Nota Fiscal de compra. Se o item for contabilizado no imobilizado, deverá ser utilizado o CFOP 1551 (compra de bem para o ativo imobilizado). Se o item for reconhecido diretamente no resultado, o CFOP a ser usado é o 1556 (compra de material para uso ou consumo).
+
+Dúvidas Estou a disposição
+
+Responder
+Nilto Bezerra disse:
+13 de agosto de 2019 às 07:05
+Bom dia – parabéns muito bom o trabalho apresentado
+
+Gostaria de saber se os materiais de construção (Aço, cimento etc) que sejam adquiridos para levantar um prédio focando ampliação da Unidade Industrial também podem ser considerados Ativos Imobilizados para fins de lançamento no CIAP e respectivo crédito de ICMS.
+
+Obrigado
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:59
+Boa Tarde Nilton
+Nesse caso terá que verificar a legislação interna do seu Estado se há algum posicionamento sobre tal situação
+Mas ja lhe adiante que a maioria reconhece como ativo imobilizado, mas não permite o aproveitamento do crédito do CIAP em função de não há como quantificar se todos esses ativos estão ligados a parte produtiva da empresa.
+
+Responder
+Simone Caduda disse:
+19 de agosto de 2019 às 15:11
+Boa tarde, parabéns pelo artigo, muito bom mesmo. Vim aqui em busca de uma resposta, poderia me ajudar?
+
+Fizemos um levantamento dos crédito de ICMS de ativos adquiridos no período de jan/2015 a jun/2015. Sabemos que temos 5 anos para reaver esse crédito, porém já se exauriram os 48 avos. Entendo que vamos tomar, de forma extemporânea, o valor do crédito integral. Minha dúvida está no preenchimento do BLOCO G, mais especificamente o registro G125:
+
+-Qual será o tipo de movimento?
+-Qual será o número da parcela?
+
+Grata,
+
+Simone Caduda
+
+Responder
+Fernando BentoFernando Bento disse:
+20 de agosto de 2019 às 12:13
+Ola Simone
+Considerando que irá fazer esse crédito de maneira extemporânea, o contribuinte deve preencher os Registros Específicos G110/125 do Bloco G, para informar cada parcela de crédito, ou seja nesse caso deve ser preenchido de forma individual
+Caso seja uma aquisição G125 – IM – Imobilização de bem individual
+Ressalta-se que no Registro G126 (Outros créditos CIAP), o contribuinte deverá discriminar os demais valores a serem apropriados como créditos de ICMS de ativo imobilizado que não foram escriturados nos períodos anteriores.
+
+Responder
+Priscila disse:
+4 de setembro de 2019 às 16:06
+Boa tarde
+Primeiramente gostaria te parabenizar pelo artigo, muito bem elaborado.
+E aproveitando poderia me esclarecer uma dúvida?? Temos algumas filiais que não efetuam venda, como depósito, a matriz, o crédito do CIAP dessas unidades, eu poderia esta aproveitando em outras filiais???
+Agradeço desde já
+
+Obrigada
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:57
+Boa Tarde Priscila
+A duas situações nesse caso
+Se tiver crédito acumulado em sua apuração pode transferir para suas filiais através de notas fiscais para pagamento de débito do ICMS ou mesmo adquirir produtos.
+Caso queira transferir um ativo imobilizado para sua filial, pode transferir as parcelas restante, como me disse não efetuam venda, mas por exemplo se transferir uma máquina empilhadeira, esse é essencial para o deposito realizar as atividades e pode tomar o restante das parcelas do crédito em sua filia.
+
+Responder
+Jair Lacerda disse:
+25 de setembro de 2019 às 16:23
+Fernando, boa tarde !
+Somos do estado de SP , e acabei de abrir uma filiar no estado do ES, onde faremos nossas operacoes comerciais todas por lá; mas temos um bom credito de ICMS , existe alguma forma de utiliza-lo para compra de imóvel, construção ou qualquer outro tipo de bem (automoveis, etc) para a empresa ???
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:53
+Jair Boa tarde
+O Crédito do ICMS em regra é estadual somente pode ser utilizado dentro do próprio estado de acordo com a legislação
+Pelo que verifiquei na legislação do Estado do Espirito Santo se tiver uma empresa com crédito acumulado do ICMS, desde que autorizado pelo fisco, pode ser utilizado para ”
+1 – desenvolvimento de projeto de investimento produtivo, de relevante interesse social e econômico, pelo contribuinte detentor dos créditos.
+
+2 – aquisição de máquinas ou equipamentos utilizados em processo industrial, quando o detentor ou o destinatário vier a se instalar no Estado do Espírito Santo ou expandir aqui sua capacidade produtiva mediante investimento em ativo imobilizado; e
+
+3 – aquisição de caminhões ou de chassi com motor, novos, efetuada por estabelecimento prestador de serviço de transporte de bem, mercadoria ou valor, para utilização no exercício de sua atividade, desde que os veículos sejam emplacados no Estado do Espírito Santo.
+
+Responder
+Kátia Adriana disse:
+26 de setembro de 2019 às 17:23
+Parabéns pelo artigo!
+Você deu vários exemplos da industria e serviços…. para mim ficaram bastante elucidativos e de fácil entendimento. Para comércio, poderia comentar?
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:48
+Boa Tarde Kátia
+De fato um comércio também teria direito ao crédito do ICMS, citamos alguns exemplos para verificar se seria algo parecido com sua situação.
+Supermercado – Câmeras Frias para guardar congelados.
+Comércio em Geral – As impressoras de cupom fiscal e de NFC-e, ou um veículo de entrega de mercadorias.
+Se formos considerar esses ativos são essências para atividade de comercialização das empresas e pode ser tomado o crédito CIAP.
+At.
+
+Responder
+Roseval Travassos disse:
+11 de novembro de 2019 às 10:50
+Fernando boa tarde !
+
+Parabéns pelas aulas dadas aqui rsrs..Tenho uma duvida de em que momento toma o credito para determinado estado. Sei que para SP , toma – se o credito no mês subsequente. Minha duvida e para o estado do RS. Não consegui localiza essa regra.
+
+Mais uma vez meus parabéns e grato pela atenção
+
+Roseval
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:45
+Roseval, Boa Tarde, tudo bem?
+pesquisei na legislação mas não menciona o momento da tomada do crédito
+mas se formos considerar que o bem necessita para o cálculo do CIAP tenhamos saídas tributadas isentas
+é irrelevante o fato de quando o mês entra no estabelecimento, mas vai começar a contabilização do crédito do ICMS, a partir de fato eles esteja gerando atividades de produção e comercialização para empresa.
+at.
+
+Responder
+Elza disse:
+8 de dezembro de 2019 às 11:07
+Bom dia , gostaria de saber o seguinte , foi feito uma reforma num supermercado , layout todo mudado , móveis novos e acabamentos em paredes e colunas com MDF , a marcenaria está no lucro presumido , o supermercado vai poder se beneficiar do crédito do ICMS?
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:38
+Boa Tarde Elza
+depende da legislação do seu Estado
+exemplo o Estado de São Paulo, somente permite crédito desde que esse bens do ativo estejam ligados diretamente ao setor de comercialização e produtivo da empresa.
+Mas pode haver situação como em respostas consultas que o Estado entende que esses bem não podem ser quantificada na parte diretamente de comercialização e produtivo que gera crédito e demais setores que de fato não gera crédito do ICMS.
+
+Responder
+Wellington Souza disse:
+7 de janeiro de 2020 às 13:36
+Boa tarde Fernando, tudo bem?
+
+Gostaria de saber no caso de compra de peças de reposição para maquina do processo produtivo, maquina registrada no ativo imobilizado, onde essas peças sofrem desgaste frequente, Posso aproveitar do crédito de ICMS?
+
+Desde já agradeço pela atenção e também pela dedicação!
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:36
+Wellington, Boa Tarde, Tudo Bem?
+Primeiramente tem que verificar se na legislação do seu Estado permite o aproveitamento do crédito do CIAP, referente as peças de reposição
+Em segundo momento tem que verificar se essas peças são apenas para reposição (desgaste) ou aumentam a vida útil do bem?
+De fato aumentar a vida útil do bem sua empresa tem direito ao crédito do ICMS do CIAP de tal peça em 1/48.
+
+Responder
+PAULO SÉRGIO disse:
+27 de fevereiro de 2020 às 15:51
+Boa tarde,
+
+Excelente artigo, no entanto, gostaria de saber o procedimento para usar o CRÉDITO DE ICMS para compra de caminhão, sendo que a empresa utiliza crédito de icms pro transporte de café entre estados, a empresa é de minas gerais, ainda está disponível essa opção para a compra de caminhão pelo crédito acumulado de icms?
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:33
+Boa Tarde Paulo Sérgio
+houve algumas alterações na parte da utilização do crédito acumulado do ICMS no Estado de Minas Gerais
+mas pelo que verifiquei são passíveis sim de utilização para compra de ativos e aquisição de matérias primas desde que autorizados pelo fisco, se atentar ao Decreto Estadual nº 47.986/2020.
+
+Responder
+claudinei disse:
+18 de março de 2020 às 15:44
+Boa tarde
+Fernando
+Parabéns pelo artigo
+Poderia tirar uma duvida.
+Gostaria de um esclarecimento quanto ao credito de ICMS de 1/48 anos no ativo imobilizado.
+Quando uma empresa adquire um bem novo destinado ao seu ativo imobilizado, a situações de acordo com a legislação do ICMS em que se pode recuperar o crédito do ICMS.
+Caso tenha um bem em meu ativo imobilizado, que esta sendo depreciado, e este bem ira passar por uma modificação na qual aumente a sua vida útil, é permito tomar credito de ICMS referente ao valor das peças que utilizamos neste modificação?
+E se o bem estiver totalmente depreciado, também é permitido?
+Teria um embasamento legal para isso?
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:28
+Boa Tarde Claudinei , tudo bem?
+Então referente ao bem ta depreciado ou não isso não interfere na tomada do crédito do CIAP, ou seja se está no prazo de 48 meses pode efetuar a tomada do crédito desde que esteja em produção e gerando saídas tributadas pelo ICMS ou que permite a manutenção do crédito.
+Não são todos os Estados que permite o aproveitamento das peças que aumentam a vida útil do bem, mas caso na legislação interna permitir caso adquirir por exemplo uma peça de manutenção que é considerando essencial para o funcional do ativo, inicia-se uma nova tomada do crédito do ICMS 1/48 Avos com base no valor da peça
+at.
+
+Responder
+MAGALI DUARTE SOUZA disse:
+28 de agosto de 2020 às 20:34
+Boa noite, saberia me informar se o estado de são Paulo permite o crédito de ciap no mesmo mês da baixa do bem?
+
+Responder
+Fernando BentoFernando Bento disse:
+14 de setembro de 2020 às 16:24
+Boa Tarde Magali, tudo Bem ?
+Se o bem está em produção ou seja gerando atividade econômica para empresa, mesmo que seja posteriormente baixado, com base no artigos 59 a 66 do RICMS/SP, não vemos impedimentos para tomada do crédito.
+Pois terá que informar ao fisco na EFD a baixa do bem e também a tomada do crédito.

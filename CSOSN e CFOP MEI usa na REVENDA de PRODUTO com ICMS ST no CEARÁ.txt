@@ -1,0 +1,31 @@
+Qual CSOSN E CFOP o MEI deve usar para Produto com ST no Ceará
+
+Pessoal, é o seguinte. Sou MEI do Ceará e tenho distribuidor de São Paulo e os produtos possuem substituição tributária aqui no estado. Após a mercadoria chegar no estado, a Sefaz gera uma DAE com o código 1031 - ICMS SUBST. ENT. INTERESTADUAL. Fazemos o pagamento e recolhimento do imposto. No meu entendimento, o MEI se torna substituído, correto?
+Então, em caso de vendas para consumidor final fora do estado eu devo utilizar o CFOP 6404 ou 6108??
+E para vendas para consumidor final dentro do estado eu devo utilizar o CFOP 5405, correto?
+O CSOSN usado para ambas deve ser o 500, correto?
+
+
+
+1) No meu entendimento, o MEI se torna substituído, correto?
+RESP. Caso o fornecedor tenha retido o ICMS, ficado na responsabilidade de repassar ao Ceará o ICMS ST, então, sem dúvidas, é um substituído.
+
+2) Então, em caso de vendas para consumidor final fora do estado eu devo utilizar o CFOP 6404 ou 6108?
+RESP. No Ceará, o MEI não é obrigado a emitir documento fiscal eletrônico, nas vendas interestaduais o Ceará autoriza a emissão de nota fiscal avulsa (ver artigo 1º, VII, Decreto nº 32.488/2018).
+O MEI não está obrigado a emitir documento eletrônico, mas não é impedido, ou seja, caso requeira o Fisco cearense poderá autorizar (ver artigo 731-O, parágrafo único, Decreto nº 24.569/1997).
+Caso tenha autorização para emissão, então, o CFOP 6.404 somente é utilizado para quem é substituto tributário e como você disse que é MEI, não pode utilizar o CFOP, pois substituto tributário é o responsável para repassar o ICMS ao outro Estado e MEI não pode ser responsável por esse ICMS (ver artigo 103, V, Resolução do CGSN nº 140/2018). No mais, como se trata de um consumidor final no outro Estado nem mesmo se fala em ICMS ST, afinal, a mercadoria não está destinada a ser revendida pelo novo adquirente no outro Estado.
+Portanto, o CFOP correto é o 6.108, lembrando que quaisquer operações de venda destinadas a não contribuintes deverão ser classificadas neste código.
+
+3) E para vendas para consumidor final dentro do estado eu devo utilizar o CFOP 5405, correto?
+RESP. Caso tenha autorização (ver comentário anterior), como é uma venda para consumidor final, deverá emitir o CF-e e em possível problemas do CF-e é que se emitirá a NFC-e. Ver caput do artigo 1º da Instrução Normativa nº 10/2017 e artigo 27 do Decreto nº 31.922/2016.
+Portanto, não deve existir a preocupação com CFOP nas operações internas porque não está obrigado a emitir documento eletrônico e mesmo que emitisse seria o CF-e.
+
+4) O CSOSN usado para ambas deve ser o 500, correto?
+
+RESP. Como dito, o MEI não está obrigado a emitir documento eletrônico, logo, não cabe falar em CSOSN que é utilizado na NF-e. Não se pode esquecer o que diz o artigo 731-O, I e II, Decreto nº 24.569/1997 (RICMS/CE):
+
+"Art. 731-O. O MEI ficará dispensado da emissão de documento fiscal, conforme resolução CGSN, nas seguintes hipóteses:
+I - quando realizar operações ou prestações de serviço destinadas a consumidor final pessoa física;
+II - quando realizar operações destinadas à pessoa jurídica que emita nota fiscal para documentar a
+entrada da mercadoria em seu estabelecimento".
+
